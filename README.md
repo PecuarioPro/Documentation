@@ -132,9 +132,9 @@ Ciclo 2024-01 | Sección
     <li>4.4.3. Web Applications User Flow Diagrams.</li>
 </ul>
 
-<ul>
-    <li>4.5. Web Applications Prototyping.</li>
-</ul>
+
+<h3>4.5. Web Applications Prototyping.</h3>
+
 
 <h3>4.6. Domain-Driven Software Architecture.</h3>
 <ul>
