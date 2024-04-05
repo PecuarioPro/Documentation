@@ -112,40 +112,10 @@ Ciclo 2024-01 | Sección
 <h3>4.2. Information Architecture.</h3>
 <ul>
     <li>4.2.1. Organization Systems.</li>
-     <ul>
-    En esta sección, definiremos los sistemas de organización que guiarán la estructura y el flujo de información en el proyecto PecuarioPro.
-    <li>- •	Jerarquía de contenido: Organizaremos el contenido en una estructura jerárquica clara, con secciones principales y subsecciones relacionadas con la gestión ganadera.</li>
-    <li>- •	Categorización: Los elementos de contenido se agruparán en categorías lógicas relacionadas con la salud animal, la alimentación, la reproducción y la gestión de la granja.</li>
-    <li>- •	Taxonomía:  Implementaremos una taxonomía sólida para etiquetar y clasificar el contenido de manera efectiva, mejorando la capacidad de búsqueda y gestión.</li>
-     </ul>
     <li>4.2.2. Labeling Systems.</li>
-    <ul>
-    En esta sección, describiremos los sistemas de etiquetado utilizados para nombrar y describir elementos dentro del proyecto PecuarioPro.
-    <li>- •	Nombres de página: Cada página de la aplicación web tendrá un nombre descriptivo que refleje su contenido, centrándose en la gestión ganadera.</li>
-    <li>- •	Etiquetas de menú: Selección cuidadosa de etiquetas de menú para representar con precisión las diferentes herramientas y funciones de PeruarioPro.</li>
-    <li>- •	Etiquetas de contenido: Etiquetado de elementos de contenido con palabras clave relevantes y descripciones breves relacionadas con la gestión eficiente y sostenibles del ganado.</li>
-    </ul>
     <li>4.2.3. SEO Tags and Meta Tags</li>
-    <ul>
-    En esta sección, se detallarán las etiquetas de Seo Y metaetiquetas que se utilizarán para mejorar la visibilidad del proyecto PecuarioPro en los motores de búsqueda.
-    <li>- •	Etiquetas de título: Creación de etiquetas de título únicas y descriptivas para cada herramienta y sección de PecuarioPro, incluyendo palabras clave relevantes.</li>
-    <li>- •	Meta descripciones: Desarrollo de meta descripciones atractivas y concisas que resuman la funcionalidad de cada herramienta, fomentando la interacción con los usuarios.</li>
-    <li>- •	Etiquetas de encabezado: Uso adecuado de etiquetas de encabezado para estructurar el contenido y mejorar la gestión ganadera que ofrece la aplicación.</li>
-    <li>- •	Meta etiquetas de palabras clave: Asignación de meta etiquetas de palabras clave para indicar los temas clave que aborda PecuarioPro, mejorando la indexación en motores de búsqueda.</li>
-    </ul>
     <li>4.2.4. Searching Systems.</li>
-    <ul>
-    En esta sección, se describirán los sistemas de búsqueda que permitirán a los usuarios encontrar información eficiente en el proyecto PecuarioPro.
-    <li>- •	Motor de búsqueda interna: Implementación de un motor de búsqueda interno que permita a los usuarios encontrar información específica sobre la salud, alimentación, reproducción y gestión de su ganado.</li>
-    <li>- •	Filtros de búsqueda: Ofrecimiento de filtros de búsqueda avanzados para permitir a los usuarios refinar los resultados según diferentes criterios, como especie animal, estado de salud o tipo de alimentación.</li>
-    </ul>
     <li>4.2.5. Navigation Systems.</li>
-    <ul>
-    En esta sección, se detallarán los sistemas de navegación que guiarán a los usuarios a través del proyecto PecuarioPro de manera intuitiva.
-    <li>- •	Menú de navegación: Mantenimiento de un menú de navegación claro y accesible en todas las páginas de aplicación, facilitando el acceso a las herramientas y secciones principales relacionadas con la gestión ganadera.</li>
-    <li>- •	Breadcumbs: Implementación de breadcrumbs en las páginas para mostrar la ubicación del usuario dentro de la estructura de la plataforma y facilitar la navegación de regreso.</li>
-    <li>- •	Enlaces relacionados: Provisión de enlaces relacionados en cada herramienta y sección para guiar a los usuarios a contenido relevante y promover una gestión ganadera más eficiente y sostenible.</li>
-    </ul>
 </ul>
 
 <h3>4.3. Landing Page UI Design.</h3>
@@ -196,3 +166,9 @@ Ciclo 2024-01 | Sección
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción del Startup
+
+
+
+
+
+
