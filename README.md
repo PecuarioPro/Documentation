@@ -18,7 +18,7 @@ PecuarioPro
 -
 - Rojas Velasquez, Maycol Jhordan | U202219984
 - Cantoral Sedamano, Alexander Alberto | U20181B152
--
+- Soriano Medrano, Diego | U202114793
 
 Ciclo 2024-01 | Sección 
 
