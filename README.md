@@ -15,7 +15,7 @@ PecuarioPro
 
 **Team Members:**
 
--
+- Casaverde De La Cruz, Ernesto David | u20221b657
 - Rojas Velasquez, Maycol Jhordan | U202219984
 - Cantoral Sedamano, Alexander Alberto | U20181B152
 - Soriano Medrano, Diego | U202114793
