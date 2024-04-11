@@ -216,7 +216,9 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 e.- *Cantoral Sedamano, Alexander Alberto - U20181B152*
 Ingeniería de software
 Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Conocimientos básicos de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
-![Foto integrante U202213070](./assets/foto alexander[797].jpg)
+
+![Foto integrante U20181b152](./assets/foto_alexander[797].jpg)
+
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
 ### 1.2.2 Lean UX Process.
