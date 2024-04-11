@@ -277,7 +277,9 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 ### 2.1.1. Análisis competitivo.
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
+Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
 ### 2.2.1. Diseño de entrevistas.
+
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
@@ -459,7 +461,12 @@ El tono de comunicación y lenguaje ideal para PecuarioPro, nuestra plataforma d
 
 ### 4.1.2. Web Style Guidelines.
 Nuestro enfoque en las "Web Style Guidelines" se centra en la creación de una experiencia de usuario consistente y atractiva en entornos de navegación web. Esto implica el uso de una paleta de colores cohesiva, tipografía legible y un diseño responsivo que se adapte a una variedad de dispositivos y tamaños de pantalla. 
-![principal web](./assets/PecuarioPro_page-principal.jpg    )
+![principal web](./assets/PecuarioPro_page-principal.jpg)
+
+**En español:**
+
+![principal web esp ](./assets/MAIN-esp.jpg)
+
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
@@ -469,7 +476,60 @@ Nuestro enfoque en las "Web Style Guidelines" se centra en la creación de una e
 ### 4.2.5. Navigation Systems.
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
+<BR>
+
+**WIRE FRAME DE SOBRE NOSOTROS:**
+<BR>
+
+![principal web esp ](./assets/Wireframe-%20nsotros.jpg)
+BR>
+
+**WIRE FRAME DE COMO FUNCIONA:**
+<BR>
+
+![principal web esp ](./assets/wireframe%20fuctions.jpg)
+BR>
+
+**WIRE FRAME DE PLANES:**
+<BR>
+
+![principal web esp ](./assets/Plans%20Wireframe.jpg)
+BR>
+
+**WIRE FRAME DE CONTACTANOS:**
+<BR>
+
+![principal web esp ](./assets/wireframe-contact.jpg)
+
+<BR>
+
 ### 4.3.2. Landing Page Mock-up.
+
+**Mock-up DE SOBRE NOSOTROS:**
+<BR>
+
+![principal web esp ](./assets/nostros.jpg)
+BR>
+
+**Mock-up DE COMO FUNCIONA:**
+<BR>
+
+![principal web esp ](./assets/funciones.jpg)
+BR>
+
+**Mock-up DE PLANES:**
+<BR>
+
+![principal web esp ](./assets/planes.jpg)
+BR>
+
+**Mock-up DE CONTACTANOS:**
+<BR>
+
+![principal web esp ](./assets/contactanos.jpg)
+
+<BR>
+
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 ### 4.4.2. Web Applications Wireflow Diagrams.
