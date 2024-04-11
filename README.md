@@ -221,7 +221,8 @@ Pecuario Pro
 Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python  y SQL server. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.
 
 
-![Foto integrante U202219984](./assets/Foto-frente-M.jpg)
+
+<img src="./assets/Foto-frente-M.jpg" alt="perfil-image" width="250" height="250">
 
 **Vásquez Villalobos Elverth Jair - U202213070**
 
