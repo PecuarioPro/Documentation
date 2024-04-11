@@ -252,9 +252,40 @@ __How much / Cuánto:__  El costo del desarrollo de la aplicación dependería d
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements
+
+__Problem statement 1:__  Como ganadero o productor pecuario necesito una solución para gestionar mis animales de manera eficiente, ya que actualmente dependo de una organización manual no muy eficiente para recopilar y rastrear información importante sobre mis animales, mi negocio y mi trabajo. Esto afectó negativamente el producto y la rentabilidad de mi negocio al dificultarme la toma de decisiones, la mejora de procesos y el cumplimiento de las reglas.
+
+__Problem statement 2:__ Como administrador o encargado de una granja de animales necesito una aplicación web de gestión animal que cumple con los más altos estándares en términos de rendimiento, seguridad y escalabilidad, ya que las soluciones existentes en el mercado carecen de solidez, funciones avanzadas y potencial de crecimiento. Esto limitó mi capacidad para utilizar nuevas tecnologías, garantizar la integridad de los datos y brindar la mejor experiencia de usuario para mi equipo, lo que afectaría el rendimiento, la longevidad y la competitividad de mi negocio.
+
 #### 1.2.2.2. Lean UX Assumptions
+
+1.- __Ganaderos usan la tecnología:__ se asume que los ganaderos estén dispuestos a hacer uso de la tecnología para mejorar su negocio, y consideran que la administración de la ganadería es una herramienta valiosa para alcanzar este objetivo. 
+
+__2.- Priorizar la Accesibilidad:__ Se asume que los ganaderos, independientemente de su experiencia tecnológica, valorarán una aplicación fácil de usar, accesible desde diferentes dispositivos, incluidos teléfonos móviles, tabletas y computadoras de escritorio.
+
+__3.-Buena Conectividad:__ Se asume, que los ganaderos puedan contar con una Buena eficiencia en la conectividad ya que su rubro u oficio lo realizan desde zonas con poca conectividad o incluso no llegar a contar con ella. Para ello priorizaremos evitar las dependencias de la conectividad.
+
+__4.-Gestion del Ganado:__ Se asume, que los ganaderos al usar nuestra aplicación web, aumente su productividad y mejor toma de decisiones para una mejor Calidad de los alimentos que provienen de los animales domésticos o incluso gestionar la Calidad de vida en zoológicos de animales silvestres o estado de conservación.
+
+__5.-Personalización:__ Se asume, que el ganadero este cómodo usando una tecnología que se adecue a sus necesidades o acorde a su rango como trabajador o encargado para mejorar el confort y el mayor uso posible de la aplicación web evitando así incomodidad por falta de soporte.
+
+__6.-Seguridad y privacidad:__ Se asume, que los ganaderos puedan contar con mucha confianza al usar nuestra aplicación debemos estar comprometidos con todos los métodos se seguridad y privacidad evitando posibles estafas o publicación de información sensible fuera de la aplicación.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. __Hipótesis del problema:__ Basándonos en nuestras observaciones preliminares y en la investigación de mercado, creemos que los ganaderos están enfrentando desafíos significativos en la gestión eficiente de su ganado debido a la falta de herramientas de seguimiento y gestión adecuadas. Validaremos esta hipótesis realizando entrevistas en profundidad con un número representativo de ganaderos y analizando sus respuestas para identificar patrones y problemas comunes.
+2. __Hipótesis de los usuarios:__ Suponemos que nuestros usuarios son ganaderos que manejan rebaños de varios tamaños y que buscan mejorar la eficiencia de su gestión del ganado. Validaremos esta hipótesis a través de encuestas y entrevistas con posibles usuarios para entender mejor sus necesidades y desafíos.
+3.	__Hipótesis de las características:__ Creemos que al desarrollar una aplicación móvil que permita a los ganaderos rastrear la salud, la alimentación y el rendimiento de su ganado, podremos satisfacer sus necesidades y resolver sus problemas. Validaremos esta hipótesis mediante la creación de prototipos de las características propuestas y la realización de pruebas de usabilidad con nuestros usuarios objetivo.
+4.	__Hipótesis de negocio:__ Suponemos que, al resolver estos problemas para los ganaderos, seremos capaces de monetizar nuestra aplicación a través de suscripciones o compras en la aplicación. Validaremos esta hipótesis a través de pruebas de mercado y análisis de la disposición de los usuarios a pagar por tales servicios.
+
+
 #### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](./assets/Lean%20UX%20Canvas.png)
+
+Link del figjam [here](https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1 "Lean ux canvas").
+
+
 ## 1.3. Segmentos objetivo.
 
 ### Descripción de cada segmento objetivo:
@@ -294,11 +325,65 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
  - Honestidad
 
 
-
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1. Análisis competitivo.
+
+| Competitive Analysis Landscape |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| ¿Por qué llevar a cabo este análisis? |  | Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis. |  |  |  |
+|  |  | Por qué asi ampliamos nuestro conocimiento sobre nuestro negocio |  |  |  |
+| (En la cabecera colocar por cada competidor nombre )
+ |  | |PecuarioPro | Control Ganadero | Agroptima | App Ganadera |
+| Perfil | Overview | Somos una empresa emergente en pleno desarrollo contamos con todas las últimas tecnologías, buena eficiencia y compatibilidad con muchos dispositivos | Es una aplicación español, británico y brasileño en el sector de la ganadería. | Agroptima es un sitio web multiplataforma cofundado por la unión europea para los países de España, Francia e Inglaterra | Es una empresa fundada en Colombia que cuenta con una para la gestión de ganado. |
+|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Lo último en tecnología mucha productividad y buena gestión | es una app para la gestión de vacas y enfocada para móviles | cuenta con multiplataforma cuenta con algoritmos matemáticos para una mayor gestión del ganado. | Tiene gran variedad de herramientas y gran cantidad de distribuidores |
+| Perfil de Marketing | Mercado objetivo | productores ganaderos independientes y empresas privadas o públicas. | Para ganaderos españoles, brasileños e ingleses. | Para ganaderos españoles, franceses   e ingleses. | Para ganaderos colombianos |
+|  | Estrategias de marketing | Difusión en redes sociales y anuncios pagados | Estrategia de posicionamiento | Estrategia de segmentación | Estrategia
+segmentación |
+| Perfil de Servicio | Servicio | Web app de gestión de ganado.| Web app de gestión de ganado. | Web app de gestión de ganado. | Web app de gestión de ganado. |
+|  | Precio del servicio | suscripción  Bajo costo | suscripción  Bajo costo | suscripción  Bajo costo| Subscripcion Bajo costo |
+|  | Canales de distribución (Web y/o Móvil) | Web y móvil | app | web y móvil | app |
+| Análisis SOT | Realice esto para su empresa emergente y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. |  |  |  |  |
+|  | Fortalezas | Contamos con lo último en tecnología e implementamos lo nuevo en desarrollo para mejorar la productividad del servicio | Es una app netamente para la gestión de vacas cuenta con buena personalización | Es famoso por ser bueno en gestión ya que usa algoritmos matemáticos para un mejor cálculo del ganado. | Su ecosistema está basado en un país de origen conoce muy bien a sus clientes y se adapta a ellos |
+|  | Debilidades | Está en pleno desarrollo puede ser un éxito o fracaso | Solo es de móvil eso limita que sea multiplataforma | Solo opera en Europa y se basa en reglas ya establecidas por la unión europea | Solo es una app y para la zona de Colombia por lo tanto solo está disponible en su país de origen |
+|  | Oportunidades | Puede hacer productivos a los ganaderos y empresas de este rubro mejorando sus tomas de decisiones y eficiencia | Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. | Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. | Si eres colombiano estarás contento con la app ya que es de uso nacional. |
+|  | Amenazas | Al no tener buenos conocimientos o malas prácticas de desarrollo porque estamos en pleno rubro académico puede limitar su desarrollo. | no cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. | no cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. | Falta de apoyo económico los gobiernos locales de Colombia no ven viable esta innovación puede llegar a su desaparición |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+Para nuestra web App queremos contar con la última tecnología disponible tales como:
+
+1. __Integración de tecnologías disruptivas:__
+
+-IA: análisis predictivo, monitoreo de comportamiento, optimización de alimentación.
+-IOT: sensores para monitoreo en tiempo real, automatización de tareas.
+-RA/RV: visualización 3D, entrenamiento virtual, simulación de producción.
+
+2. __Enfoque en la experiencia del usuario:__
+
+-Interfaz intuitiva y personalizable.
+-Atención al cliente excepcional.
+-Comunidad de usuarios para compartir experiencias.
+
+3. __Funcionalidades avanzadas:__
+
+-Módulo de trazabilidad completo.
+-Análisis de datos con KPIs, comparación con benchmarks.
+-Gestión de la reproducción y planificación financiera.
+
+4. __Integración con otras aplicaciones:__
+
+-Software de contabilidad y facturación.
+-Plataformas de comercio electrónico.
+-Dispositivos móviles y wearables.
+
+5. __Marketing y promoción efectiva:__
+
+-Posicionamiento SEO, marketing digital, participación en eventos.
+-Colaboración con asociaciones de ganaderos e influencers.
+
+
+
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 ### 2.2.2. Registro de entrevistas.
