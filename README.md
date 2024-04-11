@@ -225,8 +225,31 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 
 ![Foto integrante U202213070](./assets/foto-frente.jpg)
 
+**Casaverde De La Cruz Ernesto - 20221b657**
+
+Estudio la carrera de ingeniería de software en la universidad de Ciencias Aplicadas – UPC. Siempre me tomo los trabajos como parte de mi desarrollo personal tengo habilidades de programación en c++, HTML, css, JavaScript, SQL, mongoDB, Python Además se dominar las metodologías agiles y gestión de proyectos privados o públicos. Me gustaría aprender más sobre la programación. En mis tiempos libres practico fútbol, también me gusta leer libros, ver películas y viajar. Me considero responsable, respetuosa y amable, con estas habilidades comprometo a terminar el proyecto de la mejor manera para aportar a la sociedad.
+
+![foto integrante U20221B657](./assets/foto-frente-E.jpg)
+
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
+
+__Mediante la técnica de “5w’s & 2h’s” logramos identificar los antecedentes de nuestra problemática y comprender mejor la misma.__
+
+What/ Qué: Una aplicación web para gestionar eficientemente el inventario de ganado, registrar información relevante (peso, salud, alimentación, etc.), realizar seguimiento de la producción y ventas, y generar informes y análisis.
+
+__When / Cuándo:__ Esta aplicación sería utilizada de manera continua por los encargados de la gestión del ganado, permitiéndoles acceder y actualizar la información en tiempo real.
+
+__Where/ Dónde:__ La aplicación web estaría accesible desde cualquier dispositivo con conexión a Internet, ya sea en la oficina, en el campo o en cualquier lugar donde se requiera acceder a la información.
+
+__Who / Quién:__ Los usuarios principales serían las personas que trabajan de la granja o rancho, veterinarios, encargados de alimentación y personal involucrado en la gestión del ganado.
+
+__Why / Por qué:__ La aplicación web facilitaría la gestión eficiente del ganado, mejorando la trazabilidad, optimizando los procesos y permitiendo la toma de decisiones informadas basadas en datos precisos.
+
+__How/ Cómo:__ La aplicación se desarrollaría utilizando tecnologías web modernas, como HTML, CSS, JavaScript, frameworks de front-end y back-end, bases de datos y servicios en la nube. Además, se implementarían funcionalidades como registro de datos, generación de informes, visualización de datos en tiempo real, entre otras.
+
+__How much / Cuánto:__  El costo del desarrollo de la aplicación dependería de factores como el alcance, las características requeridas, la complejidad, la integración con otros sistemas y la contratación de desarrolladores y personal de soporte técnico.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
