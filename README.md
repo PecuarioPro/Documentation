@@ -26,13 +26,59 @@ Ciclo 2024-01 | Sección
 
 
 
-# REGISTRO DE VERSIONES DEL INFORME
+## REGISTRO DE VERSIONES DEL INFORME
+<table>
+ <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+ </thead>
+ <tbody>
+    <tr>
+      <td>1.0</td>
+      <td>10/04/2024</td>
+      <td>Grupo 05</td>
+      <td>
+        - Creación del documento para la primera versión del informe.<br>
+        - Implementación de Carátula, Contenido, Student Outcome.<br>
+        - Apertura Capítulo 1: Introducción.<br>
+        - Redacción Startup Profile: Descripción de la Startup, Perfiles de integrantes del equipo.<br>
+        - Redacción Solution Profile: Antecedentes y problemática, Lean UX Process.<br>
+        - Redacción Segmentos objetivo.<br>
+        - Apertura Capítulo 2: Requirements Elicitation & Analysis.<br>
+        - Redacción Competidores: Análisis competitivo, Estrategias y tácticas frente a competidores.<br>
+        - Redacción Entrevistas: Diseño de entrevistas, Registro de entrevistas y Análisis de entrevistas.<br>
+        - Redacción Needfinding: User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.<br>
+        - Avance en la redacción de conclusiones.<br>
+        - Incorporación de Bibliografía en base a las citas del documento de reporte.
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td></td>
+      <td>Grupo 05</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td></td>
+      <td>Grupo 05</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td></td>
+      <td>Grupo 05</td>
+      <td></td>
+    </tr>
+ </tbody>
+</table>
 
-| Versión | Fecha      | Autor           | Descripción         |
-|---------|------------|-----------------|---------------------|
-| TB1     | 01/04/2024 | Equipo en conjunto | Se añadió contenido a los capítulos del 1 al 5|
-
-...
+<br>
+<br>
 
 # PROJECT REPORT COLLABORATION INSIGHTS
 
@@ -40,12 +86,9 @@ Ciclo 2024-01 | Sección
 
 # CONTENIDO
 
-<h2>1. REGISTRO DE VERSIONES DEL INFORME</h2>
-<h2>2. PROJECT REPORT COLLABORATION INSIGHTS</h2>
 
-<h3>3. CONTENIDO</h3>
 <ul>
-    <li>3.1. STUDENT OUTCOME</li>
+    <li>STUDENT OUTCOME</li>
 </ul>
 
 <h2>Capítulo I: Introducción</h2>
@@ -169,6 +212,13 @@ Ciclo 2024-01 | Sección
 ### 1.1.1. Descripción de la Startup
 ### 1.1.2. Perfiles de integrantes del equipo
 
+**Rojas Velasquez, Maycol Jhordan - U20221984**
+
+Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python  y SQL server. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.
+
+
+![Foto integrante U202219984](./assets/Foto-frente-M.jpg)
+
 **Vásquez Villalobos Elverth Jair - U202213070**
 
 Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde hasta encontrar una solución. Considero que tengo una buena capacidad de análisis al momento de realizar algoritmos necesarios para el funcionamiento de algunos requerimientos en el software. Así mismo, me gusta siempre estar en comunicación con mi equipo de trabajo de una manera asertiva. Me apasiona el mundo de la tecnología y el emprendimiento, por ello trato de aportar al desarrollo del startup con mis habilidades en programación e investigación.
@@ -183,6 +233,45 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 #### 1.2.2.3. Lean UX Hypothesis Statements
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos objetivo.
+
+### Descripción de cada segmento objetivo:
+
+#### Productores Ganadores independientes:
+Este segmento objetivo de nuestra plataforma se centra en los ganaderos independientes comprometidos y preocupados por obtener ganancias de manera ética y sostenible, mientras garantizan una excelente calidad en el cuidado de sus animales en propiedad. Este grupo comprende a ganaderos que poseen una variedad de animales, tales como ovejas, vacas, reses, corderos, gallinas, entre otros, y que residen en Perú. Su principal objetivo es asegurarse de que el estado y cuidado de sus animales sea óptimo, priorizando el bienestar y la salud de estos. Además, están interesados en llevar a cabo prácticas de venta honestas, con un enfoque en productos más naturales y de alta calidad. Como obtener información de nuevos métodos de cuidado animal.
+
+#### Empresas Ganaderas:
+El segmento objetivo de nuestra plataforma se dirige específicamente a grandes empresas corporativas involucradas en la gestión y cuidado de animales. Estas empresas se destacan por su firme compromiso con prácticas éticas y sostenibles en la producción ganadera. Su principal preocupación radica en garantizar que sus animales reciban una alimentación precisa, óptima y honesta, priorizando la salud y el bienestar de cada individuo. Asimismo, estas empresas se preocupan por brindar un cuidado individual a cada animal, asegurándose de que reciban la atención necesaria para su desarrollo y bienestar. Asimismo, contar con un sistema integral de gestión veterinaria, que garantiza un acceso constante y adecuado a servicios de atención médica veterinaria para sus animales.
+
+### Datos cuantitativos del problema:
+
+#### Productores Ganadores independientes:
+Se han registrado numerosos incidentes en los que los productores ganaderos peruanos no reciben una compensación justa en los mercados, y enfrentan dificultades significativas en la gestión del cuidado de sus animales debido a la escasez de recursos económicos y la limitada accesibilidad a servicios veterinarios para consultas y atención adecuada. Estas circunstancias han creado desafíos sustanciales para los ganaderos, quienes luchan por mantener la salud y el bienestar de sus animales mientras buscan asegurar su propio sustento económico en un entorno cada vez más desafiante y competitivo. Se estima que al menos el 15% de los animales muertos en las granjas se debe a la falta de acceso oportuno a servicios veterinarios adecuados, lo que genera pérdidas económicas significativas para los productores, estimadas en un 20% de sus ingresos anuales debido a la falta de compensación justa de los mercados hacia ellos.
+
+#### Empresas Ganaderas:
+En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficiente, con un preocupante porcentaje del 60% de las operaciones que no cumplen con estándares aceptables en este aspecto. Esta deficiencia se refleja en condiciones de vida inadecuadas para el ganado, como la falta de espacio y la alimentación deficiente, lo que afecta negativamente su salud y bienestar. Además, la gestión de residuos en estas empresas es inadecuada en aproximadamente un 70% de los casos, lo que resulta en una incorrecta disposición de los desechos animales y una potencial contaminación del medio ambiente. Esta situación representa un desafío significativo para la industria ganadera, ya que no solo compromete el bienestar de los animales, sino que también puede tener repercusiones negativas en la salud pública y el medio ambiente.
+
+### Variables geográficas, demográficas y psicológicas:
+
+#### Variable geográfica:
+- País: Perú
+- Ciudad: zonas rurales 
+
+#### Variable demográfica:
+- Género: Femenino / Masculino.
+- Ocupación: Productores ganaderos 
+- Estado civil: Todos los estados
+- Edad y etapa de ciclo de vida:
+- Ciudadanos mayores a 18 años.
+
+#### Variable psicográfica:
+- Nivel Socioeconómico (NSE): todos los niveles socioeconomicos
+- Características de personalidad:
+ - Altruismo 
+ - Perseverante
+ - Honestidad
+
+
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
 ### 2.1.1. Análisis competitivo.
@@ -193,7 +282,10 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
+![User persona 1 ](./assets/GANADERO-UP.png)
+![User persona 2 ](./assets/CORPORACION-UP.png)
 ### 2.3.2. User Task Matrix.
+![User Task Matrix](./assets/UsTaskMatrix.png) 
 ## 2.3.3. User Journey Mapping.
 
 |   | Motivación | Investigación | Navegar por la interfaz de la plataforma | Evaluación de producto | Adquisición de servicio |
@@ -219,12 +311,156 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 ![To-Be Scenario Mapping](./assets/To-Be%20Scenario%20map.jpg)
 
 ## 3.2. User Stories.
+![HU1](./assets/HU1.png)
+![HU2](./assetS/HU2.png)
+![HU3](./assets/HU3.png)
+![HU4](./assets/HU4.png)
+![HU5](./assets/HU5.png)
+![HU6](./assets/HU6.png)
+![HU7](./assets/HU7.png)
+![HU8](./assets/HU8.png)
+![HU9](./assets/HU9.png)
+![HU10](./assets/HU10.png)
+![HU11](./assets/HU11.png)
+![HU12](./assets/HU12.png)
+![HU13](./assets/HU13.png)
+
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
+# Product Backlog
+
+| Orden | Código | Título                                    | Descripción                                                                                                                                                            |
+|-------|--------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | HU05   | Gestión de los planes alimenticios       | Como usuario de "PecuarioPro", quiero asegurarme de que los planes alimenticios para mis animales se gestionen de manera efectiva, lo que garantizará su salud y rendimiento óptimo en la ganadería. |
+| 2     | HU06   | Comunicaciones con veterinario            | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita comunicarme de manera efectiva con veterinarios, para obtener asesoramiento y atención médica para mis animales cuando sea necesario. |
+| 3     | HU08   | Redacción de Informes del Estado de los Animales | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita generar informes detallados sobre el estado de salud y el rendimiento de mis animales, para poder realizar un seguimiento efectivo de su bienestar y tomar decisiones informadas en la gestión de mi ganadería. |
+| 4     | HU09   | Programación de Visitas Veterinarias     | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita programar y gestionar visitas veterinarias para mis animales, garantizando así un cuidado veterinario regular y oportuno para mantener su salud. |
+| 5     | HU10   | Seguimiento de reproducción y cría       | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita realizar un seguimiento detallado del proceso de reproducción y cría de mis animales, garantizando así una gestión eficiente y una mejora continua en mi ganadería. |
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
+Las Style Guidelines son fundamentales para mantener una comunicación cohesiva y profesional en todos los aspectos de la marca o proyecto, ya sea en publicaciones impresas, en línea o en cualquier otro medio de difusión. En esta sección estableceremos el conjunto de directrices que usará nuestro equipo para diseñar el proyecto PecuarioPro. En estas pautas definiremos aspectos como la elección de colores, tipografía, estructura del documento, entre otros elementos. Por ello, para el diseño de PecuarioPro emplearemos la plataforma Figma para la creación de la aplicación web y la página de inicio. En ambas, se incluirá una paleta de colores con tonalidades de verde y crema, que reflejen la naturaleza y la confianza asociadas con la gestión sostenible de animales. A continuación, se presenta un detalle más amplio de cada aspecto mencionado
+
 ### 4.1.1. General Style Guidelines.
+**Branding:** El logotipo de nuestro startup es mucho más que una simple imagen; es la manifestación visual de nuestra identidad. En el centro, el símbolo único que nos representa es nuestro nombre, que se basa en fusionar las palabras ganado  y confianza, fusiona estas dos palabras, debido a que nuestro startup se basa en el control de ganado y el bienestar animal . Este logotipo es versátil y se adapta a una variedad de plataformas y aplicaciones, asegurando que nuestra marca se destaque en cualquier entorno. Este logo refleja la transparencia y seguridad que queremos transmitir los ganaderos y empresas ganaderas.
+
+<div style="text-align:center;">
+    <img src="./assets/Logo-Principal.png" alt="Purple - White" height="250" width="250">
+</div>
+<div style="text-align:center;"><b> Horizontal layout </b> </div>
+    
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/Logo-Invert.png" alt="Purple - White" height="250" width="250">
+</div>
+<div style="text-align:center;"><b>Inverted Colors</b> </div>
+    
+<div style="text-align:center;">
+    <br>
+    <img src="./assets/Logo-Web.png" alt="Purple - White" height="250" width="250">
+</div>
+<div style="text-align:center;"><b>Logo mark only</b> </div>
+
+
+<br>
+
+**Typography:** La tipografía de PecuarioPro encapsula la esencia de nuestra innovadora startup, que busca revolucionar el proceso de gestión y cuidado de animales para consumo en Perú. Con un estilo moderno, ordenado y minimalista, se alinea perfectamente con la imagen que deseamos proyectar: una plataforma fácil de usar y confiable para la gestión de animales. Nuestra elección de tipografía refleja nuestro compromiso con la simplicidad y la accesibilidad, utilizando un lenguaje casual y sencillo que invita a nuestros usuarios a sentirse cómodos y empoderados al utilizar nuestra aplicación.
+
+**Tipos de letras a usar:**
+
+- **Roboto slab:** Para el logo de nuestro proyecto.
+<div style="text-align:center;">
+    <br>
+    <img src="https://hackmd.io/_uploads/ryKA503yA.png
+" alt="Roboto slab" >
+    
+</div>
+<br>
+
+- **Poppins (encabezados):** Poppins es una tipografía moderna y legible que puede ser ideal para los encabezados y títulos de su plataforma. Transmite confianza y es fácil de leer en pantallas digitales.
+<div style="text-align:center;">
+    <br>
+    <img src="https://hackmd.io/_uploads/Hy_ysR3kC.png"
+ alt="Poppins" >
+</div><br>
+
+- **Noto Sans (cuerpo de texto):** Noto Sans es una tipografía versátil que funciona bien para el cuerpo de texto en su plataforma. Su calidad ayudará a que la información sea fácil de absorber.
+<div style="text-align:center;">
+    <br>
+    <img src="https://hackmd.io/_uploads/H18miAh1R.png" alt="Noto Sans" >
+</div><br>
+
+- **Roboto (botones):** Roboto es una tipografía limpia que puede funcionar bien para los botones y llamados a la acción. Ayuda a crear un aspecto moderno y atractivo que alienta a los usuarios a participar.
+<div style="text-align:center;">
+    <br>
+    <img src="https://hackmd.io/_uploads/S1VIsC3kR.png"
+ alt="Roboto">
+</div><br>
+
+- **Raleway (detalles):** Raleway puede usarse para resaltar detalles importantes o elementos de diseño. Su aspecto contemporáneo y elegante puede añadir un toque de sofisticación a su plataforma.
+<div style="text-align:center;">
+    <br>
+    <img src="https://hackmd.io/_uploads/HknPi0hJA.png" alt="Raleway" >
+</div><br>
+
+- **Arial (texto legal y pie de página):** Para el texto legal y el pie de página, Arial es una elección segura. Es altamente legible y transmite profesionalismo.
+<div style="text-align:center;">
+    <br>
+    <img src="https://hackmd.io/_uploads/S1UvqCnJC.png" alt="arial">
+</div><br>
+
+**Colors:** La selección de colores en PecuarioPro se ha llevado a cabo de manera estratégica, utilizando una paleta que refleja nuestra visión y valores. Los tonos #004229, #E1D29A y #f5f4f4 han sido elegidos meticulosamente para transmitir la esencia de nuestra innovadora plataforma de gestión de animales. Estos colores no solo crean una armonía visual, sino que también establecen un equilibrio entre la naturaleza (representada por el verde profundo), la integridad (encarnada en el tono cálido del beige) y la transparencia (reflejada en el blanco puro). Esta combinación refuerza nuestra identidad como una solución moderna y confiable en el ámbito de la ganadería, destacándonos por nuestra singularidad y compromiso con el bienestar animal y la eficiencia en la gestión ganadera.
+
+**Gama de colores:**
+
+**#004229**
+ 
+![HU13](./assets/004229.png)
+
+**#E1D29A**
+
+![HU13](./assets/e1d29a.png)
+ 
+
+**#f5f4f4**
+
+![HU13](./assets/f5f4f4.png)
+
+## Espaciado en la Plataforma Web de Pecuario Pro
+
+La plataforma web de Pecuario Pro está diseñada con un enfoque en la legibilidad y la comodidad del ganadero. A continuación, se detallan las especificaciones de espaciado recomendadas:
+
+### Espaciado entre líneas (line-height)
+- **Texto de cuerpo**: Debe ser de 1.4 a 1.6 veces el tamaño de la fuente.
+
+### Espaciado entre párrafos
+- **Margen inferior**: Debe ser al menos el 120% del tamaño de fuente entre párrafos.
+
+### Margen y espaciado alrededor de elementos de la interfaz
+- **Al menos 20 píxeles de espacio**: Se debe mantener entre elementos de la interfaz.
+
+### Espaciado entre secciones o módulos
+- **Margen superior e inferior**: Debe ser de al menos 45 píxeles.
+
+### Espaciado entre elementos de menú y navegación
+- **Al menos 15 píxeles de espacio**: Se debe mantener entre elementos de navegación.
+
+### Espaciado alrededor de imágenes y gráficos
+- **Al menos 20 píxeles de margen**: Debe haber alrededor de las imágenes.
+
+### Espaciado en el pie de página
+- **Margen superior e inferior**: Debe ser de alrededor de 40 a 60 píxeles.
+
+<br>
+
+**Lenguaje y tono de la comunicación:**
+
+El tono de comunicación y lenguaje ideal para PecuarioPro, nuestra plataforma de gestión ganadera en Perú, se caracteriza por ser cálido, empático, claro y comprometido. En PecuarioPro, creemos en la importancia de establecer una conexión emocional con nuestros usuarios y en comunicar de manera efectiva nuestro compromiso con el bienestar animal y la sostenibilidad en la industria ganadera. Nuestro tono es amigable y accesible, lo que refleja nuestra misión de hacer que la gestión de animales sea una experiencia positiva y gratificante para todos los involucrados. Además, nos esforzamos por diseñar nuestra plataforma de manera intuitiva y fácil de usar, especialmente para ganaderos menos experimentados en tecnología. Ofrecemos tutoriales paso a paso y asistencia personalizada para garantizar que todos los usuarios, independientemente de su nivel de experiencia tecnológica, puedan aprovechar al máximo todas las funciones de PecuarioPro. Al mismo tiempo, mantenemos un enfoque profesional y serio cuando se trata de la responsabilidad en el cuidado de los animales y la transparencia en nuestros procesos. En nuestras comunicaciones, utilizamos un lenguaje claro y sencillo para garantizar que los usuarios comprendan fácilmente cómo funciona nuestra plataforma y cómo pueden contribuir al bienestar de sus animales. Fomentamos la confianza al proporcionar información detallada sobre las prácticas de manejo animal y al ofrecer transparencia en la trazabilidad de los productos ganaderos. Queremos que nuestros usuarios se sientan cómodos, informados y motivados a ser parte del cambio positivo que estamos impulsando en la industria ganadera en Perú.
+
 ### 4.1.2. Web Style Guidelines.
+Nuestro enfoque en las "Web Style Guidelines" se centra en la creación de una experiencia de usuario consistente y atractiva en entornos de navegación web. Esto implica el uso de una paleta de colores cohesiva, tipografía legible y un diseño responsivo que se adapte a una variedad de dispositivos y tamaños de pantalla. 
+![principal web](./assets/PecuarioPro_page-principal.jpg    )
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 ### 4.2.2. Labeling Systems.
