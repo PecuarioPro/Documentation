@@ -241,7 +241,8 @@ Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Con
 | **Nombre del entrevistado:** | **Edad**: 21 años |
 | Godofredo Quispe | **Ciudad**: Lima |
 | **Link del video evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing)** | **Profesión**: Estudiante con experiencia en el rubro |
-|-----------------------------------------|
+| Ganadero Independiente | **Descripción** |
+|------------------------|-----------------|
 | **Entrevista #2** |
 | **Nombre del entrevistado:** | **Edad**: 30 años |
 | Manuel Quispe Rodriguez | **Ciudad**: Cuzco |
