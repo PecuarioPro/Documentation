@@ -237,20 +237,18 @@ Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Con
 
 | Ganadero Independiente | **Descripción** |
 |------------------------|-----------------|
-| **Entrevista #1** |
-| **Nombre del entrevistado:** |
-| Godofredo Quispe |
-| **Link del video evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing)** |
-| **Edad**: 21 años |
-| **Ciudad**: Lima |
-| **Profesión**: Estudiante con experiencia en el rubro |
+| **Entrevista #1** | 
+| **Nombre del entrevistado:** | **Edad**: 21 años |
+| Godofredo Quispe | **Ciudad**: Lima |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing)** | **Profesión**: Estudiante con experiencia en el rubro |
+|------------------------------------------|
 | **Entrevista #2** |
-| **Nombre del entrevistado:** |
-| Manuel Quispe Rodriguez |
-| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1J0K4cOHhm9ifE-iSnoy_UD01sKMTE51c/view?usp=sharing)** |
-| **Edad**: 30 años |
-| **Ciudad**: Cuzco |
-| **Profesión**: Ganadero independiente |
+| **Nombre del entrevistado:** | **Edad**: 30 años |
+| Manuel Quispe Rodriguez | **Ciudad**: Cuzco |
+| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1J0K4cOHhm9ifE-iSnoy_UD01sKMTE51c/view?usp=sharing)** | **Profesión**: Ganadero independiente |
+
+
+
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
