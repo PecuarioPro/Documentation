@@ -234,6 +234,40 @@ Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Con
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
 ### 2.2.2. Registro de entrevistas.
+<table>
+<colgroup>
+<col style="width: 36%" />
+<col style="width: 63%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Ganadero Independiente</td>
+<td><strong>Descripción</strong></td>
+</tr>
+<tr class="even">
+<td><p><strong>Entrevista #1</strong></p>
+<p><strong>Nombre del entrevistado:</strong></p>
+<p>Godofredo Quispe</p>
+<p><strong>Link del video evidenciando la entrevista : <a
+href="https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing"><u>Link
+de la entrevista</u></a></strong></p></td>
+<td><p><strong>Edad</strong>: 21 años</p>
+<p><strong>Ciudad</strong>: Lima</p>
+<p><strong>Profesión</strong>: Estudiante con experiencia en el rubro</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Entrevista #2</strong></p>
+<p><strong>Nombre del entrevistado:</strong></p>
+<p>Manuel Quispe Rodriguez</p>
+<p><strong>Link del audio evidenciando la entrevista : <a
+href="https://drive.google.com/file/d/1J0K4cOHhm9ifE-iSnoy_UD01sKMTE51c/view?usp=sharing"><u>Link
+de la entrevista</u></a></strong></p>
+<p></p></td>
+<td><p><strong>Edad</strong>: 30 años</p>
+<p><strong>Ciudad</strong>: Cuzco</p>
+<p><strong>Profesión</strong>: Ganadero independiente</p>
+<p></p></td>
+</tr>
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
