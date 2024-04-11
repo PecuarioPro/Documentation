@@ -1,3 +1,5 @@
+![Logo Upc](https://hackmd.io/_uploads/BJgbioEeC.png)
+
 # Universidad Peruana de Ciencias Aplicadas
 
 ## Ingeniería de Sistemas y Computación | Ingeniería de Software
@@ -7,21 +9,23 @@
 #### TB1 REPORT
 
 **Nombre del Startup**
-PecuarioPro
+Pecuario Pro 
 
-**Docente:** 
+**Docente:** Angel Augusto Velasquez Nuñez 
 
-**Grupo**
+**Grupo 5**
 
 **Team Members:**
-
-- Casaverde De La Cruz, Ernesto David | u20221b657
+- Abanto Vicente, Edery Renzo | U201822832
 - Rojas Velasquez, Maycol Jhordan | U202219984
-- Cantoral Sedamano, Alexander Alberto | U20181B152
-- Soriano Medrano, Diego | U202114793
-- Vásquez Villalobos, Elverth Jair | U202213070
+- Calderón Huamán, Jose Daniel Mario | U202213076
+- Antonio Fretle, Jeremi Jose | U202219022
+- Manco Cuellar, Anthony Ramon | U201810954
 
-Ciclo 2024-01 | Sección 
+<p style="text-align: center;"><b>Ciclo 2024-01 | Sección WS53</p>
+
+<br>
+<br>
 
 
 
