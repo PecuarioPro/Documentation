@@ -20,6 +20,7 @@ Pecuario Pro
 - Soriano Medrano, Diego		**U202114793**
 - Casaverde de la Cruz, Ernesto David 	**U20221B657**
 - Cantoral Sedamano, Alexander Alberto	**U20181B152**
+- Vásquez Villalobos, Elverth Jair **U202213070**
 
 
 <br>
@@ -204,6 +205,16 @@ Cada miembro del equipo ha participado activamente en la elaboración del inform
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+__Nombre del Start:__ PecuarioPro
+
+PecuarioPro es una avanzada aplicación web diseñada para capacitar a los ganaderos en la gestión eficiente y sostenible de su ganado. Esta plataforma ofrece una amplia gama de herramientas integrales que permiten a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, lo que facilita una mejor toma de decisiones en la granja. Con PecuarioPro, los ganaderos pueden optimizar sus operaciones y maximizar sus ingresos, al tiempo que promueven prácticas agrícolas sostenibles y éticas, lo que contribuye al bienestar de los animales y al desarrollo sostenible de la industria ganadera.
+
+__Logotipo de la Startup:__
+
+
+<img src="./assets/Logo-Principal.png" alt="logo-image" width="100" height="100">
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 **Rojas Velasquez, Maycol Jhordan - U20221984**
@@ -231,6 +242,13 @@ Ingeniería de software
 Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Conocimientos básicos de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
 
 ![Foto integrante U20181b152](./assets/fotoalexander[797].png)
+
+**Soriano Medrano, Diego - U202114793**
+
+Ingeniería de software
+Soy una persona creativa y paciente, tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación como C++ y Python, estas herramientas me ayudan a realizar distintos tipos de trabajo y a resolver problemas, parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar y optimizar el trabajo. En mis tiempos libres suelo navegar por internet.
+
+![Foto integrante U20181b152](./assets/foto-upc.jpg)
 
 
 ## 1.2. Solution Profile
@@ -447,9 +465,30 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 <br>
 <br>
 
-| Empresa Ganadera | **Descripción** |
+| Ganadero Independiente | **Descripción** |
 |------------------------|-----------------|
 | **Entrevista #3** |
+| **Nombre del entrevistado:** | **Edad**: 19 años |
+| Ivan Lavado Vallejos | **Ciudad**: Chiclayo |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EenB71Lb9rJMjwBwRMt9VN4B6leBPapSaIMcLp2ZHZoK_g?e=ooKSxG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Ganadero independiente |
+
+<br>
+<br>
+
+| Empresa Ganadera | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #4** |
+| **Nombre del entrevistado:** | **Edad**: 45 años |
+| Elver Vásquez Rodrigo | **Ciudad**: Chiclayo |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/Ebs9p6KOyFZGl4919U9BS1YBceooBjnmmLJ1PFtblUOvPg?e=n1OcFY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Tesorero en empresa ganadera |
+
+
+<br>
+<br>
+
+| Empresa Ganadera | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #5** |
 | **Nombre del entrevistado:** | **Edad**: 23 años |
 | Camila Fernanda Morales Farias | **Ciudad**: Lima |
 | **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EXvkojdQ4E5LhbYOn-CLXJcBRDQ8FpjbhSsMGQS0pLVnGg?e=sbSiHD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )** | **Profesión**: Practicante de Agroindustrial (Unalm) |
@@ -775,6 +814,20 @@ BR>
 # Capítulo V: Implementation , Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+En esta sección definiremos las herramientas que utilizaremos en cada una de las fases del software.
+
+| Herramienta | Propósito | Ruta de Descarga/Referencia |
+|-------------|-----------|----------------------------|
+| Git         | Control de versiones y colaboración en el código fuente del proyecto | [Git](https://git-scm.com/) |
+| Jira Software | Gestión de tareas, seguimiento de problemas y planificación de tareas. Se podrá llevar a cabo una mejor gestión para cumplir con la metodología SCRUM | [Jira Software](https://www.atlassian.com/software/jira) |
+| Figma | Diseño de todas las interfaces de la aplicación y elaboración de un prototipo interactivo | [Figma](https://www.figma.com/) |
+| Rider | Codificación y desarrollo de software | [Rider](https://www.jetbrains.com/rider/) |
+| WebStorm | Codificación y desarrollo de software | [WebStorm](https://www.jetbrains.com/webstorm/) |
+| Azure | Despliegue y alojamiento de la aplicación | [Azure](https://azure.microsoft.com/) |
+| Markdown | Documentación técnica y de usuario | [Markdown Guide](https://www.markdownguide.org/getting-started/) |
+
+
 ### 5.1.2. Source Code Management.
 
 En esta sección detallaremos el esquema de organización que utilizaremos para aplicar el seguimiento de modificaciones que realizaremos en nuestro proyeto.
@@ -782,6 +835,8 @@ En esta sección detallaremos el esquema de organización que utilizaremos para 
 **Repositorio Remoto**
 
 Haremos uso de la plataforma GitHub para crear nuestros repositorios remotos. Estos repositorios serán de gran utilidad ya que nos sirven para almacenar y gestionar nuestro código fuente y la documentación. Así mismo, nos facilita la colaboración entre todos los integrantes del grupo y permite tener un control de versiones de nuestro proyecto.
+
+[Repositorio en Github](https://github.com/PecuarioPro/PecuarioPro/tree/main)
 
 **Implementación de GitFlow**
 
@@ -793,14 +848,26 @@ Utilizaremos el flujo de trabajo GitFlow, el cual nos permite tener un trabajo c
 - **release:** En esta rama se realizarán cambios mínimos los cuales no alteran la funcionalidad del software. Por lo general se suelen arreglar errores de ortografía y bugs mínimos. Además, en esta rama desarrollaremos la documentación respectiva del proyecto.
 - **hotfix:** Esta será una rama para la resolución de bugs de manera inmediata. En la rama hotfix se corrigen errores que impiden ciertas funcionalidades importantes del software y su correción es necesaria para la correcta operación del producto.
 
-**Convetional Commits**
+**Conventional Commits**
 
-Haremos uso de Conventional Commits para tener una mejor comprensión de los cambios realizados en el repositorio. Utilizaremos palabras clave como "fix" o "feature" para indicar el tipo de cambio realizado en los archivos, ya sea para el arreglo de bugs o la agregación de nuevo contenido. 
+Haremos uso de Conventional Commits para tener una mejor comprensión de los cambios realizados en el repositorio. Utilizaremos palabras clave como `fix` o `feature` para indicar el tipo de cambio realizado en los archivos, ya sea para el arreglo de bugs o la agregación de nuevo contenido. 
 
+**Versionamiento del software**
 
+Para el versionamiento de nuestro software haremos uso de etiquetas en git (git tag). Las etiquetas que representan las versiones del proyecto están conformadas por 3 números `(vX.Y.Z)`:
+
+- Primer número de la etiqueta `(X)`: Este representa la versión mayor del proyecto y se cambia cuando existen modificaciones importantes en las funcionalidades principales del sistema. 
+
+- Segundo número de la etiqueta `(Y)`: Este representa la agregación o el retiro de funcionalidades al sistema sin alterar su estructura principal.
+
+- Tercer número de la etiqueta `(Z)`: Este número final representa los parches realizados al software y es utilizado cuando se realiza una revisión. Suele utilizarse para corregir errores simples.
+
+Es así como en nuestro repositorio será observable el uso de etiquetas como `v0.1.0` o `v1.0.0` indicando la versión respectiva según el avance del proyecto .
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+<<<<<<< HEAD
+=======
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management
@@ -882,3 +949,4 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
 #### 5.2.1.8 Team Collaboration Insights during Sprint
+>>>>>>> 2d1200a9d4a0c6d923c7af535cf0b6189c624f59
