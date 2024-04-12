@@ -560,6 +560,11 @@ En esta sección se definirán términos que se comuniquen de forma correcta los
 ![HU11](./assets/HU11.png)
 ![HU12](./assets/HU12.png)
 ![HU13](./assets/HU13.png)
+<br>
+Link donde se hizo las User Stories : 
+[Canvas](https://www.canva.com/design/DAFnx0PwxDA/SUwwPGid2HJj28K1XF_Mig/edit?utm_content=DAFnx0PwxDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<br>
 
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
