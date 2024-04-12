@@ -214,6 +214,16 @@ Pecuario Pro
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+__Nombre del Start:__ PecuarioPro
+
+PecuarioPro es una avanzada aplicación web diseñada para capacitar a los ganaderos en la gestión eficiente y sostenible de su ganado. Esta plataforma ofrece una amplia gama de herramientas integrales que permiten a los usuarios realizar un seguimiento detallado de la salud, alimentación y reproducción de sus animales, lo que facilita una mejor toma de decisiones en la granja. Con PecuarioPro, los ganaderos pueden optimizar sus operaciones y maximizar sus ingresos, al tiempo que promueven prácticas agrícolas sostenibles y éticas, lo que contribuye al bienestar de los animales y al desarrollo sostenible de la industria ganadera.
+
+__Logotipo de la Startup:__
+
+
+<img src="./assets/Logo-Principal.png" alt="logo-image" width="100" height="100">
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 **Rojas Velasquez, Maycol Jhordan - U20221984**
