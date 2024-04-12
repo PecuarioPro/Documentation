@@ -238,6 +238,13 @@ Estudio la carrera de ingeniería de software en la universidad de Ciencias Apli
 
 ![foto integrante U20221B657](./assets/foto-frente-E.jpg)
 
+**Cantoral Sedamano, Alexander Alberto - U20181B152**
+Ingeniería de software
+Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Conocimientos básicos de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
+
+![Foto integrante U20181b152](./assets/fotoalexander[797].png)
+
+
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
 
@@ -396,6 +403,17 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 ### 2.2.1. Diseño de entrevistas.
 
 ### 2.2.2. Registro de entrevistas.
+| Ganadero Independiente | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #1** | 
+| **Nombre del entrevistado:** | **Edad**: 21 años |
+| Godofredo Quispe | **Ciudad**: Lima |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing)** | **Profesión**: Estudiante con experiencia en el rubro |
+| **Entrevista #2** |
+| **Nombre del entrevistado:** | **Edad**: 30 años |
+| Manuel Quispe Rodriguez | **Ciudad**: Cuzco |
+| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1J0K4cOHhm9ifE-iSnoy_UD01sKMTE51c/view?usp=sharing)** | **Profesión**: Ganadero independiente |
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
@@ -422,6 +440,26 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 ![As-is Scenario Mapping](./assets/AS-IS%20Scenario%20map.jpg)
 
 ## 2.4. Ubiquitous Language.
+En esta sección se definirán términos que se comuniquen de forma correcta los miembros y los stakeholders del equipo.
+*    **Startup Profile**: Descripción de startup y perfiles de los integrantes del grupo
+*    **Solution Profile**: Antecedentes, problemática y proceso Lean UX.
+*    **Lean UX Process**: Metodología ágil centrada en el usuario para el desarrollo de productos.
+*    **Problem Statements**: Declaraciones que definen los problemas clave a resolver.
+*    **Hypothesis Statements**: Hipótesis sobre las soluciones propuestas que deben ser probadas.
+*    **Lean UX Canvas**: Herramienta para mapear el problema, solución y métricas clave.
+*    **Competitive Analysis**: Análisis de la competencia para identificar fortalezas y debilidades.
+*    **User Persona**: Perfiles ficticios que representan a los usuarios objetivo.
+*    **User Journey Mapping**: Mapeo de la experiencia del usuario a lo largo del tiempo.
+*    **User Stories**: Descripciones simples de funcionalidades desde la perspectiva del usuario.
+*    **Impact Mapping**: Técnica para planificar y priorizar el desarrollo de productos.
+*    **Product Backlog**: Lista priorizada de requisitos y funcionalidades a implementar.
+*    **Information Architecture**: Estructura de organización y etiquetado del contenido.
+*    **Web Applications UX/UI Design**: Diseño de la experiencia y la interfaz de usuario.
+*    **Wireframes**: Bocetos de bajo nivel que representan la estructura de la aplicación.
+*    **Database Design**: Diseño de la estrctura de la base de datos.
+*    **Sprint Planning**: Planificación de las iteraciones de desarrollo.
+*    **Sprint Backlog**: Lista de tareas a realizar durante una iteración.
+*    **Sprint Review**: Revisión y evaluación del trabajo realizado en una iteración.
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
@@ -585,10 +623,35 @@ Nuestro enfoque en las "Web Style Guidelines" se centra en la creación de una e
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+En esta sección, definiremos los sistemas de organización que guiarán la estructura y el flujo de información en el proyecto PecuarioPro.
+*    Jerarquía de contenido: Organizaremos el contenido en una estructura jerárquica clara, con secciones principales y subsecciones relacionadas con la gestión ganadera.
+*    Categorización: Los elementos de contenido se agruparán en categorías lógicas relacionadas con la salud animal, la alimentación, la reproducción y la gestión de la granja.
+*    Taxonomía:  Implementaremos una taxonomía sólida para etiquetar y clasificar el contenido de manera efectiva, mejorando la capacidad de búsqueda y gestión.
+  
 ### 4.2.2. Labeling Systems.
+En esta sección, describiremos los sistemas de etiquetado utilizados para nombrar y describir elementos dentro del proyecto PecuarioPro.
+*    Nombres de página: Cada página de la aplicación web tendrá un nombre descriptivo que refleje su contenido, centrándose en la gestión ganadera.
+*    Etiquetas de menú: Selección cuidadosa de etiquetas de menú para representar con precisión las diferentes herramientas y funciones de PeruarioPro.
+*    Etiquetas de contenido: Etiquetado de elementos de contenido con palabras clave relevantes y descripciones breves relacionadas con la gestión eficiente y sostenibles del ganado.
+  
 ### 4.2.3. SEO Tags and Meta Tags
+En esta sección, se detallarán las etiquetas de Seo Y metaetiquetas que se utilizarán para mejorar la visibilidad del proyecto PecuarioPro en los motores de búsqueda.
+*    Etiquetas de título: Creación de etiquetas de título únicas y descriptivas para cada herramienta y sección de PecuarioPro, incluyendo palabras clave relevantes.
+*    Meta descripciones: Desarrollo de meta descripciones atractivas y concisas que resuman la funcionalidad de cada herramienta, fomentando la interacción con los usuarios.
+*    Etiquetas de encabezado: Uso adecuado de etiquetas de encabezado para estructurar el contenido y mejorar la gestión ganadera que ofrece la aplicación.
+*    Meta etiquetas de palabras clave: Asignación de meta etiquetas de palabras clave para indicar los temas clave que aborda PecuarioPro, mejorando la indexación en motores de búsqueda.
+
 ### 4.2.4. Searching Systems.
+En esta sección, se describirán los sistemas de búsqueda que permitirán a los usuarios encontrar información eficiente en el proyecto PecuarioPro.
+*    Motor de búsqueda interna: Implementación de un motor de búsqueda interno que permita a los usuarios encontrar información específica sobre la salud, alimentación, reproducción y gestión de su ganado.
+*    Filtros de búsqueda: Ofrecimiento de filtros de búsqueda avanzados para permitir a los usuarios refinar los resultados según diferentes criterios, como especie animal, estado de salud o tipo de alimentación.
+     
 ### 4.2.5. Navigation Systems.
+En esta sección, se detallarán los sistemas de navegación que guiarán a los usuarios a través del proyecto PecuarioPro de manera intuitiva.
+*    Menú de navegación: Mantenimiento de un menú de navegación claro y accesible en todas las páginas de aplicación, facilitando el acceso a las herramientas y secciones principales relacionadas con la gestión ganadera.
+*    Breadcumbs: Implementación de breadcrumbs en las páginas para mostrar la ubicación del usuario dentro de la estructura de la plataforma y facilitar la navegación de regreso.
+*    Enlaces relacionados: Provisión de enlaces relacionados en cada herramienta y sección para guiar a los usuarios a contenido relevante y promover una gestión ganadera más eficiente y sostenible.
+
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 <BR>
