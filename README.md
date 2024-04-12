@@ -421,6 +421,18 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 | Manuel Quispe Rodriguez | **Ciudad**: Cuzco |
 | **Link del audio evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1J0K4cOHhm9ifE-iSnoy_UD01sKMTE51c/view?usp=sharing)** | **Profesión**: Ganadero independiente |
 
+<br>
+<br>
+
+| Empresa Ganadera | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #3** |
+| **Nombre del entrevistado:** | **Edad**: 23 años |
+| Camila Fernanda Morales Farias | **Ciudad**: Lima |
+| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EXvkojdQ4E5LhbYOn-CLXJcBRDQ8FpjbhSsMGQS0pLVnGg?e=sbSiHD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )** | **Profesión**: Practicante de Agroindustrial (Unalm) |
+
+
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
