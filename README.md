@@ -871,19 +871,6 @@ Es así como en nuestro repositorio será observable el uso de etiquetas como `v
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-<<<<<<< HEAD
-=======
-# Capítulo V: Product Implementation, Validation & Deployment
-
-## 5.1. Software Configuration Management
-
-### 5.1.1. Software Development Environment Configuration
-
-
-### 5.1.2. Source Code Management
-
-
-
 ### 5.1.4. Software Deployment Configuration
 
 
