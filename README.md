@@ -408,7 +408,14 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 | **Entrevista #1** | 
 | **Nombre del entrevistado:** | **Edad**: 21 años |
 | Godofredo Quispe | **Ciudad**: Lima |
-| **Link del video evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing)** | **Profesión**: Estudiante con experiencia en el rubro |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing)** | 
+**Profesión**: Estudiante con experiencia en el rubro |
+
+<br>
+<br>
+
+| Ganadero Independiente | **Descripción** |
+|------------------------|-----------------|
 | **Entrevista #2** |
 | **Nombre del entrevistado:** | **Edad**: 30 años |
 | Manuel Quispe Rodriguez | **Ciudad**: Cuzco |
