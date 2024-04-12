@@ -548,7 +548,7 @@ En esta sección se definirán términos que se comuniquen de forma correcta los
 
 ## 3.2. User Stories.
 ![HU1](./assets/HU1.png)
-![HU2](./assetS/HU2.png)
+![HU2](./assets/HU2.png)
 ![HU3](./assets/HU3.png)
 ![HU4](./assets/HU4.png)
 ![HU5](./assets/HU5.png)
