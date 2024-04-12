@@ -224,7 +224,7 @@ PecuarioPro es una avanzada aplicación web diseñada para capacitar a los ganad
 __Logotipo de la Startup:__
 
 
-<img src="./assets/Logo-Principal.png" alt="logo-image" width="100" height="100">
+<img src="./assets/Logo-Principal.png" alt="logo-image" width="1000" height="1000">
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
