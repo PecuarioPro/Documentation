@@ -442,10 +442,19 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 <br>
 <br>
 
+| Ganadero Independiente | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #3** |
+| **Nombre del entrevistado:** | **Edad**: 19 años |
+| Ivan Lavado Vallejos | **Ciudad**: Chiclayo |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EenB71Lb9rJMjwBwRMt9VN4B6leBPapSaIMcLp2ZHZoK_g?e=ooKSxG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Ganadero independiente |
+
+<br>
+<br>
 
 | Empresa Ganadera | **Descripción** |
 |------------------------|-----------------|
-| **Entrevista #3** |
+| **Entrevista #4** |
 | **Nombre del entrevistado:** | **Edad**: 45 años |
 | Elver Vásquez Rodrigo | **Ciudad**: Chiclayo |
 | **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/Ebs9p6KOyFZGl4919U9BS1YBceooBjnmmLJ1PFtblUOvPg?e=n1OcFY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Tesorero en empresa ganadera |
@@ -456,7 +465,7 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 
 | Empresa Ganadera | **Descripción** |
 |------------------------|-----------------|
-| **Entrevista #4** |
+| **Entrevista #5** |
 | **Nombre del entrevistado:** | **Edad**: 23 años |
 | Camila Fernanda Morales Farias | **Ciudad**: Lima |
 | **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EXvkojdQ4E5LhbYOn-CLXJcBRDQ8FpjbhSsMGQS0pLVnGg?e=sbSiHD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )** | **Profesión**: Practicante de Agroindustrial (Unalm) |
