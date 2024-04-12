@@ -259,6 +259,20 @@ Mi perfil se basa en ser una persona que cuando enfrenta un problema no se rinde
 # Capítulo V: Implementation , Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+En esta sección definiremos las herramientas que utilizaremos en cada una de las fases del software.
+
+| Herramienta | Propósito | Ruta de Descarga/Referencia |
+|-------------|-----------|----------------------------|
+| Git         | Control de versiones y colaboración en el código fuente del proyecto | [Git](https://git-scm.com/) |
+| Jira Software | Gestión de tareas, seguimiento de problemas y planificación de tareas. Se podrá llevar a cabo una mejor gestión para cumplir con la metodología SCRUM | [Jira Software](https://www.atlassian.com/software/jira) |
+| Figma | Diseño de todas las interfaces de la aplicación y elaboración de un prototipo interactivo | [Figma](https://www.figma.com/) |
+| Rider | Codificación y desarrollo de software | [Rider](https://www.jetbrains.com/rider/) |
+| WebStorm | Codificación y desarrollo de software | [WebStorm](https://www.jetbrains.com/webstorm/) |
+| Azure | Despliegue y alojamiento de la aplicación | [Azure](https://azure.microsoft.com/) |
+| Markdown | Documentación técnica y de usuario | [Markdown Guide](https://www.markdownguide.org/getting-started/) |
+
+
 ### 5.1.2. Source Code Management.
 
 En esta sección detallaremos el esquema de organización que utilizaremos para aplicar el seguimiento de modificaciones que realizaremos en nuestro proyeto.
@@ -266,6 +280,8 @@ En esta sección detallaremos el esquema de organización que utilizaremos para 
 **Repositorio Remoto**
 
 Haremos uso de la plataforma GitHub para crear nuestros repositorios remotos. Estos repositorios serán de gran utilidad ya que nos sirven para almacenar y gestionar nuestro código fuente y la documentación. Así mismo, nos facilita la colaboración entre todos los integrantes del grupo y permite tener un control de versiones de nuestro proyecto.
+
+[Repositorio en Github](https://github.com/PecuarioPro/PecuarioPro/tree/main)
 
 **Implementación de GitFlow**
 
@@ -277,10 +293,21 @@ Utilizaremos el flujo de trabajo GitFlow, el cual nos permite tener un trabajo c
 - **release:** En esta rama se realizarán cambios mínimos los cuales no alteran la funcionalidad del software. Por lo general se suelen arreglar errores de ortografía y bugs mínimos. Además, en esta rama desarrollaremos la documentación respectiva del proyecto.
 - **hotfix:** Esta será una rama para la resolución de bugs de manera inmediata. En la rama hotfix se corrigen errores que impiden ciertas funcionalidades importantes del software y su correción es necesaria para la correcta operación del producto.
 
-**Convetional Commits**
+**Conventional Commits**
 
-Haremos uso de Conventional Commits para tener una mejor comprensión de los cambios realizados en el repositorio. Utilizaremos palabras clave como "fix" o "feature" para indicar el tipo de cambio realizado en los archivos, ya sea para el arreglo de bugs o la agregación de nuevo contenido. 
+Haremos uso de Conventional Commits para tener una mejor comprensión de los cambios realizados en el repositorio. Utilizaremos palabras clave como `fix` o `feature` para indicar el tipo de cambio realizado en los archivos, ya sea para el arreglo de bugs o la agregación de nuevo contenido. 
 
+**Versionamiento del software**
 
+Para el versionamiento de nuestro software haremos uso de etiquetas en git (git tag). Las etiquetas que representan las versiones del proyecto están conformadas por 3 números `(vX.Y.Z)`:
+
+- Primer número de la etiqueta `(X)`: Este representa la versión mayor del proyecto y se cambia cuando existen modificaciones importantes en las funcionalidades principales del sistema. 
+
+- Segundo número de la etiqueta `(Y)`: Este representa la agregación o el retiro de funcionalidades al sistema sin alterar su estructura principal.
+
+- Tercer número de la etiqueta `(Z)`: Este número final representa los parches realizados al software y es utilizado cuando se realiza una revisión. Suele utilizarse para corregir errores simples.
+
+Es así como en nuestro repositorio será observable el uso de etiquetas como `v0.1.0` o `v1.0.0` indicando la versión respectiva según el avance del proyecto .
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+
