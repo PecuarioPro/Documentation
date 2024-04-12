@@ -255,6 +255,7 @@ Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Con
 ![Foto integrante U20181b152](./assets/fotoalexander[797].png)
 
 **Soriano Medrano, Diego - U202114793**
+
 Ingeniería de software
 Soy una persona creativa y paciente, tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación como C++ y Python, estas herramientas me ayudan a realizar distintos tipos de trabajo y a resolver problemas, parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar y optimizar el trabajo. En mis tiempos libres suelo navegar por internet.
 
