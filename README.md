@@ -20,6 +20,7 @@ Pecuario Pro
 - Soriano Medrano, Diego		**U202114793**
 - Casaverde de la Cruz, Ernesto David 	**U20221B657**
 - Cantoral Sedamano, Alexander Alberto	**U20181B152**
+- Vásquez Villalobos, Elverth Jair **U202213070**
 
 
 <br>
