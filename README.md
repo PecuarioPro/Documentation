@@ -1071,8 +1071,11 @@ Para esta sección se explicará las directrices que respectan a la nomenclatura
 En esta sección se explicará el proceso del despliegue del proyecto.
 #### Landing Page:
 - Deployment Configuration:
+  
 ![Evidence LP](./assets/deployment_evidence.png)
+
 - Deployment with Firebase:
+  
 ![Landing Page](./assets/LandingPage.PNG)
 
 ## 5.2. Landing Page, Services & Applications Implementation
