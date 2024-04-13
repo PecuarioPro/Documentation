@@ -497,11 +497,44 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 | Camila Fernanda Morales Farias | **Ciudad**: Lima |
 | **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EXvkojdQ4E5LhbYOn-CLXJcBRDQ8FpjbhSsMGQS0pLVnGg?e=sbSiHD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )** | **Profesión**: Practicante de Agroindustrial (Unalm) |
 
+<br>
+<br>
 
-=======
->>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
+| Empresa Ganadera | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #6** |
+| **Nombre del entrevistado:** | **Edad**: 21 años |
+| Renzo Silva   | **Ciudad**: Lima |
+| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/Ebh5nQG8UIxEkAcwJWUzewYByInE1uMurjyvmi8PWE9VFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PXRW8f)** | **Profesión**: estudiante con mini empresa ganadera   |
 
 ### 2.2.3. Análisis de entrevistas.
+
+__Entrevista #1:__ 
+
+El entrevistado, Godofredo, identifica los desafíos en la gestión de su granja ganadera y propone la implementación de una aplicación móvil para optimizarla. Destaca la necesidad de registrar eventos como alimentación y tratamientos, así como acceder de manera ágil a datos sobre la salud y producción animal. También enfatiza la importancia de una planificación nutricional efectiva y la supervisión individualizada de los animales. En resumen, Godofredo ofrece valiosas sugerencias para transformar la gestión ganadera mediante una aplicación móvil.
+
+__Entrevista #2:__ 
+
+El entrevistado, Manuel Quispe Rodríguez, además de exponer los desafíos y necesidades en la gestión de su granja ganadera, sugiere la implementación de una aplicación móvil centralizada, como PecuarioPro, para facilitar el acceso y la visualización de datos relevantes. Expresa su interés en que la aplicación permita registrar eventos como alimentación, tratamientos, compras y ventas de animales, así como proporcionar información detallada sobre inventarios, salud y producción de cada animal. Además, destaca la importancia de poder acceder fácilmente a registros de alimentación y consumo de los animales para una mejor planificación nutricional. En resumen, junto con identificar las necesidades, el entrevistado ofrece valiosas sugerencias sobre las funciones y características que le gustaría ver en la aplicación móvil.
+
+__Entrevista #3:__
+
+El entrevistado, Ivan Lavado Vallejos dice que a visto cómo la tecnología ha transformado muchos aspectos de la agricultura, y creo que las aplicaciones web pueden ser una herramienta poderosa para mejorar la gestión animal.
+pero que La aplicación puede proporcionar un lugar centralizado para registrar toda la información relevante sobre los animales, como su raza, edad, historial médico, producción de leche o carne, y registros de vacunación. Esto facilita el seguimiento del progreso de cada animal y tomar decisiones informadas sobre su cuidado.
+
+__Entrevista #4:__
+
+El entrevistado, Elver Vásquez Rodrigo dice que La aplicación puede ayudar a los ganaderos a optimizar la reproducción de sus animales mediante el seguimiento de los ciclos de celo, la predicción de los mejores momentos para la inseminación artificial y el registro de los resultados de la reproducción. asi ayudaria a mejorar la industria ganadera de todo el peru.
+
+__Entrevista #5__
+
+La Entrevistadda,Camila Fernanda Morales Farias que la aplicación puede analizar los datos recopilados para identificar tendencias y patrones que pueden ayudar a los ganaderos a tomar mejores decisiones sobre la gestión de sus animales y su negocio.
+y ademas Al proporcionar a los ganaderos herramientas para mejorar la eficiencia, la toma de decisiones y el bienestar animal, estas aplicaciones pueden ayudar a crear un futuro más sostenible y rentable para la ganadería.
+
+__Entrevista #6__
+
+En la entrevista 3, Renzo Silva el ganadero independiente menciona que gestionar cantidades pequeñas de animales no le dificulta mucho, pero en cambio una app de gestión de animales le serviría para una mejor calidad de los animales menciono que tiene planes a seguir y desea expandir su negocio por ello necesita las bases correspondientes para poder gestionar bien a sus empleados y que la aplicación puede ayudar a los ganaderos a mejorar el bienestar animal al proporcionarles información y herramientas para detectar y prevenir problemas de salud, optimizar la reproducción y gestionar los pastos de manera sostenible.
+
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
 ![User persona 1 ](./assets/GANADERO-UP.png)
