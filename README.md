@@ -1069,7 +1069,10 @@ Para esta sección se explicará las directrices que respectan a la nomenclatura
 
 ### 5.1.4. Software Deployment Configuration
 En esta sección se explicará el proceso del despliegue del proyecto.
-- Landing Page:
+#### Landing Page:
+- Deployment Configuration:
+![Evidence LP](./assets/deployment_evidence.png)
+- Deployment with Firebase:
 ![Landing Page](./assets/LandingPage.PNG)
 
 ## 5.2. Landing Page, Services & Applications Implementation
