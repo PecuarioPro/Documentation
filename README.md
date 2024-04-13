@@ -852,25 +852,25 @@ BR>
 **Inicio de sesión y registro:**
 <BR>
 
-![principal web esp ](./assets/Inicio-de-sesion-y-registro.PNG)
+![principal web esp ](./assets/AMu_inicio.PNG)
 <BR>
 
 **User Home y vistas previas para el usuario en Organizaciones y Gestión del Ganado:**
 <BR>
 
-![principal web esp ](./assets/user-Home-Organizaciones-y-gestion.PNG)
+![principal web esp ](./assets/AMu_home.PNG)
 <BR>
 
 **Configuración de Perfiles para usuarios administración de cuentas y configuración para Cliente independiente y Negocio:**
 <BR>
 
-![principal web esp ](./assets/configuracion-de-perfiles-cliente-y-negocio.PNG)
+![principal web esp ](./assets/AMu_configuracion.PNG)
 <BR>
 
 **En organizaciones acceso a estadísticas control de animales, estadísticas inventario y suministros:**
 <BR>
 
-![principal web esp ](./assets/Organizaciones-estadisticas-y-contacto.PNG)
+![principal web esp ](./assets/AMu_organizaciones.PNG)
 <BR>
 
 ### 4.4.3. Web Applications User Flow Diagrams.
