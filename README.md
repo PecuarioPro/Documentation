@@ -1220,6 +1220,16 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 
 
 #### 5.2.1.3 Development Evidence for Sprint Review
+
+
+| Repository      | Branch      | Commit ID | Commit Message          | Commited on date |
+|-----------------|-------------|-----------|-------------------------|-------------------|
+| PecuarioPro     | Landing-Page| 93d7c02   | Agregate Landing Page   | 12/04/2024        |
+| PecuarioPro     | Landing-Page| 93d7c02…68cd9f4 | Fix: Changed href       | 12/04/2024        |
+| PecuarioPro     | Landing-Page| 68cd9f4…ddaedfe | fix: Agregate Domain name| 12/04/2024      |
+| PecuarioPro     | Landing-Page| ddaedfe8dafe6b5b03db07b9eaedc7eb5403cfcd | Feature: Agregate Firebase Hosting | 12/04/2024 |
+| PecuarioPro     | Landing-Page| 5bdb4a44eb881dad0703410065b6a464e28e1e9d | Feature: AdditionalFix Firebase | 1270472024 
+
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
 #### 5.2.1.5 Execution Evidence for Sprint Review
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
