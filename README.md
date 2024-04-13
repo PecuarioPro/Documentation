@@ -1082,7 +1082,7 @@ BR>
 
 ### 4.8.1. Database Diagram
 
-
+![Class Diagram](./assets/bd_Aplicaciones_Web.png)
 
 
 # Capítulo V: Implementation , Validation & Deployment.
