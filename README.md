@@ -965,6 +965,11 @@ BR>
 
 ### 4.7.2. Class Dictionary
 
+En esta sección definiremos las herramientas que utilizaremos en cada una de las fases del software.
+
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Rango | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|-------|------------------|----------------------|
+| User | id | identificador | integer | Mayor a cero | Entero | Valores enteros |
 
 
 
