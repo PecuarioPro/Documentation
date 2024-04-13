@@ -942,6 +942,6 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 
-#Conclusiones
+# Conclusiones
 
 -En resumen, el proyecto PecuarioPro se destaca por su diseño objetivo y su enfoque en mejorar el bienestar animal. Con un compromiso continuo con la actualización tecnológica, la capacitación de los usuarios y la colaboración con expertos, esta aplicación tiene el potencial de hacer una contribución significativa a la industria pecuaria al tiempo que promueve prácticas más éticas y sostenibles. Poniendo en primer lugar la salud de los anmales y su buen cuidado como una buena gestion de ellos.
