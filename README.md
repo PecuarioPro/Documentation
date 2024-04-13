@@ -303,7 +303,7 @@ __6.-Seguridad y privacidad:__ Se asume, que los ganaderos puedan contar con muc
 
 ![Lean UX Canvas](./assets/Lean%20UX%20Canvas.png)
 
-Link del figjam [here](https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1 "Lean ux canvas").
+Link del figma [here](https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1 "Lean ux canvas").
 
 
 ## 1.3. Segmentos objetivo.
@@ -870,6 +870,10 @@ Para el versionamiento de nuestro software haremos uso de etiquetas en git (git 
 Es así como en nuestro repositorio será observable el uso de etiquetas como `v0.1.0` o `v1.0.0` indicando la versión respectiva según el avance del proyecto .
 
 ### 5.1.3. Source Code Style Guide & Conventions.
+Para esta sección se explicará las directrices que respectan a la nomenclatura y uso del lenguaje para la programación y documentación del proyecto.
+- Convención del idioma: Se optó por el idioma inglés para todo lo relacionado al código, D.D. arquitecture y para la base de datos.
+- Herramientas: Desarrollamos nuestro proyecto con herramientas fundamentales como Github, Gitflow, Visual Studio Code, Figma y Miro.
+- Tecnologías: Para la creación de la Landing Page se uso principalmente HTML, CSS y Javascript.
 
 ### 5.1.4. Software Deployment Configuration
 
