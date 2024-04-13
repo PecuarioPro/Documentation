@@ -990,7 +990,7 @@ BR>
 
 ### 4.7.1. Class Diagram
 
-![Class Diagram](./assets/classdiagram.PNG)
+![Class Diagram](./assets/classdiagram.png)
 
 
 ### 4.7.2. Class Dictionary
@@ -1069,7 +1069,7 @@ Para esta sección se explicará las directrices que respectan a la nomenclatura
 
 ### 5.1.4. Software Deployment Configuration
 En esta sección se explicará el proceso del despliegue del proyecto.
-Landing Page:
+- Landing Page:
 ![Landing Page](./assets/LandingPage.PNG)
 
 ## 5.2. Landing Page, Services & Applications Implementation
