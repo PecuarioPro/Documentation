@@ -796,6 +796,31 @@ BR>
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+**Inicio de sesión y registro:**
+<BR>
+
+![principal web esp ](./assets/nostros.jpg)
+<BR>
+
+**User Home y vistas previas para el usuario en Organizaciones y Gestión del Ganado:**
+<BR>
+
+![principal web esp ](./assets/nostros.jpg)
+<BR>
+
+**Configuración de Perfiles para usuarios administración de cuentas y configuración para Cliente independiente y Negocio:**
+<BR>
+
+![principal web esp ](./assets/nostros.jpg)
+<BR>
+
+**En organizaciones acceso a estadísticas control de animales, estadísticas inventario y suministros**
+<BR>
+
+![principal web esp ](./assets/nostros.jpg)
+<BR>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
