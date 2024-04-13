@@ -723,19 +723,19 @@ BR>
 <BR>
 
 ![principal web esp ](./assets/nostros.jpg)
-BR>
+<BR>
 
 **Mock-up DE COMO FUNCIONA:**
 <BR>
 
 ![principal web esp ](./assets/funciones.jpg)
-BR>
+<BR>
 
 **Mock-up DE PLANES:**
 <BR>
 
 ![principal web esp ](./assets/planes.jpg)
-BR>
+<BR>
 
 **Mock-up DE CONTACTANOS:**
 <BR>
