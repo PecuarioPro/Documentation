@@ -970,6 +970,7 @@ En esta sección definiremos las herramientas que utilizaremos en cada una de la
 | Entidad | Nombre de Atributos | Definición | Tipo de dato | Rango | Unidad de Medida | Valores Restringidos |
 |---------|---------------------|------------|--------------|-------|------------------|----------------------|
 | User | id | identificador | integer | Mayor a cero | Entero | Valores enteros |
+| User | id | identificador | integer | Mayor a cero | Entero | Valores enteros |
 
 
 
