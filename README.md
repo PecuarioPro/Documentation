@@ -990,7 +990,7 @@ BR>
 
 ### 4.7.1. Class Diagram
 
-![Class Diagram](./assets/classdiagram.png)
+![Class Diagram](./assets/class_diagram_aw.PNG)
 
 
 ### 4.7.2. Class Dictionary
