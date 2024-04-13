@@ -229,6 +229,7 @@ __Logotipo de la Startup:__
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<<<<<<< HEAD
 **Rojas Velasquez, Maycol Jhordan - U20221984**
 
 Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python  y SQL server. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.
@@ -263,6 +264,8 @@ Soy una persona creativa y paciente, tengo conocimiento en el uso de diferentes 
 ![Foto integrante U20181b152](./assets/foto-upc.jpg)
 
 
+=======
+>>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
 
@@ -421,6 +424,7 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 ### 2.2.1. Diseño de entrevistas.
 
 ### 2.2.2. Registro de entrevistas.
+<<<<<<< HEAD
 | Ganadero Independiente | **Descripción** |
 |------------------------|-----------------|
 | **Entrevista #1** | 
@@ -471,6 +475,8 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 | **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EXvkojdQ4E5LhbYOn-CLXJcBRDQ8FpjbhSsMGQS0pLVnGg?e=sbSiHD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )** | **Profesión**: Practicante de Agroindustrial (Unalm) |
 
 
+=======
+>>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
 
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
@@ -498,6 +504,7 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 ![As-is Scenario Mapping](./assets/AS-IS%20Scenario%20map.jpg)
 
 ## 2.4. Ubiquitous Language.
+<<<<<<< HEAD
 En esta sección se definirán términos que se comuniquen de forma correcta los miembros y los stakeholders del equipo.
 *    **Startup Profile**: Descripción de startup y perfiles de los integrantes del grupo
 *    **Solution Profile**: Antecedentes, problemática y proceso Lean UX.
@@ -518,6 +525,9 @@ En esta sección se definirán términos que se comuniquen de forma correcta los
 *    **Sprint Planning**: Planificación de las iteraciones de desarrollo.
 *    **Sprint Backlog**: Lista de tareas a realizar durante una iteración.
 *    **Sprint Review**: Revisión y evaluación del trabajo realizado en una iteración.
+=======
+
+>>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
@@ -539,6 +549,21 @@ En esta sección se definirán términos que se comuniquen de forma correcta los
 ![HU13](./assets/HU13.png)
 
 ## 3.3. Impact Mapping.
+
+A continuación presentaremos 3 Business Goals que consideramos importantes en nuestro proyecto:
+
+**Business Goal 1**
+
+![Business Goal 1](./assets/Business-Goal-1.jpg)
+
+**Business Goal 2**
+
+![Business Goal 2](./assets/Business-Goal-2.jpg)
+
+**Business Goal 3**
+
+![Business Goal 3](./assets/Business-Goal-3.jpg)
+
 ## 3.4. Product Backlog.
 # Product Backlog
 
@@ -681,6 +706,7 @@ Nuestro enfoque en las "Web Style Guidelines" se centra en la creación de una e
 
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
+<<<<<<< HEAD
 En esta sección, definiremos los sistemas de organización que guiarán la estructura y el flujo de información en el proyecto PecuarioPro.
 *    Jerarquía de contenido: Organizaremos el contenido en una estructura jerárquica clara, con secciones principales y subsecciones relacionadas con la gestión ganadera.
 *    Categorización: Los elementos de contenido se agruparán en categorías lógicas relacionadas con la salud animal, la alimentación, la reproducción y la gestión de la granja.
@@ -709,6 +735,18 @@ En esta sección, se detallarán los sistemas de navegación que guiarán a los 
 *    Menú de navegación: Mantenimiento de un menú de navegación claro y accesible en todas las páginas de aplicación, facilitando el acceso a las herramientas y secciones principales relacionadas con la gestión ganadera.
 *    Breadcumbs: Implementación de breadcrumbs en las páginas para mostrar la ubicación del usuario dentro de la estructura de la plataforma y facilitar la navegación de regreso.
 *    Enlaces relacionados: Provisión de enlaces relacionados en cada herramienta y sección para guiar a los usuarios a contenido relevante y promover una gestión ganadera más eficiente y sostenible.
+=======
+
+
+### 4.2.2. Labeling Systems.
+
+  
+### 4.2.3. SEO Tags and Meta Tags
+
+### 4.2.4. Searching Systems.
+
+### 4.2.5. Navigation Systems.
+>>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
