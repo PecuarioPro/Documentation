@@ -815,7 +815,7 @@ BR>
 ![principal web esp ](./assets/configuracion-de-perfiles-cliente-y-negocio.PNG)
 <BR>
 
-**En organizaciones acceso a estadísticas control de animales, estadísticas inventario y suministros**
+**En organizaciones acceso a estadísticas control de animales, estadísticas inventario y suministros:**
 <BR>
 
 ![principal web esp ](./assets/Organizaciones-estadisticas-y-contacto.PNG)
