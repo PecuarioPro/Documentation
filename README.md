@@ -20,6 +20,7 @@ Pecuario Pro
 - Soriano Medrano, Diego		**U202114793**
 - Casaverde de la Cruz, Ernesto David 	**U20221B657**
 - Cantoral Sedamano, Alexander Alberto	**U20181B152**
+- Vásquez Villalobos, Elverth Jair **U202213070**
 
 
 <br>
@@ -86,130 +87,118 @@ Pecuario Pro
 <br>
 <br>
 
-# PROJECT REPORT COLLABORATION INSIGHTS
+## Project Report Collaboration Insights
 
-....
+En esta sección, el equipo proporciona una visión general de la colaboración y el desarrollo del Project Report a través de nuestro repositorio en GitHub. El repositorio se encuentra en la organización de GitHub del equipo bajo el siguiente URL:
+
+[GitHub ](https://github.com/PecuarioPro/PecuarioPro.git)
+<br>
+<br>
+
+
+
+### Entregas
+
+| Entrega | Descripción de Actividades | Captura de Pantalla |
+|---------|----------------------------|---------------------|
+| 1       | Establecimiento de la estructura básica del informe y definición de objetivos. | ![Commits](https://hackmd.io/_uploads/Sy-HNbwl0.jpg) ![Organizacion](https://hackmd.io/_uploads/H1rHNZwg0.jpg) |
+| 2       | Recopilación de datos e investigación para completar los capítulos del informe. | ![Analiticos](https://hackmd.io/_uploads/SJdBEWDl0.jpg)|
+| 3       | Redacción del informe completo, revisión en equipo y ajustes finales. | ![Commits frecuencia](https://hackmd.io/_uploads/Sk9rN-we0.jpg) |
+| 4       | Finalización del informe, revisión y edición. | ![analitics 2 ](https://hackmd.io/_uploads/r16BEWweA.jpg)|
+
+Cada miembro del equipo ha participado activamente en la elaboración del informe, aportando ideas, realizando investigaciones y contribuyendo a la redacción y edición del documento. Esta sección se actualizará con nuevas capturas de pantalla y descripciones de las actividades realizadas en cada entrega, asegurando que el informe refleje la colaboración y el esfuerzo conjunto del equipo.
+
+
 
 # CONTENIDO
 
+# Tabla de Contenidos
 
-<ul>
-    <li>STUDENT OUTCOME</li>
-</ul>
-
-<h2>Capítulo I: Introducción</h2>
-<h3>1.1. Startup Profile</h3>
-<ul>
-    <li>1.1.1. Descripción de la Startup</li>
-    <li>1.1.2. Perfiles de integrantes del equipo</li>
-</ul>
-
-<h3>1.2. Solution Profile</h3>
-<ul>
-    <li>1.2.1 Antecedentes y problemática</li>
-    <li>1.2.2 Lean UX Process.
-        <ul>
-            <li>1.2.2.1. Lean UX Problem Statements</li>
-            <li>1.2.2.2. Lean UX Assumptions</li>
-            <li>1.2.2.3. Lean UX Hypothesis Statements</li>
-            <li>1.2.2.4. Lean UX Canvas</li>
-        </ul>
-    </li>
-</ul>
-
-<h3>1.3. Segmentos objetivo.</h3>
-
-<h2>Capítulo II: Requirements Elicitation & Analysis</h2>
-<h3>2.1. Competidores.</h3>
-<ul>
-    <li>2.1.1. Análisis competitivo.</li>
-    <li>2.1.2. Estrategias y tácticas frente a competidores.</li>
-</ul>
-
-<h3>2.2. Entrevistas.</h3>
-<ul>
-    <li>2.2.1. Diseño de entrevistas</li>
-    <li>2.2.2. Registro de entrevistas</li>
-    <li>2.2.3. Análisis de entrevistas.</li>
-</ul>
-
-<h3>2.3. Needfinding.</h3>
-<ul>
-    <li>2.3.1. User Personas.</li>
-    <li>2.3.2. User Task Matrix</li>
-    <li>2.3.3. User Journey Mapping.</li>
-    <li>2.3.4. Empathy Mapping.</li>
-    <li>2.3.5. As-is Scenario Mapping.</li>
-</ul>
-
-<h3>2.4. Ubiquitous Language.</h3>
-
-<h2>Capítulo III: Requirements Specification</h2>
-<ul>
-    <li>3.1. To-Be Scenario Mapping.</li>
-    <li>3.2. User Stories.</li>
-    <li>3.3. Impact Mapping.</li>
-    <li>3.4. Product Backlog.</li>
-</ul>
-
-<h2>Capítulo IV: Product Design</h2>
-<h3>4.1. Style Guidelines.</h3>
-<ul>
-    <li>4.1.1. General Style Guidelines.</li>
-    <li>4.1.2. Web Style Guidelines.</li>
-</ul>
-
-<h3>4.2. Information Architecture.</h3>
-<ul>
-    <li>4.2.1. Organization Systems.</li>
-    <li>4.2.2. Labeling Systems.</li>
-    <li>4.2.3. SEO Tags and Meta Tags</li>
-    <li>4.2.4. Searching Systems.</li>
-    <li>4.2.5. Navigation Systems.</li>
-</ul>
-
-<h3>4.3. Landing Page UI Design.</h3>
-<ul>
-    <li>4.3.1. Landing Page Wireframe</li>
-    <li>4.3.2. Landing Page Mock-up.</li>
-</ul>
-
-<h3>4.4. Web Applications UX/UI Design.</h3>
-<ul>
-    <li>4.4.1. Web Applications Wireframes</li>
-    <li>4.4.2. Web Applications Wireflow Diagrams.</li>
-    <li>4.4.2. Web Applications Mock-ups.</li>
-    <li>4.4.3. Web Applications User Flow Diagrams.</li>
-</ul>
-
-
-<h3>4.5. Web Applications Prototyping.</h3>
-
-
-<h3>4.6. Domain-Driven Software Architecture.</h3>
-<ul>
-    <li>4.6.1. Software Architecture Context Diagram.</li>
-    <li>4.6.2. Software Architecture Container Diagrams.</li>
-    <li>4.6.3. Software Architecture Components Diagrams.</li>
-</ul>
-
-<h3>4.7. Software Object-Oriented Design.</h3>
-<ul>
-    <li>4.7.1. Class Diagrams.</li>
-    <li>4.7.2. Class Dictionary.</li>
-</ul>
-
-<h3>4.8. Database Design.</h3>
-<ul>
-    <li>4.8.1. Database Diagram.</li>
-</ul>
+1. [Capítulo I: Introducción](#capítulo-i-introducción)<br>
+   1.1. [Startup Profile](#startup-profile)<br>
+      1.1.1. [Descripción de la Startup](#descripción-de-la-startup)<br>
+      1.1.2. [Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)<br>
+   1.2. [Solution Profile](#solution-profile)<br>
+      1.2.1. [Antecedentes y problemática](#antecedentes-y-problemática)<br>
+      1.2.2. [Lean UX Process](#lean-ux-process)<br>
+         1.2.2.1. [Lean UX Problem Statements](#principio-1)<br>
+         1.2.2.2. [Lean UX Assumptions](#principio-2)<br>
+         1.2.2.3. [Lean UX Hypothesis Statements](#principio-3)<br>
+         1.2.2.4. [Lean UX Canvas](#principio-4)<br>
+   1.3. [Segmentos objetivo](#lean-ux-problem-statements-assumptions-hypothesis-statements-canvas-segmentos-objetivo)<br>
+2. [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation-analysis)<br>
+   2.1. [Competidores](#competidores)<br>
+      2.1.1. [Análisis competitivo](#análisis-competitivo)<br>
+      2.1.2. [Estrategias y tácticas frente a competidores](#estrategias-y-tácticas-frente-a-competidores)<br>
+   2.2. [Entrevistas](#entrevistas)<br>
+      2.2.1. [Diseño de entrevistas](#diseño-de-entrevistas)<br>
+      2.2.2. [Registro de entrevistas](#registro-de-entrevistas)<br>
+      2.2.3. [Análisis de entrevistas](#análisis-de-entrevistas)<br>
+   2.3. [Needfinding](#needfinding)<br>
+      2.3.1. [User Personas](#user-personas)<br>
+      2.3.2. [User Task Matrix](#user-task-matrix)<br>
+      2.3.3. [User Journey Mapping](#user-journey-mapping)<br>
+      2.3.4. [Empathy Mapping](#empathy-mapping)<br>
+      2.3.5. [As-is Scenario Mapping](#as-is-scenario-mapping)<br>
+   2.4. [Ubiquitous Language](#ubiquitous-language)<br>
+3. [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)<br>
+   3.1. [To-Be Scenario Mapping](#to-be-scenario-mapping)<br>
+   3.2. [User Stories](#user-stories)<br>
+   3.3. [Impact Mapping](#impact-mapping)<br>
+   3.4. [Product Backlog](#product-backlog)<br>
+4. [Capítulo IV: Product Design](#capítulo-iv-product-design)<br>
+   4.1. [Style Guidelines](#style-guidelines)<br>
+      4.1.1. [General Style Guidelines](#general-style-guidelines)<br>
+      4.1.2. [Web Style Guidelines](#web-style-guidelines)<br>
+   4.2. [Information Architecture](#information-architecture)<br>
+      4.2.1. [Organization Systems](#organization-systems)<br>
+      4.2.2. [Labeling Systems](#labeling-systems)<br>
+      4.2.3. [SEO Tags and Meta Tags](#seo-tags-and-meta-tags)<br>
+      4.2.4. [Searching Systems](#searching-systems)<br>
+      4.2.5. [Navigation Systems](#navigation-systems)<br>
+   4.3. [Landing Page UI Design](#landing-page-ui-design)<br>
+      4.3.1. [Landing Page Wireframe](#landing-page-wireframe)<br>
+      4.3.2. [Landing Page Mock-up](#landing-page-mock-up)<br>
+   4.4. [Web Applications UX/UI Design](#web-applications-uxui-design)<br>
+      4.4.1. [Web Applications Wireframes](#web-applications-wireframes)<br>
+      4.4.2. [Web Applications Wireflow Diagrams](#web-applications-wireflow-diagrams)<br>
+      4.4.2. [Web Applications Mock-ups](#web-applications-mock-ups)<br>
+      4.4.3. [Web Applications User Flow Diagrams](#web-applications-user-flow-diagrams)<br>
+   4.5. [Web Applications Prototyping](#web-applications-prototyping)<br>
+   4.6. [Domain-Driven Software Architecture](#domain-driven-software-architecture)<br>
+      4.6.1. [Software Architecture Context Diagram](#software-architecture-context-diagram)<br>
+      4.6.2. [Software Architecture Container Diagrams](#software-architecture-container-diagrams)<br>
+      4.6.3. [Software Architecture Components Diagrams](#software-architecture-components-diagrams)<br>
+   4.7. [Software Object-Oriented Design](#software-object-oriented-design)<br>
+      4.7.1. [Class Diagrams](#class-diagrams)<br>
+      4.7.2. [Class Dictionary](#class-dictionary)<br>
+   4.8. [Database Design](#database-design)<br>
+      4.8.1. [Database Diagram](#database-diagram)<br>
+5. [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation-deployment)<br>
+   5.1. [Software Configuration Management](#software-configuration-management)<br>
+      5.1.1. [Software Development Environment Configuration](#software-development-environment-configuration)<br>
+      5.1.2. [Source Code Management](#source-code-management)<br>
+      5.1.3. [Source Code Style Guide & Conventions](#source-code-style-guide-conventions)<br>
+      5.1.4. [Software Deployment Configuration](#software-deployment-configuration)<br>
+   5.2. [Landing Page, Services & Applications Implementation](#landing-page-services-applications-implementation)<br>
+      5.2.1. [Sprint 1](#sprint-1)<br>
+         5.2.1.1. [Sprint Planning 1](#sprint-planning-1)<br>
+         5.2.1.2. [Sprint Backlog 1](#sprint-backlog-1)<br>
+         5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)<br>
+         5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)<br>
+         5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)<br>
+         5.2.1.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)<br>
+         5.2.1.7. [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)<br>
+         5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)<br>
 
 
 # STUDENT OUTCOME
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---------------------|---------------------|--------------|
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | TB1 | TB1 |
+| Criterio Específico | Acciones realizadas | Conclusiones |
+|---------------------|----------------------|---------------|
+| 2.c1. Diseñar soluciones en ingeniería de software que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos. | **Rojas Velásquez, Maycol Jhordan:** Diseñó la arquitectura de software basada en principios de diseño centrado en el usuario, considerando aspectos de salud pública y seguridad. <br> **Soriano Medrano, Diego:** Implementó soluciones de backend para soportar la funcionalidad de la aplicación, asegurando la escalabilidad y la seguridad de los datos. <br> **Cantoral Sedamano, Alexander Alberto:** Desarrolló la interfaz de usuario, enfocándose en la experiencia del usuario y la accesibilidad, considerando factores de bienestar y accesibilidad. <br> **Casaverde de la Cruz Ernesto David:** Lideró el equipo en la definición de los requisitos del proyecto, asegurando que se consideraran aspectos globales y culturales en el diseño de la solución. | **Conclusiones:** El equipo ha demostrado una comprensión profunda de los factores de impacto en salud pública, seguridad, bienestar, y factores globales, culturales, sociales, ambientales y económicos, aplicándolos en el diseño de la solución de software. La colaboración entre los miembros del equipo ha sido clave para el éxito del proyecto. |
+| 2.c2. Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | **Rojas Velásquez, Maycol Jhordan:** Realizó pruebas de usabilidad y pruebas de seguridad para validar que la solución cumple con los requisitos de salud pública y seguridad. <br> **Soriano Medrano, Diego:** Implementó pruebas de rendimiento y pruebas de integración para asegurar que la solución es escalable y segura. <br> **Cantoral Sedamano, Alexander Alberto:** Lideró el equipo en la validación de la solución a través de pruebas de aceptación del usuario, asegurando que la solución cumple con los requisitos de bienestar y accesibilidad. <br> **Casaverde de la Cruz Ernesto David:** Coordinó el proceso de validación, asegurando que se consideren aspectos globales y culturales en el diseño de la solución. | **Conclusiones:** La validación de la solución de software ha demostrado que se han considerado adecuadamente los aspectos de salud pública, seguridad, bienestar, y factores globales, culturales, sociales, ambientales y económicos. La colaboración entre los miembros del equipo ha sido esencial para garantizar que la solución cumple con los requisitos y expectativas. |
+
 
 
 
@@ -253,6 +242,13 @@ Ingeniería de software
 Acerca de mí: Conocimientos técnicos de programación en C++, PHP, Python. Conocimientos básicos de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
 
 ![Foto integrante U20181b152](./assets/fotoalexander[797].png)
+
+**Soriano Medrano, Diego - U202114793**
+
+Ingeniería de software
+Soy una persona creativa y paciente, tengo conocimiento en el uso de diferentes herramientas informáticas y lenguajes de programación como C++ y Python, estas herramientas me ayudan a realizar distintos tipos de trabajo y a resolver problemas, parte de mis habilidades blandas es siempre tomar en cuenta la opinión de mis compañeros, lo cual me facilita el poder trabajar en equipo, para agilizar y optimizar el trabajo. En mis tiempos libres suelo navegar por internet.
+
+![Foto integrante U20181b152](./assets/foto-upc.jpg)
 
 
 ## 1.2. Solution Profile
@@ -307,7 +303,7 @@ __6.-Seguridad y privacidad:__ Se asume, que los ganaderos puedan contar con muc
 
 ![Lean UX Canvas](./assets/Lean%20UX%20Canvas.png)
 
-Link del figjam [here](https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1 "Lean ux canvas").
+Link del figma [here](https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1 "Lean ux canvas").
 
 
 ## 1.3. Segmentos objetivo.
@@ -412,6 +408,41 @@ Para nuestra web App queremos contar con la última tecnología disponible tales
 Esta parte del informe presentará la parte objetiva de las entrevistas junto con el análisis relevante de cada una de ellas.
 ### 2.2.1. Diseño de entrevistas.
 
+# Segmento #1 Productores Ganaderos independientes
+
+Nuestra plataforma ha desarrollado un conjunto de preguntas diseñadas específicamente para abordar las necesidades, experiencias y expectativas de los productores ganaderos en relación con la gestión eficiente de sus operaciones y el cuidado óptimo de sus animales. La transparencia y la confianza son fundamentales en la industria ganadera, ya que aseguran una relación sólida con los consumidores y garantizan la calidad y seguridad de los productos. Nuestro objetivo es ayudar a los productores ganaderos a alcanzar estos objetivos proporcionándoles herramientas y recursos para gestionar sus actividades, mejorar el cuidado de sus animales y medir su impacto en la comunidad y el medio ambiente. Además, buscamos identificar formas de simplificar los procesos de gestión y ofrecer una plataforma intuitiva que se adapte a las necesidades específicas de los productores ganaderos. Al aprovechar la tecnología, nuestra plataforma puede ofrecer importantes beneficios a los productores ganaderos, incluida una mayor eficiencia operativa, mejor control de calidad y una mayor conexión con los consumidores finales.
+
+## Preguntas Principales
+
+- ¿Nos podría indicar su nombre, edad y tiempo que se dedica a la ganadería?
+- ¿Cómo gestionas la alimentación y nutrición de tus animales?
+- ¿Qué medidas tomas para garantizar la salud y el bienestar de tus animales?
+- ¿Qué aspectos de la gestión de la salud veterinaria de tus animales consideras más importantes?
+- ¿Qué herramientas o recursos utilizas para llevar un registro de la salud y el rendimiento de tus animales?
+- ¿Qué desafíos enfrentas al administrar tu ganadería y cómo crees que una aplicación podría ayudarte a superarlos?
+- ¿Qué funcionalidades te gustaría ver en una aplicación de gestión ganadera?
+- ¿Qué tipo de información te gustaría poder acceder fácilmente desde tu aplicación?
+- ¿Cómo te gustaría llevar un registro de la alimentación y el consumo de tus animales?
+- ¿Qué esperas lograr al implementar una aplicación como PecuarioPro en tu ganadería?
+
+# Segmento #2 Empresas Ganaderas
+
+PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas ganaderas corporativas, donde se manejan grandes cantidades de animales. Para lograr esto, la plataforma formula preguntas específicas a los administradores y responsables de estas empresas sobre sus necesidades, experiencias y expectativas en cuanto a una plataforma de gestión ganadera. Además, mediante estas entrevistas, se pueden identificar las estrategias que consideran cruciales para una gestión ganadera efectiva y sostenible. Algunas de las preguntas que se pueden hacer a los responsables de las empresas ganaderas incluyen qué herramientas y recursos necesitan para gestionar sus operaciones de manera eficiente y cómo les gustaría que se les brinde apoyo para mejorar el cuidado y la producción de sus animales.
+
+## Preguntas Principales
+
+- ¿Nos podría indicar su nombre, edad y puesto en la empresa?
+- ¿Cuántos animales maneja tu empresa en sus operaciones ganaderas?
+- ¿Qué funcionalidades te gustaría ver en una aplicación de gestión ganadera a nivel corporativo?
+- ¿Qué aspectos de la gestión ganadera consideras más críticos para el éxito de tu empresa?
+- ¿Qué información o datos son más importantes para el seguimiento y la toma de decisiones en tu empresa ganadera?
+- ¿Qué funcionalidades te gustaría ver para facilitar la gestión del personal y la planificación de horarios en tu empresa ganadera?
+- ¿Qué tipo de informes o análisis te gustaría generar para evaluar el desempeño de tu empresa ganadera?
+- ¿Cómo te gustaría interactuar con proveedores y otros socios comerciales a través de una plataforma como PecuarioPro?
+- ¿Qué nivel de personalización o adaptabilidad esperas de una aplicación de gestión ganadera para satisfacer las necesidades específicas de tu empresa?
+- ¿Qué mejoras esperas obtener al implementar una aplicación como PecuarioPro en tus operaciones ganaderas corporativas?
+
+
 ### 2.2.2. Registro de entrevistas.
 | Ganadero Independiente | **Descripción** |
 |------------------------|-----------------|
@@ -434,9 +465,30 @@ Esta parte del informe presentará la parte objetiva de las entrevistas junto co
 <br>
 <br>
 
-| Empresa Ganadera | **Descripción** |
+| Ganadero Independiente | **Descripción** |
 |------------------------|-----------------|
 | **Entrevista #3** |
+| **Nombre del entrevistado:** | **Edad**: 19 años |
+| Ivan Lavado Vallejos | **Ciudad**: Chiclayo |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EenB71Lb9rJMjwBwRMt9VN4B6leBPapSaIMcLp2ZHZoK_g?e=ooKSxG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Ganadero independiente |
+
+<br>
+<br>
+
+| Empresa Ganadera | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #4** |
+| **Nombre del entrevistado:** | **Edad**: 45 años |
+| Elver Vásquez Rodrigo | **Ciudad**: Chiclayo |
+| **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/Ebs9p6KOyFZGl4919U9BS1YBceooBjnmmLJ1PFtblUOvPg?e=n1OcFY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Tesorero en empresa ganadera |
+
+
+<br>
+<br>
+
+| Empresa Ganadera | **Descripción** |
+|------------------------|-----------------|
+| **Entrevista #5** |
 | **Nombre del entrevistado:** | **Edad**: 23 años |
 | Camila Fernanda Morales Farias | **Ciudad**: Lima |
 | **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EXvkojdQ4E5LhbYOn-CLXJcBRDQ8FpjbhSsMGQS0pLVnGg?e=sbSiHD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )** | **Profesión**: Practicante de Agroindustrial (Unalm) |
@@ -496,7 +548,7 @@ En esta sección se definirán términos que se comuniquen de forma correcta los
 
 ## 3.2. User Stories.
 ![HU1](./assets/HU1.png)
-![HU2](./assetS/HU2.png)
+![HU2](./assets/HU2.png)
 ![HU3](./assets/HU3.png)
 ![HU4](./assets/HU4.png)
 ![HU5](./assets/HU5.png)
@@ -508,6 +560,11 @@ En esta sección se definirán términos que se comuniquen de forma correcta los
 ![HU11](./assets/HU11.png)
 ![HU12](./assets/HU12.png)
 ![HU13](./assets/HU13.png)
+<br>
+Link donde se hizo las User Stories : 
+[Canvas](https://www.canva.com/design/DAFnx0PwxDA/SUwwPGid2HJj28K1XF_Mig/edit?utm_content=DAFnx0PwxDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<br>
 
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
@@ -762,6 +819,20 @@ BR>
 # Capítulo V: Implementation , Validation & Deployment.
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+En esta sección definiremos las herramientas que utilizaremos en cada una de las fases del software.
+
+| Herramienta | Propósito | Ruta de Descarga/Referencia |
+|-------------|-----------|----------------------------|
+| Git         | Control de versiones y colaboración en el código fuente del proyecto | [Git](https://git-scm.com/) |
+| Jira Software | Gestión de tareas, seguimiento de problemas y planificación de tareas. Se podrá llevar a cabo una mejor gestión para cumplir con la metodología SCRUM | [Jira Software](https://www.atlassian.com/software/jira) |
+| Figma | Diseño de todas las interfaces de la aplicación y elaboración de un prototipo interactivo | [Figma](https://www.figma.com/) |
+| Rider | Codificación y desarrollo de software | [Rider](https://www.jetbrains.com/rider/) |
+| WebStorm | Codificación y desarrollo de software | [WebStorm](https://www.jetbrains.com/webstorm/) |
+| Azure | Despliegue y alojamiento de la aplicación | [Azure](https://azure.microsoft.com/) |
+| Markdown | Documentación técnica y de usuario | [Markdown Guide](https://www.markdownguide.org/getting-started/) |
+
+
 ### 5.1.2. Source Code Management.
 
 En esta sección detallaremos el esquema de organización que utilizaremos para aplicar el seguimiento de modificaciones que realizaremos en nuestro proyeto.
@@ -769,6 +840,8 @@ En esta sección detallaremos el esquema de organización que utilizaremos para 
 **Repositorio Remoto**
 
 Haremos uso de la plataforma GitHub para crear nuestros repositorios remotos. Estos repositorios serán de gran utilidad ya que nos sirven para almacenar y gestionar nuestro código fuente y la documentación. Así mismo, nos facilita la colaboración entre todos los integrantes del grupo y permite tener un control de versiones de nuestro proyecto.
+
+[Repositorio en Github](https://github.com/PecuarioPro/PecuarioPro/tree/main)
 
 **Implementación de GitFlow**
 
@@ -780,24 +853,27 @@ Utilizaremos el flujo de trabajo GitFlow, el cual nos permite tener un trabajo c
 - **release:** En esta rama se realizarán cambios mínimos los cuales no alteran la funcionalidad del software. Por lo general se suelen arreglar errores de ortografía y bugs mínimos. Además, en esta rama desarrollaremos la documentación respectiva del proyecto.
 - **hotfix:** Esta será una rama para la resolución de bugs de manera inmediata. En la rama hotfix se corrigen errores que impiden ciertas funcionalidades importantes del software y su correción es necesaria para la correcta operación del producto.
 
-**Convetional Commits**
+**Conventional Commits**
 
-Haremos uso de Conventional Commits para tener una mejor comprensión de los cambios realizados en el repositorio. Utilizaremos palabras clave como "fix" o "feature" para indicar el tipo de cambio realizado en los archivos, ya sea para el arreglo de bugs o la agregación de nuevo contenido. 
+Haremos uso de Conventional Commits para tener una mejor comprensión de los cambios realizados en el repositorio. Utilizaremos palabras clave como `fix` o `feature` para indicar el tipo de cambio realizado en los archivos, ya sea para el arreglo de bugs o la agregación de nuevo contenido. 
 
+**Versionamiento del software**
 
+Para el versionamiento de nuestro software haremos uso de etiquetas en git (git tag). Las etiquetas que representan las versiones del proyecto están conformadas por 3 números `(vX.Y.Z)`:
+
+- Primer número de la etiqueta `(X)`: Este representa la versión mayor del proyecto y se cambia cuando existen modificaciones importantes en las funcionalidades principales del sistema. 
+
+- Segundo número de la etiqueta `(Y)`: Este representa la agregación o el retiro de funcionalidades al sistema sin alterar su estructura principal.
+
+- Tercer número de la etiqueta `(Z)`: Este número final representa los parches realizados al software y es utilizado cuando se realiza una revisión. Suele utilizarse para corregir errores simples.
+
+Es así como en nuestro repositorio será observable el uso de etiquetas como `v0.1.0` o `v1.0.0` indicando la versión respectiva según el avance del proyecto .
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-
-# Capítulo V: Product Implementation, Validation & Deployment
-
-## 5.1. Software Configuration Management
-
-### 5.1.1. Software Development Environment Configuration
-
-
-### 5.1.2. Source Code Management
-
-
+Para esta sección se explicará las directrices que respectan a la nomenclatura y uso del lenguaje para la programación y documentación del proyecto.
+- Convención del idioma: Se optó por el idioma inglés para todo lo relacionado al código, D.D. arquitecture y para la base de datos.
+- Herramientas: Desarrollamos nuestro proyecto con herramientas fundamentales como Github, Gitflow, Visual Studio Code, Figma y Miro.
+- Tecnologías: Para la creación de la Landing Page se uso principalmente HTML, CSS y Javascript.
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -869,3 +945,7 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
 #### 5.2.1.8 Team Collaboration Insights during Sprint
+
+# Conclusiones
+
+-En resumen, el proyecto PecuarioPro se destaca por su diseño objetivo y su enfoque en mejorar el bienestar animal. Con un compromiso continuo con la actualización tecnológica, la capacitación de los usuarios y la colaboración con expertos, esta aplicación tiene el potencial de hacer una contribución significativa a la industria pecuaria al tiempo que promueve prácticas más éticas y sostenibles. Poniendo en primer lugar la salud de los anmales y su buen cuidado como una buena gestion de ellos.
