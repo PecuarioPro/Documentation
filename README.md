@@ -444,7 +444,7 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 
 
 ### 2.2.2. Registro de entrevistas.
-<<<<<<< HEAD
+
 | Ganadero Independiente | **Descripción** |
 |------------------------|-----------------|
 | **Entrevista #1** | 
