@@ -931,6 +931,9 @@ BR>
 
 # Capítulo V: Implementation , Validation & Deployment.
 ## 5.1. Software Configuration Management.
+
+El Software Configuration Management (SCM) resulta importante en cualquier solución ya que ayuda a gestionar y controlar los cambios realizados en el proyecto, teniendo como objetivo la integridad de cada uno de los elementos del software. Es por ello que en esta sección apreciaremos detalladamente los software utilizados por el equipo, las convenciones en la gestión de versión y gestión de cambios en repositorios remotos. 
+
 ### 5.1.1. Software Development Environment Configuration.
 
 En esta sección definiremos las herramientas que utilizaremos en cada una de las fases del software.
@@ -1061,4 +1064,10 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 
 # Conclusiones
 
--En resumen, el proyecto PecuarioPro se destaca por su diseño objetivo y su enfoque en mejorar el bienestar animal. Con un compromiso continuo con la actualización tecnológica, la capacitación de los usuarios y la colaboración con expertos, esta aplicación tiene el potencial de hacer una contribución significativa a la industria pecuaria al tiempo que promueve prácticas más éticas y sostenibles. Poniendo en primer lugar la salud de los anmales y su buen cuidado como una buena gestion de ellos.
+- En resumen, el proyecto PecuarioPro se destaca por su diseño objetivo y su enfoque en mejorar el bienestar animal. Con un compromiso continuo con la actualización tecnológica, la capacitación de los usuarios y la colaboración con expertos, esta aplicación tiene el potencial de hacer una contribución significativa a la industria pecuaria al tiempo que promueve prácticas más éticas y sostenibles. Poniendo en primer lugar la salud de los animales y su buen cuidado como una buena gestion de ellos.
+
+
+- PecuarioPro se presenta como una alternativa tecnologica para aquellas personas y empresas que se encuentran en la industria pecuaria y requieren de mejoras en la gestión de su negocio. Se busca diseñar una plataforma intuitiva, fácil de entender y sobre todo eficiente para nuestros segmentos objetivos. Con el uso del framework Vue y la aplicación de conocimientos sobre ingeniería de software este proyecto busca además explorar nuevas formas de construir una solución de software teniendo un enfoque en las necesidades del cliente.
+
+
+
