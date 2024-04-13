@@ -995,6 +995,86 @@ BR>
 
 ### 4.7.2. Class Dictionary
 
+| Entidad | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|---------|---------------------|------------|--------------|------------------|----------------------|
+| User |
+| 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
+| 2 | emailAddress | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | uno o cero |
+| 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
+| 6 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Business Account |
+| 1 | businessName | Nombre del negocio | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 2 | businessAdress | Dirección fisica del negocio | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | numberRuc | Número de Ruc del negocio | int | 2 bytes | Mayor a Cero |
+| Customer |
+| 1 | firstName | Nombre del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del cliente | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | numberDNI | Número de DNI | int | 2 bytes | Mayor a Cero |
+| Subscription |
+| 1 | id | Identificador de la suscripción | int | 2 bytes | Mayor a Cero |
+| 2 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | subscriptionOwner | Dueño de la suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Livestock Producer |
+| 1 | firstName | Nombre del productor ganadero | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 2 | lastName | Apellido del productor ganadero | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | numberDNI | Número de DNI | int | 2 bytes | Mayor a Cero |
+| Animal Manager |
+| 1 | id | Identificador del administrador de animales | int | 2 bytes | Mayor a Cero |
+| Animal |
+| 1 | animalId | Identificador del animal | int | 2 bytes | Mayor a Cero |
+| 2 | animalName | Nombre del animal | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | bornDate | Fecha de nacimiento del animal | date | Días | Permite solo fechas |
+| 4 | motherId | Identificador del administrador de animales | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 5 | originCountry | Identificador del administrador de animales | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 6 | animalGender | Identificador del administrador de animales | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 7 | animalLocation | Identificador del administrador de animales | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Animal Groups |
+| 1 | groupId | Identificador de los grupos de animales | int | 2 bytes | Mayor a Cero |
+| 2 | groupLocation | Ubicacion del grupo | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Bovine Identification Document |
+| 1 | documentId | Identificador del documento | int | 2 bytes | Mayor a Cero |
+| 2 | expiryDate | Fecha de expiración del documento | date | Días | Permite solo fechas |
+| Animal Performance |
+| 1 | id | Identificador para el redimiento del animal | int | 2 bytes | Mayor a Cero |
+| 2 | animalState | Descripción estado del animal | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | createDate | Registro fecha de creación | date | Días | Permite solo fechas |
+| 4 | performance | Rendimiento del animal como porcentaje | int | 2 bytes | Mayor a Cero |
+| Animal Status Report |
+| 1 | reportId | Identificador para cada reporte | int | 2 bytes | Mayor a Cero |
+| 2 | createdDate | Registro fecha de creación del reporte | date | Días | Permite solo fechas |
+| Animal Medical History |
+| 1 | historyId | Identificador para historia medica | int | 2 bytes | Mayor a Cero |
+| 2 | createdDate | Registro fecha de creación de la historia medica | date | Días | Permite solo fechas |
+| 3 | acessDate | Registro fecha de acceso a la historia medica | date | Días | Permite solo fechas |
+| Notification |
+| 1 | notificationId | Identificador para cada notificación | int | 2 bytes | Mayor a Cero |
+| 2 | notificationType | Tipo de cada notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | notificationContent | Contenido de la notificación | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Meal Plans |
+| 1 | mealPlanId | Identificador para cada plan alimenticio | int | 2 bytes | Mayor a Cero |
+| 2 | typeFood | Tipo de comida de cada plan alimenticio | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | modifiedDate | Fecha de modificación | date | Días | Permite solo fechas |
+| Vaccine |
+| 1 | vaccineId | Identificador para cada registro de vacunación | int | 2 bytes | Mayor a Cero |
+| 2 | vaccineName | Nombre del cada vacuna | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | vaccineCode | Codigo de cada vacuna | int | 2 bytes | Mayor a Cero |
+| 4 | applicationReason | Razón de aplicación | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Reproduction |
+| 1 | reproductionId | Identificador para cada registro de reproducción | int | 2 bytes | Mayor a Cero |
+| 2 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
+| 3 | offspringNumber | Número de crías | int | 2 bytes | Mayor a Cero |
+| Veterinary |
+| 1 | veterinaryId | Identificador para cada veterinario | int | 2 bytes | Mayor a Cero |
+| 2 | firstName | Nombre del veterinario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | lastName | Apellido del veterinario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 4 | vetPermit | Autorización del veterinario | int | 2 bytes | Mayor a Cero |
+| Veterinary Report |
+| 1 | reportId | Identificador para cada reporte | int | 2 bytes | Mayor a Cero |
+| 2 | createdDate | Fecha de creación de cada reporte | date | Días | Permite solo fechas |
+| 3 | animalId | Identificador de cada animal | int | 2 bytes | Mayor a Cero |
+| 4 | contactNumber | Número de contacto del veterinario | int | 2 bytes | Mayor a Cero |
 
 
 
