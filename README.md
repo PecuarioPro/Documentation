@@ -955,6 +955,26 @@ BR>
 
 ![Component Diagram](./assets/Component-Diagram.png)
 
+
+## 4.7. Software Object-Oriented Design.
+
+### 4.7.1. Class Diagram
+
+
+
+
+### 4.7.2. Class Dictionary
+
+
+
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram
+
+
+
+
 # Capítulo V: Implementation , Validation & Deployment.
 ## 5.1. Software Configuration Management.
 
