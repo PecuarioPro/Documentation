@@ -972,9 +972,13 @@ En esta sección definiremos las herramientas que utilizaremos en cada una de la
 | 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
 | 2 | email | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
 | 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
-| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | Mayor a cero |
+| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | uno o cero |
 | 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
 | 6 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
+| Business Account | <!-- --> | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
+| 1 | businessName | Identificador del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 2 | businessAdress | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | number | Contraseña del usuario | int | 2 bytes | Mayor a Cero |
 
 
 
@@ -1048,10 +1052,7 @@ Para esta sección se explicará las directrices que respectan a la nomenclatura
 - Tecnologías: Para la creación de la Landing Page se uso principalmente HTML, CSS y Javascript.
 
 ### 5.1.4. Software Deployment Configuration
-En esta sección se explicará el proceso de despliegue del proyecto PecuarioPro.
-Landing Page:
-![LandingPage](./assets/Landing Page.PNG)
-Link de la Landing Page desplegada: https://pecuariopro.web.app
+
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
