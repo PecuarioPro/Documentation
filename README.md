@@ -990,7 +990,7 @@ BR>
 
 ### 4.7.1. Class Diagram
 
-
+![Class Diagram](./assets/classdiagram.PNG)
 
 
 ### 4.7.2. Class Dictionary
@@ -1068,7 +1068,9 @@ Para esta sección se explicará las directrices que respectan a la nomenclatura
 - Tecnologías: Para la creación de la Landing Page se uso principalmente HTML, CSS y Javascript.
 
 ### 5.1.4. Software Deployment Configuration
-
+En esta sección se explicará el proceso del despliegue del proyecto.
+Landing Page:
+![Landing Page](./assets/LandingPage.PNG)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
