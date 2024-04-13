@@ -217,7 +217,6 @@ __Logotipo de la Startup:__
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<<<<<<< HEAD
 **Rojas Velasquez, Maycol Jhordan - U20221984**
 
 Elegí la carrera de Ingeniería de Software debido a mi gusto por la innovación y la implementación de la tecnología en cualquier rubro  social, de una manera creativa y en todos los aspectos. Me considero una persona creativa, en busca de ideas, estrategias con mente nueva. También me gusta escuchar ideas de mi equipo, dar ideas de mejora, evaluar las ventajas y desventajas . Además, tengo conocimientos de programación en C + +, HTML, Python  y SQL server. Además, Tengo un enfoque responsable y dedicado mediante un aprendizaje rápido así puedo ayudar a mis compañeros en sus dudas. Por otro lado, mis hobbies son ver series, jugar , escuchar música, nadar y  manejar.
@@ -252,8 +251,6 @@ Soy una persona creativa y paciente, tengo conocimiento en el uso de diferentes 
 ![Foto integrante U20181b152](./assets/foto-upc.jpg)
 
 
-=======
->>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
 ## 1.2. Solution Profile
 ## 1.2.1 Antecedentes y problemática
 
