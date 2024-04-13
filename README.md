@@ -874,6 +874,32 @@ BR>
 <BR>
 
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+**User Flow: Inicio de sesión o creación de cuenta:**
+<BR>
+
+![principal web esp ](./assets/AMu_inicio.PNG)
+<BR>
+
+**User Flow: Pagina principal y desplazamiento entre Organizaciones y Gestión del ganado:**
+<BR>
+
+![principal web esp ](./assets/AMu_home.PNG)
+<BR>
+
+**User Flow: Opciones y configuración del usuario:**
+<BR>
+
+![principal web esp ](./assets/AMu_configuracion.PNG)
+<BR>
+
+**User Flow: Navegación entre Control de animales, Inventario y Suministros, Planeamiento de Tareas y Actividades y Contacto con el veterinario:**
+<BR>
+
+![principal web esp ](./assets/AMu_organizaciones.PNG)
+<BR>
+
+
 ## 4.5. Web Applications Prototyping.
 
 ## 4.6. Domain-Driven Software Architecture.
