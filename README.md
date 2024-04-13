@@ -822,6 +822,31 @@ BR>
 <BR>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+**Usuario ingresa a la aplicación iniciando sesión o se registrándose:**
+<BR>
+
+![principal web esp ](./assets/WD-inicio_sesion.PNG)
+<BR>
+
+**Desplazamiento entre pagina inicial, organizaciones y administrar ganado:**
+<BR>
+
+![principal web esp ](./assets/WD-Desplazamiento.PNG)
+<BR>
+
+**Opciones de usuario, cuenta de usuario, administrar cuenta y configuraciones:**
+<BR>
+
+![principal web esp ](./assets/WD-ususario.PNG)
+<BR>
+
+**Navegación desde página administrar ganado a paginas derivadas Control de animales, Inventario y Suministros, Tareas y actividades y Contacto con veterinarios:**
+<BR>
+
+![principal web esp ](./assets/WD-navegacion_final.PNG)
+<BR>
+
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
