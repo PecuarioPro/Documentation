@@ -1048,7 +1048,10 @@ Para esta sección se explicará las directrices que respectan a la nomenclatura
 - Tecnologías: Para la creación de la Landing Page se uso principalmente HTML, CSS y Javascript.
 
 ### 5.1.4. Software Deployment Configuration
-
+En esta sección se explicará el proceso de despliegue del proyecto PecuarioPro.
+Landing Page:
+![LandingPage](./assets/Landing Page.PNG)
+Link de la Landing Page desplegada: https://pecuariopro.web.app
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
