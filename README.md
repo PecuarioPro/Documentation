@@ -967,10 +967,14 @@ BR>
 
 En esta sección definiremos las herramientas que utilizaremos en cada una de las fases del software.
 
-| Entidad | Nombre de Atributos | Definición | Tipo de dato | Rango | Unidad de Medida | Valores Restringidos |
-|---------|---------------------|------------|--------------|-------|------------------|----------------------|
-| User | id | identificador | integer | Mayor a cero | Entero | Valores enteros |
-| User | id | identificador | integer | Mayor a cero | Entero | Valores enteros |
+| User | Nombre de Atributos | Definición | Tipo de dato | Unidad de Medida | Valores Restringidos |
+|------|---------------------|------------|--------------|------------------|----------------------|
+| 1 | id | Identificador del usuario | integer | 2 bytes | Mayor a Cero |
+| 2 | email | Correo del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 3 | password | Contraseña del usuario | string | Cadena de caracteres | Permite solo caracteres o letras |
+| 4 | loginDate | Fecha de inicio de sesión | boolean | 2 bytes | Mayor a cero |
+| 5 | registerDate | Fecha de registro | date | Días | Permite solo fechas |
+| 6 | subscriptionType | Tipo de suscripción | string | Cadena de caracteres | Permite solo caracteres o letras |
 
 
 
