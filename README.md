@@ -1244,6 +1244,8 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 
 Se encuentra desplegado en Firebase.
 
+[Link de LP desplegada](https://pecuariopro.web.app)
+
 #### 5.2.1.8 Team Collaboration Insights during Sprint
 
 ![TCI](./assets/evidence-collab.PNG)
