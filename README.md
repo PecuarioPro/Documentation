@@ -1251,7 +1251,7 @@ Durante el primer sprint, en términos generales, hemos alcanzado los siguientes
 ![Landing Page](./assets/LandingPage.PNG)
 
 - Diseño de Mock-ups para Movile aplication:
-![Movile application](./assets/img_mams.PNG)
+![Movile application](./assets/img_mams.png)
 
 Enlace del video: ![Video for Sprint Review](https://video.com)
 
