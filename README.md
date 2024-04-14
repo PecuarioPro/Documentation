@@ -1263,13 +1263,14 @@ Durante el primer sprint, se logro lo siguiente en relación a Web Services:
 
 Documentacion del código para despliegue:
 
-[Codigo despliegue](./assets/lp_codigo_despliegue.PNG)
+![Codigo despliegue](./assets/lp_codigo_despliegue.PNG)
 
 Documentación index.html:
 
-[Documentación lp](./assets/documentacion_lp.PNG)
+![Documentación lp](./assets/documentacion_lp.PNG)
 
 Link Landing Page desplegada: [Link de LP desplegada](https://pecuariopro.web.app)
+
 Interacción y explicacion Landing Page: [Interacción LP](https://video.com)
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
