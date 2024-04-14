@@ -1231,10 +1231,22 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 | PecuarioPro     | Landing-Page| 5bdb4a44eb881dad0703410065b6a464e28e1e9d | Feature: AdditionalFix Firebase | 1270472024 
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
+
+![TSE](./assets/evidence_testing.PNG)
+
+![TSE2](./assets/evidence_testing2.PNG)
+
+[Repositorio del gherkin](https://github.com/PecuarioPro/pecuario-pro-gherkin) 
+
 #### 5.2.1.5 Execution Evidence for Sprint Review
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
+
+Se encuentra desplegado en Firebase.
+
 #### 5.2.1.8 Team Collaboration Insights during Sprint
+
+![TCI](./assets/evidence-collab.PNG)
 
 # Conclusiones
 
