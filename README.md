@@ -1253,7 +1253,7 @@ Durante el primer sprint, en términos generales, hemos alcanzado los siguientes
 - Diseño de Mock-ups para Movile aplication:
 ![Movile application](./assets/img_mams.png)
 
-Enlace del video: ![Video for Sprint Review](https://video.com)
+Enlace del video: [Video for Sprint Review](https://video.com)
 
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
