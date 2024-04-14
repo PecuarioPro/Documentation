@@ -1239,7 +1239,26 @@ Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un 
 [Repositorio del gherkin](https://github.com/PecuarioPro/pecuario-pro-gherkin) 
 
 #### 5.2.1.5 Execution Evidence for Sprint Review
+
+Durante el primer sprint, en términos generales, hemos alcanzado los siguientes hitos:
+- Establecimiento de múltiples repositorios en GitHub:
+![GitHub](./assets/img_repositorios.PNG)
+
+- Elaboración de los Mock-ups del landing page:
+![Landing Page](./assets/img_lpms.PNG)
+
+- Implementacion del landing page:
+![Landing Page](./assets/LandingPage.PNG)
+
+- Diseño de Mock-ups para Movile aplication:
+![Movile application](./assets/img_mams.PNG)
+
+Enlace del video: ![Video for Sprint Review](https://video.com)
+
 #### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+
+
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
 Se encuentra desplegado en Firebase.
