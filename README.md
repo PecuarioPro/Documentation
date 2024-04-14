@@ -580,7 +580,6 @@ En esta sección se definirán términos que se comuniquen de forma correcta los
 *    **Sprint Review**: Revisión y evaluación del trabajo realizado en una iteración.
 =======
 
->>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
