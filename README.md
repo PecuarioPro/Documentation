@@ -1259,7 +1259,7 @@ Documentación index.html:
 
 Link Landing Page desplegada: [Link de LP desplegada](https://pecuariopro.web.app)
 
-Interacción y explicacion Landing Page: [Interacción LP](https://video.com)
+Interacción y explicacion Landing Page: [Interacción LP](https://upcedupe-my.sharepoint.com/personal/u202219984_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202219984%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401si730%2Dws53%2DPecuarioPro%2Dkeynote%2Dtb1%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 #### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
