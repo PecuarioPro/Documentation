@@ -794,17 +794,6 @@ En esta sección, se detallarán los sistemas de navegación que guiarán a los 
 *    Enlaces relacionados: Provisión de enlaces relacionados en cada herramienta y sección para guiar a los usuarios a contenido relevante y promover una gestión ganadera más eficiente y sostenible.
 =======
 
-
-### 4.2.2. Labeling Systems.
-
-  
-### 4.2.3. SEO Tags and Meta Tags
-
-### 4.2.4. Searching Systems.
-
-### 4.2.5. Navigation Systems.
->>>>>>> 8a904e24e606cc74f44582f2b69ed184ce3a9549
-
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
 <BR>
