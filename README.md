@@ -466,23 +466,59 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 <br>
 <br>
 
-| Ganadero Independiente | **Descripción** |
-|------------------------|-----------------|
-| **Entrevista #3** |
-| **Nombre del entrevistado:** | **Edad**: 19 años |
-| Ivan Lavado Vallejos | **Ciudad**: Chiclayo |
-| **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/EenB71Lb9rJMjwBwRMt9VN4B6leBPapSaIMcLp2ZHZoK_g?e=ooKSxG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Ganadero independiente |
+Segmento: Ganadero Independiente
+
+![Ganadero Independiente Ivan](./assets/ganadero-independiente-Ivan.png)
+
+Timing de entrevista: ... - ...
+
+Informacion del entrevistado:
+
+Nombre: Ivan Jesus Lavado Vallejos
+
+Edad: 20 años
+
+Procedencia: Lambayeque, Chiclayo , Chiclayo
+
+Resumen:
+
+El entrevistado, Ivan Lavado Vallejos dice que a visto cómo la tecnología ha transformado muchos aspectos de la agricultura, y cree que las aplicaciones web pueden ser una herramienta poderosa para mejorar la gestión animal. 
+Él nos comenta que sus decisiones de negocio en cuanto a aspectos como la nutrición o salud de su ganado lo realiza de manera empírica , ya que según afirma, suele aferrarse a métodos tradicionales y a la experiencia que ha adquirido a lo largo de los años. 
+Así mismo, Iván detalla que suele realizar registros de vacunas y seguimiento del animal de manera manual a través de apuntes por cuadernos.
+Respecto a la implementación de la solución de software, el entrevistado menciona que le gustaría que la aplicación  incluyera funciones básicas como el seguimiento de la salud, alimentación, recordatorios de vacunas y tratamientos. También le agrada la idea de tener informes sobre las estadísticas y rendimiento de su ganadería.
+Respecto al diseñor, comenta que le agradaría tener una interfaz intuitiva y de fácil entendimiento para utilizarlo en su teléfono móvil.
+
 
 <br>
 <br>
 
-| Empresa Ganadera | **Descripción** |
-|------------------------|-----------------|
-| **Entrevista #4** |
-| **Nombre del entrevistado:** | **Edad**: 45 años |
-| Elver Vásquez Rodrigo | **Ciudad**: Chiclayo |
-| **Link del video evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213070_upc_edu_pe/Ebs9p6KOyFZGl4919U9BS1YBceooBjnmmLJ1PFtblUOvPg?e=n1OcFY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)** | **Profesión**: Tesorero en empresa ganadera |
+Segmento: Empresa Ganadera
 
+![Empresa Ganadera Elver](./assets/segmento-empresa-Elver.png)
+
+Timing de entrevista: ... - ...
+
+Informacion del entrevistado:
+
+Nombre: Elver Vásquez Villalobos
+
+Edad: 45 años
+
+Procedencia: Lambayeque, Chiclayo , Chiclayo
+
+Resumen:
+
+El entrevistado Elver Vásquez actualmente labora en el puesto de Tesorero en una empresa ganadera en el departamento de Lambayeque. Él nos comenta que está manejando un aproximado de 200 animales de manera mensual y que su negocio se concentra más en los bovinos. 
+
+Elver nos detalla que aspectos como la salud,el clima, el bienestar animal, la reproducción eficiente, la nutrición adecuada, el manejo de recursos financieros y el tener una buena planificación son críticos para garantizar el éxito de la empresa.
+
+Así mismo, mencionó que los costos de producción, la rentabilidad y las tendencias del mercado son datos cruciales para la toma de decisiones en la empresa.
+
+El entrevistado precisó que sería beneficioso tener informes que analicen la producción en el negocio, la rentabilidad por lote y por campaña de bovinos, los costos de producción, la salud y el bienestar de cada animal.
+
+Respecto a la implementación de la solución de software, comenta que sería ideal contar con funciones que simplifiquen la programación de turnos para la gestión de su personal y el seguimiento de horas trabajadas.
+
+Finalmente, Elver espera que mediante la implementación de la solución de software obtenga una mejora en la eficiencia operativa, la gestión de sus recursos, toma de decisiones y rentabilidad que le permita adaptarse de la mejor manera a los cambios en el mercado. 
 
 <br>
 <br>
