@@ -687,8 +687,12 @@ En la entrevista 3, Renzo Silva el ganadero independiente menciona que gestionar
 
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
-![User persona 1 ](./assets/GANADERO-UP.png)
-![User persona 2 ](./assets/CORPORACION-UP.png)
+
+
+
+**Segmento Empresa Ganadera**
+
+![User persona 1 ](./assets/Brando%20Vásquez .png)
 ### 2.3.2. User Task Matrix.
 ![User Task Matrix](./assets/UsTaskMatrix.png) 
 ## 2.3.3. User Journey Mapping.
@@ -764,11 +768,11 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 
 **Business Goal 1**
 
-![Business Goal 1](./assets/Business-Goal-1.jpg)
+![Business Goal 1](./assets/business1.png)
 
 **Business Goal 2**
 
-![Business Goal 2](./assets/Business-Goal-2.jpg)
+![Business Goal 2](./assets/Impact_map_empresa.png)
 
 **Business Goal 3**
 
