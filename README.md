@@ -499,7 +499,7 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 | **Nombre:** Camila Fernanda Morales Farias |
 | **Edad:** 23 años |
 | **Procedencia:** Piura, Piura, Piura |
-|  ![Imagen del entrevistado](./assets/camila-morales.png) |
+|  ![Imagen del entrevistado](./assets/Entrevista-camila-AP.jpg) |
 | **Resumen:** Camila Fernanda Morales Farias está realizando prácticas en una empresa ganadera mientras estudia en la Universidad Nacional Agraria La Molina, en Lima. Destacó que, a pesar de los avances tecnológicos, persiste un proceso manual en el cuidado del ganado, lo que afecta el control de calidad del cuidado animal. Subrayó la dificultad en el seguimiento de las vacunas y la necesidad de una solución de software para monitorear la vida de los animales y garantizar su bienestar y seguridad de manera más efectiva. Expresó su esperanza de que esta implementación mejore la eficiencia en las operaciones de la empresa ganadera. |
 
 <br>
