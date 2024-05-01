@@ -1383,6 +1383,24 @@ Se encuentra desplegado en Firebase.
 
 ![TCI](./assets/evidence-collab.PNG)
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1.Sprint Planning 2.
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
+
 # Conclusiones
 
 - En resumen, el proyecto PecuarioPro se destaca por su diseño objetivo y su enfoque en mejorar el bienestar animal. Con un compromiso continuo con la actualización tecnológica, la capacitación de los usuarios y la colaboración con expertos, esta aplicación tiene el potencial de hacer una contribución significativa a la industria pecuaria al tiempo que promueve prácticas más éticas y sostenibles. Poniendo en primer lugar la salud de los animales y su buen cuidado como una buena gestion de ellos.
