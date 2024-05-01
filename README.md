@@ -692,19 +692,6 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 - Vaccination Reminders (Recordatorios de vacunación): Se menciona en el texto en relación con las funciones deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes.
 - Treatment Tracking (Seguimiento de tratamientos): Se menciona en el texto en relación con el seguimiento manual de tratamientos y vacunas por parte de los ganaderos independientes.
 - Statistical Reports (Informes estadísticos): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes y las empresas ganaderas.
-- Intuitive Interface (Interfaz intuitiva): Se menciona en el texto en relación con las preferencias de diseño de interfaz de usuario por parte de los ganaderos independientes.
-- Mobile Accessibility (Accesibilidad móvil): Se menciona en el texto en relación con las preferencias de accesibilidad móvil de los ganaderos independientes.
-- Inventory Management (Gestión de inventarios): No se menciona directamente en el texto.
-- Production Analysis (Análisis de producción): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de las empresas ganaderas.
-- Cost Tracking (Seguimiento de costos): Se menciona en el texto en relación con las necesidades de análisis de costos y rentabilidad de las empresas ganaderas.
-- Personnel Scheduling (Programación de personal): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de las empresas ganaderas.
-- Market Trends (Tendencias del mercado): Se menciona en el texto en relación con la importancia de conocer las tendencias del mercado para la toma de decisiones por parte de las empresas ganaderas.
-- Financial Planning (Planificación financiera): Se menciona en el texto en relación con la importancia de una buena planificación financiera para el éxito de las empresas ganaderas.
-- Data Visualization (Visualización de datos): No se menciona directamente en el texto.
-- Customization Options (Opciones de personalización): Se menciona en el texto en relación con las preferencias de personalización de las aplicaciones de gestión ganadera por parte de las empresas ganaderas.
-- Training Resources (Recursos de capacitación): No se menciona directamente en el texto.
-- Real-time Updates (Actualizaciones en tiempo real): No se menciona directamente en el texto.
-- Remote Collaboration (Colaboración remota): No se menciona directamente en el texto.
 - Campaign (Campaña): Un período específico de tiempo durante el cual se llevan a cabo actividades específicas en la gestión de ganadería, como la cría, el engorde o la comercialización de animales, con objetivos definidos y metas establecidas.
 
 # Capítulo III: Requirements Specification
