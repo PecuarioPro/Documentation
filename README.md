@@ -456,7 +456,7 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 ### 2.2.2. Registro de entrevistas.
 
 ### Segmento: Ganadero Independiente
-
+#### Entrevista 1
 ![Ganadero Independiente Ivan](./assets/ganadero-independiente-Ivan.png)
 
 Timing de entrevista: ... - ...
@@ -477,6 +477,7 @@ Así mismo, Iván detalla que suele realizar registros de vacunas y seguimiento 
 Respecto a la implementación de la solución de software, el entrevistado menciona que le gustaría que la aplicación  incluyera funciones básicas como el seguimiento de la salud, alimentación, recordatorios de vacunas y tratamientos. También le agrada la idea de tener informes sobre las estadísticas y rendimiento de su ganadería.
 Respecto al diseñor, comenta que le agradaría tener una interfaz intuitiva y de fácil entendimiento para utilizarlo en su teléfono móvil.
 
+#### Entrevista 2
 ![Ganadero Independiente Godofredo](https://cdn.discordapp.com/attachments/1226580112670064641/1235065307266027622/image.png?ex=663303b3&is=6631b233&hm=d9b95b9b369d8243ee471de29b89646f3238d86fc64e00fc8ca5fca32130a1b5&)
 
 Timing de entrevista: ... - ...
@@ -489,7 +490,7 @@ Procedencia: Puno
 
 Resumen: El entrevistado, Godofredo, identifica los desafíos en la gestión de su granja ganadera y propone la implementación de una aplicación móvil para optimizarla. Destaca la necesidad de registrar eventos como alimentación y tratamientos, así como acceder de manera ágil a datos sobre la salud y producción animal. También enfatiza la importancia de una planificación nutricional efectiva y la supervisión individualizada de los animales. En resumen, Godofredo ofrece valiosas sugerencias para transformar la gestión ganadera mediante una aplicación móvil.
 
-#### Entrevista mp4 el entrevistado, no accedio a mostrar su rostro
+### Entrevista 3 - mp4 el entrevistado, no accedio a mostrar su rostro
 
 Timing de entrevista: ... - ...
 
