@@ -665,13 +665,17 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 ![User persona 2 ](./assets/Brando%20Vásquez .png)
 ### 2.3.2. User Task Matrix.
 ![User Task Matrix](./assets/UsTaskMatrix.png) 
+
+
 ## 2.3.3. User Journey Mapping.
 
 **Ganadero Independiente Journey Map**
 
-![User Task Matrix](./assets/Ganadero%20Independiente%20Journey%20Map.png) 
+![User Task Matrix](./assets/Ganadero%20Independiente%20Journey%20Map%20(1).png) 
 
+**Empresa Ganadera Journey Map**
 
+![User Journey Map Empresa Ganadera](./assets/Empresa%20ganadera%20Journey%20Map.png) 
 
 ### 2.3.4. Empathy Mapping.
 
