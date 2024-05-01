@@ -445,28 +445,7 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 
 ### 2.2.2. Registro de entrevistas.
 
-| Ganadero Independiente | **Descripción** |
-|------------------------|-----------------|
-| **Entrevista #1** | 
-| **Nombre del entrevistado:** | **Edad**: 21 años |
-| Godofredo Quispe | **Ciudad**: Lima |
-| **Link del video evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1cU2nQooLqnbDMQx9Sy-jEEZS8B8sK2QZ/view?usp=sharing)** | 
-**Profesión**: Estudiante con experiencia en el rubro |
-
-<br>
-<br>
-
-| Ganadero Independiente | **Descripción** |
-|------------------------|-----------------|
-| **Entrevista #2** |
-| **Nombre del entrevistado:** | **Edad**: 30 años |
-| Manuel Quispe Rodriguez | **Ciudad**: Cuzco |
-| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://drive.google.com/file/d/1J0K4cOHhm9ifE-iSnoy_UD01sKMTE51c/view?usp=sharing)** | **Profesión**: Ganadero independiente |
-
-<br>
-<br>
-
-Segmento: Ganadero Independiente
+### Segmento: Ganadero Independiente
 
 ![Ganadero Independiente Ivan](./assets/ganadero-independiente-Ivan.png)
 
@@ -488,11 +467,31 @@ Así mismo, Iván detalla que suele realizar registros de vacunas y seguimiento 
 Respecto a la implementación de la solución de software, el entrevistado menciona que le gustaría que la aplicación  incluyera funciones básicas como el seguimiento de la salud, alimentación, recordatorios de vacunas y tratamientos. También le agrada la idea de tener informes sobre las estadísticas y rendimiento de su ganadería.
 Respecto al diseñor, comenta que le agradaría tener una interfaz intuitiva y de fácil entendimiento para utilizarlo en su teléfono móvil.
 
+![Ganadero Independiente Godofredo](https://cdn.discordapp.com/attachments/1226580112670064641/1235065307266027622/image.png?ex=663303b3&is=6631b233&hm=d9b95b9b369d8243ee471de29b89646f3238d86fc64e00fc8ca5fca32130a1b5&)
 
-<br>
-<br>
+Timing de entrevista: ... - ...
 
-Segmento: Empresa Ganadera
+Nombre: Godofredo Quispe
+
+Edad: 21 años
+
+Procedencia: Puno
+
+Resumen: El entrevistado, Godofredo, identifica los desafíos en la gestión de su granja ganadera y propone la implementación de una aplicación móvil para optimizarla. Destaca la necesidad de registrar eventos como alimentación y tratamientos, así como acceder de manera ágil a datos sobre la salud y producción animal. También enfatiza la importancia de una planificación nutricional efectiva y la supervisión individualizada de los animales. En resumen, Godofredo ofrece valiosas sugerencias para transformar la gestión ganadera mediante una aplicación móvil.
+
+#### Entrevista mp4 el entrevistado, no accedio a mostrar su rostro
+
+Timing de entrevista: ... - ...
+
+Nombre: Manuel Quispe Rodriguez
+
+Edad: 30 años
+
+Procedencia: Cuzco, Cuzco
+
+Resumen: El entrevistado, Manuel Quispe Rodríguez, además de exponer los desafíos y necesidades en la gestión de su granja ganadera, sugiere la implementación de una aplicación móvil centralizada, como PecuarioPro, para facilitar el acceso y la visualización de datos relevantes. Expresa su interés en que la aplicación permita registrar eventos como alimentación, tratamientos, compras y ventas de animales, así como proporcionar información detallada sobre inventarios, salud y producción de cada animal. Además, destaca la importancia de poder acceder fácilmente a registros de alimentación y consumo de los animales para una mejor planificación nutricional. En resumen, junto con identificar las necesidades, el entrevistado ofrece valiosas sugerencias sobre las funciones y características que le gustaría ver en la aplicación móvil.
+
+### Segmento: Empresa ganadera
 
 ![Empresa Ganadera Elver](./assets/segmento-empresa-Elver.png)
 
@@ -506,7 +505,7 @@ Edad: 45 años
 
 Procedencia: Lambayeque, Chiclayo , Chiclayo
 
-Resumen:
+Resumen: 
 
 El entrevistado Elver Vásquez actualmente labora en el puesto de Tesorero en una empresa ganadera en el departamento de Lambayeque. Él nos comenta que está manejando un aproximado de 200 animales de manera mensual y que su negocio se concentra más en los bovinos. 
 
