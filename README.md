@@ -47,11 +47,11 @@ Pecuario Pro
     <tr>
       <td>1.0</td>
       <td>10/04/2024</td>
-      <td>Rojas Velasquez, Maycol Jhordan<br>
-      Soriano Medrano, Diego<br>
-      Casaverde de la Cruz, Ernesto David<br>
-      Cantoral Sedamano, Alexander Alberto<br>
-      Vásquez Villalobos, Elverth Jair
+      <td>Rojas Velasquez, Maycol Jhordan.<br>
+      Soriano Medrano, Diego.<br>
+      Casaverde de la Cruz, Ernesto David.<br>
+      Cantoral Sedamano, Alexander Alberto.<br>
+      Vásquez Villalobos, Elverth Jair.
       </td>
       <td>
         - Creación del documento para la primera versión del informe.<br>
@@ -69,9 +69,14 @@ Pecuario Pro
       </td>
     </tr>
     <tr>
-      <td>2</td>
-      <td></td>
-      <td>Grupo 05</td>
+      <td>2.0</td>
+      <td>01/05/2024</td>
+      <td>Rojas Velasquez, Maycol Jhordan.<br>
+      Soriano Medrano, Diego.<br>
+      Casaverde de la Cruz, Ernesto David.<br>
+      Cantoral Sedamano, Alexander Alberto.<br>
+      Vásquez Villalobos, Elverth Jair.
+      </td>
       <td></td>
     </tr>
     <tr>
