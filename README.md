@@ -689,11 +689,18 @@ En la entrevista 3, Renzo Silva el ganadero independiente menciona que gestionar
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
 
+Para la elaboración de nuestros User Persona se tomaron en cuenta los datos encontrados y analizados en nuestras enrevistas. Se determinó que ambos segmentos deben ser representados por el sexo masculino.
 
+ Así mismo, en base a las respuestas de los entrevistados se ha producido un User Persona con los objetivos, motivaciones y frustraciones que más se repitieron en las respuestas.
+
+Finalmente, se hizo un análisis y se concluyó con los valores , skills y una frase que representen las características más frecuentes en cada uno de los segmentos representados.
+
+**Segmento Ganadero Independiente**
+![User persona 2 ](./assets/Juan%20Perez%20Julca.png)
 
 **Segmento Empresa Ganadera**
 
-![User persona 1 ](./assets/Brando%20Vásquez .png)
+![User persona 2 ](./assets/Brando%20Vásquez .png)
 ### 2.3.2. User Task Matrix.
 ![User Task Matrix](./assets/UsTaskMatrix.png) 
 ## 2.3.3. User Journey Mapping.
@@ -775,7 +782,7 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 
 **Business Goal 3**
 
-![Business Goal 3](./assets/Business-Goal-3.jpg)
+![Business Goal 3](./assets/impactMapIndependiente.png)
 
 ## 3.4. Product Backlog.
 # Product Backlog
