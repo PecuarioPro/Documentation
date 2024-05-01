@@ -551,7 +551,103 @@ Finalmente, Elver espera que mediante la implementación de la solución de soft
 
 ### 2.2.3. Análisis de entrevistas.
 
-__Entrevista #1:__ 
+#### Analisis de entrevistas al segmento Ganadero Independiente
+
+**Datos demograficos**
+
+**Edad:**
+Promedio: 23.67 = 24 años
+Rango: 20-30 años
+Sexo: El 100% de los entrevistados son de género Masculino
+
+Procedencia:
+- El 33.3 % (1) proviene de Lambayeque - Chiclayo  
+- El 33.3 % (1) proviene de Puno 
+- El 33.3 % (1) proviene de Cusco - Cusco 
+
+**Estadísticas:**
+
+- El 100 % de los entrevistados reconocen el impacto positivo de la tecnología en la gestión ganadera.
+- El 100 % de los entrevistados mencionan tomar decisiones de negocio de manera empírica y tradicional. 
+- El 100 % de los entrevistados realizan registros manuales de datos sobre sus animales o aspectos de negocio.
+
+**Funcionalidades deseadas en la aplicación:**
+
+- Seguimiento de la salud y alimentación : 100 %
+- Recordatorios de vacunas y tratamientos: 100 %
+- Informes estadísticos: 66.67 %
+- Interfaz intuitiva para dispositivos móviles: 100 %
+
+**Conclusiones y recomendaciones diseñadas para este segmento:**
+
+- Todos los entrevistados realizan sus actividades de negocio de manera empírica o haciendo uso de su teléfono móvil. Por tanto, se debe desarrollar una interfaz web en móvil que incluya las funcionalidades deseadas por este segmento.
+
+- Se puede concluir que el conocimiento tecnológico de los entrevistados y por tanto de este segmento es  básico o medio.
+
+- Algunos entrevistados mencionaron la necesidad de recibir ayuda para aprender a utilizar las funcionalidades de la aplicación.
+
+- Se concluye que será necesario desarrollar una interfaz intuitiva y fácil de entender para este segmento.
+
+- La aplicación debe ser de fácil acceso para este segmento. 
+
+
+
+#### Analisis de entrevistas al segmento Empresa Ganadera
+
+
+**Datos demograficos**
+
+**Edad:**
+Promedio: 29.67 = 30 años
+Rango: 21-45 años
+Sexo: El 66.7% de los entrevistados son de género Masculino y el 33.3 % son de género Femenino.
+
+Procedencia:
+- El 33.3 % (1) proviene de Lambayeque - Chiclayo  
+
+- El 66.7 % (2) proviene de la capital Lima. 
+
+**Estadísticas:**
+
+- El 100 % de los entrevistados expresaron la necesidad de una mejora en la gestión de sus empresas ganaderas.
+
+- El 100 % de los entrevistados mencionaron la importancia del análisis de datos para tomar mejores decisiones de negocio.
+
+- El 33.3  % de los entrevistados mencionaron la necesidad de mejorar el bienestar animal de sus animales.
+
+- El 66.7 % de los entrevistados maifestaron la necesidad de aumentar la rentabilidad de sus empresas.
+
+- E 66.7 % de los entrevistados manifestaron la necesidad de aumentar la eficiencia operativa de sus empresas.
+
+**Funcionalidades deseadas en la aplicación:**
+
+- El 100 % de los entrevistados mencionaron la necesidad de tener una funcionalidad para analizar la producción de sus animales. Esto incluye un análisis por cada lote y campaña realizada.
+
+- El 100 % de los entrevistados mencionaron la importancia de tener una funcionalidad para analizar los costos de producción.
+
+- El 33.3 % mencionaron la necesidad de tener una funcionalidad para la gestión de personal.
+
+- El 33.3 % de los entrevistados mencionaron la necesidad de tener una funcionalidad para el monitoreo de la salud de los animales.
+
+-  El 33.3 % de los entrevistados mencionaron la necesidad de tener una funcionalidad para la gestión de inventarios.
+
+**Conclusiones y recomendaciones diseñadas para este segmento:**
+
+- Se aclara que aunque todos los entrevistados hayan coincidido en la necesidad de analizar datos y mejorar la gestión ganadera, las funcionalidades específicas han variado según las necesidades de cada empresa.
+
+- Diseñar una interfaz fácil de usar y que sea intuitiva.
+
+- Proporcionar capacitación a las empresas ganaderas sobre cómo utilizar la aplicación.
+
+- La aplicación debe ser de fácil acceso para este segmento. 
+
+- Es importante tener en cuenta que para el desarrollo de las funcionalidades para este segmento se debe considerar las diferentes necesidades de las empresas ganaderas según diferentes criterios como: tamaño de la empresa, ubicación, necesidades específicas, etc. 
+
+
+
+
+
+<!-- __Entrevista #1:__ 
 
 El entrevistado, Godofredo, identifica los desafíos en la gestión de su granja ganadera y propone la implementación de una aplicación móvil para optimizarla. Destaca la necesidad de registrar eventos como alimentación y tratamientos, así como acceder de manera ágil a datos sobre la salud y producción animal. También enfatiza la importancia de una planificación nutricional efectiva y la supervisión individualizada de los animales. En resumen, Godofredo ofrece valiosas sugerencias para transformar la gestión ganadera mediante una aplicación móvil.
 
@@ -575,7 +671,7 @@ y ademas Al proporcionar a los ganaderos herramientas para mejorar la eficiencia
 
 __Entrevista #6__
 
-En la entrevista 3, Renzo Silva el ganadero independiente menciona que gestionar cantidades pequeñas de animales no le dificulta mucho, pero en cambio una app de gestión de animales le serviría para una mejor calidad de los animales menciono que tiene planes a seguir y desea expandir su negocio por ello necesita las bases correspondientes para poder gestionar bien a sus empleados y que la aplicación puede ayudar a los ganaderos a mejorar el bienestar animal al proporcionarles información y herramientas para detectar y prevenir problemas de salud, optimizar la reproducción y gestionar los pastos de manera sostenible.
+En la entrevista 3, Renzo Silva el ganadero independiente menciona que gestionar cantidades pequeñas de animales no le dificulta mucho, pero en cambio una app de gestión de animales le serviría para una mejor calidad de los animales menciono que tiene planes a seguir y desea expandir su negocio por ello necesita las bases correspondientes para poder gestionar bien a sus empleados y que la aplicación puede ayudar a los ganaderos a mejorar el bienestar animal al proporcionarles información y herramientas para detectar y prevenir problemas de salud, optimizar la reproducción y gestionar los pastos de manera sostenible. -->
 
 ## 2.3. Needfinding.
 #### 2.3.1. User Personas.
