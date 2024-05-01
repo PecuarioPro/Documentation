@@ -667,12 +667,10 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 ![User Task Matrix](./assets/UsTaskMatrix.png) 
 ## 2.3.3. User Journey Mapping.
 
-|   | Motivación | Investigación | Navegar por la interfaz de la plataforma | Evaluación de producto | Adquisición de servicio |
-|---|---|---|---|---|---|
-| **Doing** | El ganadero busca una solución que simplifique la gestión de su ganado. | Investiga sobre sistemas de gestión de ganado.<br>Mira reseñas y recomendaciones. | Visita el sitio web o descarga la aplicación.<br>Encuentra descuentos en diferentes planes de suscripciones | Explora las funcionalidades disponibles.<br>Identifica que el software pueda cumplir con sus necesidades específicas.<br>Observa que la plataforma ofrece diferentes planes de suscripción. | El ganadero pasa por los procesos de pago.<br>El ganadero decide por su método de pago de preferencia. |
-| **Feeling** | Curiosidad | Interés<br>Evaluación crítica de todas las opciones disponibles | Expectativas altas<br>Interés<br>Expectativa<br>Confusión | Confusión<br>Satisfacción | |
-| **Experience** | El ganadero espera una solución que mejore su productividad y que sea de fácil uso. | Feliz por encontrar diversas opciones.<br>Confusión por cuál de todas las propuestas es la mejor. | Expectante por ver lo que ofrece la plataforma.<br>Sorprendido al ver diferentes descuentos en los planes de suscripción. | Observa que la plataforma ofrece funcionalidades para diferentes situaciones.<br>Revisa que el software pueda resolver su problema en específico.<br>Observa y evalúa los beneficios que ofrece cada uno de planes de suscripción y para quién está dirigido. | El ganadero tiene que proporcionar sus datos en los diferentes procesos de pago.<br>Se siente feliz al ver que la plataforma admite diferentes métodos de pago. |
-| **Customer expectation** | Una solución que aborde todas sus necesidades de gestión de ganado y con un soporte confiable. | Espera encontrar diferentes propuestas.<br>Identificar las mejores plataformas para explorar sus funcionalidades. | Una interfaz amigable e intuitiva.<br>Los descuentos ofrecen una oferta irresistible al ganadero. | Funcionalidades que le proporcionen valor real al negocio.<br>Soluciones eficaces y fáciles de entender.<br>Cada suscripción ofrece diferentes beneficios y es fácil identificar la adecuada. | Los procesos de pago deben ser fáciles de entender y se deben de realizar de la manera más rápida posible.<br>Todos los métodos de pago funcionan de manera correcta. |
+**Ganadero Independiente Journey Map**
+
+![User Task Matrix](./assets/Ganadero%20Independiente%20Journey%20Map.png) 
+
 
 
 ### 2.3.4. Empathy Mapping.
