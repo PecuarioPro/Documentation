@@ -556,26 +556,36 @@ Finalmente, Elver espera que mediante la implementación de la solución de soft
 **Datos demograficos**
 
 **Edad:**
-Promedio: 23.67 = 24 años
-Rango: 20-30 años
-Sexo: El 100% de los entrevistados son de género Masculino
 
-Procedencia:
+Promedio: 23.67 = 24 años
+
+Rango: 20-30 años
+
+**Sexo:** El 100% de los entrevistados son de género Masculino
+
+**Procedencia:**
 - El 33.3 % (1) proviene de Lambayeque - Chiclayo  
+
 - El 33.3 % (1) proviene de Puno 
+
 - El 33.3 % (1) proviene de Cusco - Cusco 
 
 **Estadísticas:**
 
 - El 100 % de los entrevistados reconocen el impacto positivo de la tecnología en la gestión ganadera.
+
 - El 100 % de los entrevistados mencionan tomar decisiones de negocio de manera empírica y tradicional. 
+
 - El 100 % de los entrevistados realizan registros manuales de datos sobre sus animales o aspectos de negocio.
 
 **Funcionalidades deseadas en la aplicación:**
 
 - Seguimiento de la salud y alimentación : 100 %
+
 - Recordatorios de vacunas y tratamientos: 100 %
+
 - Informes estadísticos: 66.67 %
+
 - Interfaz intuitiva para dispositivos móviles: 100 %
 
 **Conclusiones y recomendaciones diseñadas para este segmento:**
@@ -599,10 +609,12 @@ Procedencia:
 
 **Edad:**
 Promedio: 29.67 = 30 años
-Rango: 21-45 años
-Sexo: El 66.7% de los entrevistados son de género Masculino y el 33.3 % son de género Femenino.
 
-Procedencia:
+Rango: 21-45 años
+
+**Sexo:** El 66.7% de los entrevistados son de género Masculino y el 33.3 % son de género Femenino.
+
+**Procedencia:**
 - El 33.3 % (1) proviene de Lambayeque - Chiclayo  
 
 - El 66.7 % (2) proviene de la capital Lima. 
