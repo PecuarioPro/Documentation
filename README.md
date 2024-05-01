@@ -99,24 +99,11 @@ Pecuario Pro
 
 ## Project Report Collaboration Insights
 
-En esta sección, el equipo proporciona una visión general de la colaboración y el desarrollo del Project Report a través de nuestro repositorio en GitHub. El repositorio se encuentra en la organización de GitHub del equipo bajo el siguiente URL:
-
-[GitHub ](https://github.com/PecuarioPro/PecuarioPro.git)
-<br>
-<br>
 
 
 
 ### Entregas
 
-| Entrega | Descripción de Actividades | Captura de Pantalla |
-|---------|----------------------------|---------------------|
-| 1       | Establecimiento de la estructura básica del informe y definición de objetivos. | ![Commits](https://hackmd.io/_uploads/Sy-HNbwl0.jpg) ![Organizacion](https://hackmd.io/_uploads/H1rHNZwg0.jpg) |
-| 2       | Recopilación de datos e investigación para completar los capítulos del informe. | ![Analiticos](https://hackmd.io/_uploads/SJdBEWDl0.jpg)|
-| 3       | Redacción del informe completo, revisión en equipo y ajustes finales. | ![Commits frecuencia](https://hackmd.io/_uploads/Sk9rN-we0.jpg) |
-| 4       | Finalización del informe, revisión y edición. | ![analitics 2 ](https://hackmd.io/_uploads/r16BEWweA.jpg)|
-
-Cada miembro del equipo ha participado activamente en la elaboración del informe, aportando ideas, realizando investigaciones y contribuyendo a la redacción y edición del documento. Esta sección se actualizará con nuevas capturas de pantalla y descripciones de las actividades realizadas en cada entrega, asegurando que el informe refleje la colaboración y el esfuerzo conjunto del equipo.
 
 
 
@@ -204,10 +191,7 @@ Cada miembro del equipo ha participado activamente en la elaboración del inform
 
 # STUDENT OUTCOME
 
-| Criterio Específico | Acciones realizadas | Conclusiones |
-|---------------------|----------------------|---------------|
-| 2.c1. Diseñar soluciones en ingeniería de software que satisfagan necesidades específicas considerando el impacto en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos. | **Rojas Velásquez, Maycol Jhordan:** Diseñó la arquitectura de software basada en principios de diseño centrado en el usuario, considerando aspectos de salud pública y seguridad. <br> **Soriano Medrano, Diego:** Implementó soluciones de backend para soportar la funcionalidad de la aplicación, asegurando la escalabilidad y la seguridad de los datos. <br> **Cantoral Sedamano, Alexander Alberto:** Desarrolló la interfaz de usuario, enfocándose en la experiencia del usuario y la accesibilidad, considerando factores de bienestar y accesibilidad. <br> **Casaverde de la Cruz Ernesto David:** Lideró el equipo en la definición de los requisitos del proyecto, asegurando que se consideraran aspectos globales y culturales en el diseño de la solución.<br> **Vásquez Villalobos Elverth Jair :**  Diseñó la arquitectura del proyecto teniendo en cuenta todos los requisitos especificados y los factores globales, culturales,sociales y económicos.  | **Conclusiones:** El equipo ha demostrado una comprensión profunda de los factores de impacto en salud pública, seguridad, bienestar, y factores globales, culturales, sociales, ambientales y económicos, aplicándolos en el diseño de la solución de software. La colaboración entre los miembros del equipo ha sido clave para el éxito del proyecto. |
-| 2.c2. Validar que el diseño de la solución de software considere aspectos en salud pública, seguridad, bienestar, así como factores globales, culturales, sociales, ambientales y económicos | **Rojas Velásquez, Maycol Jhordan:** Realizó pruebas de usabilidad y pruebas de seguridad para validar que la solución cumple con los requisitos de salud pública y seguridad. <br> **Soriano Medrano, Diego:** Implementó pruebas de rendimiento y pruebas de integración para asegurar que la solución es escalable y segura. <br> **Cantoral Sedamano, Alexander Alberto:** Lideró el equipo en la validación de la solución a través de pruebas de aceptación del usuario, asegurando que la solución cumple con los requisitos de bienestar y accesibilidad. <br> **Casaverde de la Cruz Ernesto David:** Coordinó el proceso de validación, asegurando que se consideren aspectos globales y culturales en el diseño de la solución.<br> **Vásquez Villalobos Elverth Jair:** Diseñó la validación de requisitos y la experiencia de usuario asegurando que se consideren aspectos culturales, sociales y económicos. | **Conclusiones:** La validación de la solución de software ha demostrado que se han considerado adecuadamente los aspectos de salud pública, seguridad, bienestar, y factores globales, culturales, sociales, ambientales y económicos. La colaboración entre los miembros del equipo ha sido esencial para garantizar que la solución cumple con los requisitos y expectativas. |
+
 
 
 
@@ -456,89 +440,67 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 ### 2.2.2. Registro de entrevistas.
 
 ### Segmento: Ganadero Independiente
+
 #### Entrevista 1
-![Ganadero Independiente Ivan](./assets/ganadero-independiente-Ivan.png)
+| **Información del entrevistado** | 
+|--------------------------|
+| **Timing de entrevista:**   ... - ... |
+| **Nombre:**  Ivan Jesus Lavado Vallejos |
+| **Edad:**  20 años |
+| **Procedencia:**  Lambayeque, Chiclayo, Chiclayo |
+| | ![Ganadero Independiente Ivan](./assets/ganadero-independiente-Ivan.png) |
+| **Resumen:**  El entrevistado, Ivan Lavado Vallejos, destaca la transformación que la tecnología ha traído a la agricultura y cree en el potencial de las aplicaciones web para mejorar la gestión animal. Sin embargo, admite que sus decisiones de negocio sobre nutrición y salud del ganado las toma de manera empírica, apoyándose en métodos tradicionales y su experiencia. Realiza registros manuales de vacunas y seguimiento animal a través de apuntes en cuadernos. Respecto a la implementación de una solución de software, le gustaría que incluyera funciones como seguimiento de salud, alimentación, recordatorios de vacunas y tratamientos, así como informes sobre estadísticas y rendimiento de su ganadería. Prefiere una interfaz intuitiva y fácil de entender, idealmente para su teléfono móvil. |
 
-Timing de entrevista: ... - ...
-
-Informacion del entrevistado:
-
-Nombre: Ivan Jesus Lavado Vallejos
-
-Edad: 20 años
-
-Procedencia: Lambayeque, Chiclayo , Chiclayo
-
-Resumen:
-
-El entrevistado, Ivan Lavado Vallejos dice que a visto cómo la tecnología ha transformado muchos aspectos de la agricultura, y cree que las aplicaciones web pueden ser una herramienta poderosa para mejorar la gestión animal. 
-Él nos comenta que sus decisiones de negocio en cuanto a aspectos como la nutrición o salud de su ganado lo realiza de manera empírica , ya que según afirma, suele aferrarse a métodos tradicionales y a la experiencia que ha adquirido a lo largo de los años. 
-Así mismo, Iván detalla que suele realizar registros de vacunas y seguimiento del animal de manera manual a través de apuntes por cuadernos.
-Respecto a la implementación de la solución de software, el entrevistado menciona que le gustaría que la aplicación  incluyera funciones básicas como el seguimiento de la salud, alimentación, recordatorios de vacunas y tratamientos. También le agrada la idea de tener informes sobre las estadísticas y rendimiento de su ganadería.
-Respecto al diseñor, comenta que le agradaría tener una interfaz intuitiva y de fácil entendimiento para utilizarlo en su teléfono móvil.
 
 #### Entrevista 2
-![Ganadero Independiente Godofredo](https://cdn.discordapp.com/attachments/1226580112670064641/1235065307266027622/image.png?ex=663303b3&is=6631b233&hm=d9b95b9b369d8243ee471de29b89646f3238d86fc64e00fc8ca5fca32130a1b5&)
+| **Información del entrevistado** | 
+|----------------------------------|
+| **Timing de entrevista:** ... - ... |
+| **Nombre:** Godofredo Quispe |
+| **Edad:** 21 años |
+| **Procedencia:** Puno |
+| | ![Ganadero Independiente Godofredo](https://cdn.discordapp.com/attachments/1226580112670064641/1235065307266027622/image.png?ex=663303b3&is=6631b233&hm=d9b95b9b369d8243ee471de29b89646f3238d86fc64e00fc8ca5fca32130a1b5&) |
+| **Resumen:** Godofredo, en su entrevista, destaca los desafíos que enfrenta en la gestión de su granja ganadera y propone una solución innovadora: implementar una aplicación móvil. Reconoce la importancia de registrar eventos como alimentación y tratamientos, así como la necesidad de acceder fácilmente a datos sobre la salud y producción animal. Además, subraya la relevancia de una planificación nutricional efectiva y la supervisión individualizada de los animales. En conclusión, Godofredo ofrece valiosas sugerencias para mejorar la gestión ganadera a través de la tecnología móvil. |
 
-Timing de entrevista: ... - ...
 
-Nombre: Godofredo Quispe
+### Entrevista 3  
+| **Información del entrevistado** | 
+|----------------------------------|
+| **Timing de entrevista:** ... - ... |
+| **Nombre:** Manuel Quispe Rodríguez |
+| **Edad:** 30 años |
+| **Procedencia:** Cuzco, Cuzco |
+| **mp4 el entrevistado, no accedio a mostrar su rostro** |
+| **Resumen:** Manuel Quispe Rodríguez, durante la entrevista, expuso los desafíos y necesidades en la gestión de su granja ganadera, proponiendo la implementación de una aplicación móvil centralizada, como PecuarioPro, para facilitar el acceso y la visualización de datos relevantes. Expresó su interés en que la aplicación permita registrar eventos como alimentación, tratamientos, compras y ventas de animales, así como proporcionar información detallada sobre inventarios, salud y producción de cada animal. Además, destacó la importancia de poder acceder fácilmente a registros de alimentación y consumo de los animales para una mejor planificación nutricional. En resumen, junto con identificar las necesidades, el entrevistado ofreció valiosas sugerencias sobre las funciones y características que le gustaría ver en la aplicación móvil. |
 
-Edad: 21 años
-
-Procedencia: Puno
-
-Resumen: El entrevistado, Godofredo, identifica los desafíos en la gestión de su granja ganadera y propone la implementación de una aplicación móvil para optimizarla. Destaca la necesidad de registrar eventos como alimentación y tratamientos, así como acceder de manera ágil a datos sobre la salud y producción animal. También enfatiza la importancia de una planificación nutricional efectiva y la supervisión individualizada de los animales. En resumen, Godofredo ofrece valiosas sugerencias para transformar la gestión ganadera mediante una aplicación móvil.
-
-### Entrevista 3 - mp4 el entrevistado, no accedio a mostrar su rostro
-
-Timing de entrevista: ... - ...
-
-Nombre: Manuel Quispe Rodriguez
-
-Edad: 30 años
-
-Procedencia: Cuzco, Cuzco
-
-Resumen: El entrevistado, Manuel Quispe Rodríguez, además de exponer los desafíos y necesidades en la gestión de su granja ganadera, sugiere la implementación de una aplicación móvil centralizada, como PecuarioPro, para facilitar el acceso y la visualización de datos relevantes. Expresa su interés en que la aplicación permita registrar eventos como alimentación, tratamientos, compras y ventas de animales, así como proporcionar información detallada sobre inventarios, salud y producción de cada animal. Además, destaca la importancia de poder acceder fácilmente a registros de alimentación y consumo de los animales para una mejor planificación nutricional. En resumen, junto con identificar las necesidades, el entrevistado ofrece valiosas sugerencias sobre las funciones y características que le gustaría ver en la aplicación móvil.
 
 ### Segmento: Empresa ganadera
 
-![Empresa Ganadera Elver](./assets/segmento-empresa-Elver.png)
-
-Timing de entrevista: ... - ...
-
-Informacion del entrevistado:
-
-Nombre: Elver Vásquez Villalobos
-
-Edad: 45 años
-
-Procedencia: Lambayeque, Chiclayo , Chiclayo
-
-Resumen: 
-
-El entrevistado Elver Vásquez actualmente labora en el puesto de Tesorero en una empresa ganadera en el departamento de Lambayeque. Él nos comenta que está manejando un aproximado de 200 animales de manera mensual y que su negocio se concentra más en los bovinos. 
-
-Elver nos detalla que aspectos como la salud,el clima, el bienestar animal, la reproducción eficiente, la nutrición adecuada, el manejo de recursos financieros y el tener una buena planificación son críticos para garantizar el éxito de la empresa.
-
-Así mismo, mencionó que los costos de producción, la rentabilidad y las tendencias del mercado son datos cruciales para la toma de decisiones en la empresa.
-
-El entrevistado precisó que sería beneficioso tener informes que analicen la producción en el negocio, la rentabilidad por lote y por campaña de bovinos, los costos de producción, la salud y el bienestar de cada animal.
-
-Respecto a la implementación de la solución de software, comenta que sería ideal contar con funciones que simplifiquen la programación de turnos para la gestión de su personal y el seguimiento de horas trabajadas.
-
-Finalmente, Elver espera que mediante la implementación de la solución de software obtenga una mejora en la eficiencia operativa, la gestión de sus recursos, toma de decisiones y rentabilidad que le permita adaptarse de la mejor manera a los cambios en el mercado. 
+### Entrevista 4
+| **Información del entrevistado** | 
+|----------------------------------|
+| **Timing de entrevista:** ... - ... |
+| **Nombre:** Elver Vásquez Villalobos |
+| **Edad:** 45 años |
+| **Procedencia:** Lambayeque, Chiclayo, Chiclayo |
+| | ![Empresa Ganadera Elver](./assets/segmento-empresa-Elver.png) |
+| **Resumen:** Elver Vásquez, tesorero en una empresa ganadera en Lambayeque, supervisa aproximadamente 200 animales mensualmente, centrándose principalmente en bovinos. Destaca la importancia de aspectos como la salud, el clima, el bienestar animal, la reproducción eficiente, la nutrición adecuada, el manejo financiero y la planificación para el éxito empresarial. Subraya que los costos de producción, la rentabilidad y las tendencias del mercado son fundamentales para la toma de decisiones. Sugiere informes que analicen la producción, rentabilidad por lote y campaña de bovinos, costos de producción y salud animal. Respecto a la solución de software, destaca la necesidad de funciones para simplificar la programación de turnos y el seguimiento de horas trabajadas del personal. Espera que la implementación de esta solución mejore la eficiencia operativa, la gestión de recursos, la toma de decisiones y la rentabilidad, adaptándose mejor a los cambios del mercado. |
 
 <br>
 <br>
 
-| Empresa Ganadera | **Descripción** |
-|------------------------|-----------------|
-| **Entrevista #5** |
-| **Nombre del entrevistado:** | **Edad**: 23 años |
-| Camila Fernanda Morales Farias | **Ciudad**: Lima |
-| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202219984_upc_edu_pe/EXvkojdQ4E5LhbYOn-CLXJcBRDQ8FpjbhSsMGQS0pLVnGg?e=sbSiHD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D )** | **Profesión**: Practicante de Agroindustrial (Unalm) |
+### Entrevista 5
+
+
+
+| **Información del entrevistado** | 
+|----------------------------------|
+| **Timing de entrevista:** ... - ... |
+| **Nombre:** Camila Fernanda Morales Farias |
+| **Edad:** 23 años |
+| **Procedencia:** Piura, Piura, Piura |
+| | ![Imagen del entrevistado](./assets/camila-morales.png) |
+| **Resumen:** Camila Fernanda Morales Farias está realizando prácticas en una empresa ganadera mientras estudia en la Universidad Nacional Agraria La Molina, en Lima. Destacó que, a pesar de los avances tecnológicos, persiste un proceso manual en el cuidado del ganado, lo que afecta el control de calidad del cuidado animal. Subrayó la dificultad en el seguimiento de las vacunas y la necesidad de una solución de software para monitorear la vida de los animales y garantizar su bienestar y seguridad de manera más efectiva. Expresó su esperanza de que esta implementación mejore la eficiencia en las operaciones de la empresa ganadera. |
 
 <br>
 <br>
@@ -1122,19 +1084,11 @@ BR>
 ## 4.5. Web Applications Prototyping.
 
 ## 4.6. Domain-Driven Software Architecture.
-
 ### 4.6.1. Software Architecture Context Diagram
-
-![Context Diagram](./assets/Context-Diagram.png)
-
 ### 4.6.2. Software Architecture Container Diagrams.
-
-![Container Diagram](./assets/Container%20Diagram.png)
-
-
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![Component Diagram](./assets/Component-Diagram.png)
+
 
 
 ## 4.7. Software Object-Oriented Design.
