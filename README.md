@@ -679,7 +679,13 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 
 ### 2.3.4. Empathy Mapping.
 
-![Empathy Mapping](./assets/empathy-map.jpg)
+**Empathy Map Ganadero Independiente**
+
+![Empathy Mapping Ganadero Independiente](./assets/Ganadero%20Independiente%20Empathy%20Map.png)
+
+**Empathy Map Empresa Ganadera**
+
+![Empathy Mapping Empresa Ganadera](./assets/Empathy%20Map%20Empresa%20Ganadera.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
