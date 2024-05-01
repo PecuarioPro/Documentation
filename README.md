@@ -715,28 +715,26 @@ En la entrevista 3, Renzo Silva el ganadero independiente menciona que gestionar
 ![As-is Scenario Mapping](./assets/AS-IS%20Scenario%20map.jpg)
 
 ## 2.4. Ubiquitous Language.
-<<<<<<< HEAD
-En esta sección se definirán términos que se comuniquen de forma correcta los miembros y los stakeholders del equipo.
-*    **Startup Profile**: Descripción de startup y perfiles de los integrantes del grupo
-*    **Solution Profile**: Antecedentes, problemática y proceso Lean UX.
-*    **Lean UX Process**: Metodología ágil centrada en el usuario para el desarrollo de productos.
-*    **Problem Statements**: Declaraciones que definen los problemas clave a resolver.
-*    **Hypothesis Statements**: Hipótesis sobre las soluciones propuestas que deben ser probadas.
-*    **Lean UX Canvas**: Herramienta para mapear el problema, solución y métricas clave.
-*    **Competitive Analysis**: Análisis de la competencia para identificar fortalezas y debilidades.
-*    **User Persona**: Perfiles ficticios que representan a los usuarios objetivo.
-*    **User Journey Mapping**: Mapeo de la experiencia del usuario a lo largo del tiempo.
-*    **User Stories**: Descripciones simples de funcionalidades desde la perspectiva del usuario.
-*    **Impact Mapping**: Técnica para planificar y priorizar el desarrollo de productos.
-*    **Product Backlog**: Lista priorizada de requisitos y funcionalidades a implementar.
-*    **Information Architecture**: Estructura de organización y etiquetado del contenido.
-*    **Web Applications UX/UI Design**: Diseño de la experiencia y la interfaz de usuario.
-*    **Wireframes**: Bocetos de bajo nivel que representan la estructura de la aplicación.
-*    **Database Design**: Diseño de la estrctura de la base de datos.
-*    **Sprint Planning**: Planificación de las iteraciones de desarrollo.
-*    **Sprint Backlog**: Lista de tareas a realizar durante una iteración.
-*    **Sprint Review**: Revisión y evaluación del trabajo realizado en una iteración.
-=======
+
+- Health Monitoring (Monitoreo de salud): Se menciona en el texto en relación con el seguimiento manual de la salud de los animales por parte de los ganaderos independientes.
+- Nutritional Management (Gestión nutricional): Se menciona indirectamente en el texto en relación con las decisiones de negocio sobre la nutrición del ganado que los ganaderos independientes toman de manera empírica.
+- Vaccination Reminders (Recordatorios de vacunación): Se menciona en el texto en relación con las funciones deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes.
+- Treatment Tracking (Seguimiento de tratamientos): Se menciona en el texto en relación con el seguimiento manual de tratamientos y vacunas por parte de los ganaderos independientes.
+- Statistical Reports (Informes estadísticos): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes y las empresas ganaderas.
+- Intuitive Interface (Interfaz intuitiva): Se menciona en el texto en relación con las preferencias de diseño de interfaz de usuario por parte de los ganaderos independientes.
+- Mobile Accessibility (Accesibilidad móvil): Se menciona en el texto en relación con las preferencias de accesibilidad móvil de los ganaderos independientes.
+- Inventory Management (Gestión de inventarios): No se menciona directamente en el texto.
+- Production Analysis (Análisis de producción): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de las empresas ganaderas.
+- Cost Tracking (Seguimiento de costos): Se menciona en el texto en relación con las necesidades de análisis de costos y rentabilidad de las empresas ganaderas.
+- Personnel Scheduling (Programación de personal): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de las empresas ganaderas.
+- Market Trends (Tendencias del mercado): Se menciona en el texto en relación con la importancia de conocer las tendencias del mercado para la toma de decisiones por parte de las empresas ganaderas.
+- Financial Planning (Planificación financiera): Se menciona en el texto en relación con la importancia de una buena planificación financiera para el éxito de las empresas ganaderas.
+- Data Visualization (Visualización de datos): No se menciona directamente en el texto.
+- Customization Options (Opciones de personalización): Se menciona en el texto en relación con las preferencias de personalización de las aplicaciones de gestión ganadera por parte de las empresas ganaderas.
+- Training Resources (Recursos de capacitación): No se menciona directamente en el texto.
+- Real-time Updates (Actualizaciones en tiempo real): No se menciona directamente en el texto.
+- Remote Collaboration (Colaboración remota): No se menciona directamente en el texto.
+- Campaign (Campaña): Un período específico de tiempo durante el cual se llevan a cabo actividades específicas en la gestión de ganadería, como la cría, el engorde o la comercialización de animales, con objetivos definidos y metas establecidas.
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
