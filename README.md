@@ -34,76 +34,6 @@ Pecuario Pro
 
 
 ## REGISTRO DE VERSIONES DEL INFORME
-<table>
- <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
-    </tr>
- </thead>
- <tbody>
-    <tr>
-      <td>1.0</td>
-      <td>10/04/2024</td>
-      <td>Rojas Velasquez, Maycol Jhordan.<br>
-      Soriano Medrano, Diego.<br>
-      Casaverde de la Cruz, Ernesto David.<br>
-      Cantoral Sedamano, Alexander Alberto.<br>
-      Vásquez Villalobos, Elverth Jair.
-      </td>
-      <td>
-        - Creación del documento para la primera versión del informe.<br>
-        - Implementación de Carátula, Contenido, Student Outcome.<br>
-        - Apertura Capítulo 1: Introducción.<br>
-        - Redacción Startup Profile: Descripción de la Startup, Perfiles de integrantes del equipo.<br>
-        - Redacción Solution Profile: Antecedentes y problemática, Lean UX Process.<br>
-        - Redacción Segmentos objetivo.<br>
-        - Apertura Capítulo 2: Requirements Elicitation & Analysis.<br>
-        - Redacción Competidores: Análisis competitivo, Estrategias y tácticas frente a competidores.<br>
-        - Redacción Entrevistas: Diseño de entrevistas, Registro de entrevistas y Análisis de entrevistas.<br>
-        - Redacción Needfinding: User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping y As-is Scenario Mapping.<br>
-        - Avance en la redacción de conclusiones.<br>
-        - Incorporación de Bibliografía en base a las citas del documento de reporte.
-      </td>
-    </tr>
-    <tr>
-      <td>2.0</td>
-      <td>01/05/2024</td>
-      <td>Rojas Velasquez, Maycol Jhordan.<br>
-      Soriano Medrano, Diego.<br>
-      Casaverde de la Cruz, Ernesto David.<br>
-      Cantoral Sedamano, Alexander Alberto.<br>
-      Vásquez Villalobos, Elverth Jair.
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td></td>
-      <td>Grupo 05</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td></td>
-      <td>Grupo 05</td>
-      <td></td>
-    </tr>
- </tbody>
-</table>
-
-<br>
-<br>
-
-## Project Report Collaboration Insights
-
-
-
-
-### Entregas
-
 
 | Versión | Fecha      | Autor                      | Descripción de modificación                                                                                                                |
 |---------|------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -112,6 +42,15 @@ Pecuario Pro
 | 3.0     | 29/04/2024 | Ernesto David Casaverde   |                                                       |
 | 4.0     | 30/04/2024 | Alexander Alberto Cantoral|                                             |
 | 5.0     | 01/05/2024 | Elverth Jair Vásquez      |                                                |
+
+
+## Project Report Collaboration Insights
+
+
+
+
+### Entregas
+
 
 
 
