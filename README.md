@@ -105,6 +105,14 @@ Pecuario Pro
 ### Entregas
 
 
+| Versión | Fecha      | Autor                      | Descripción de modificación                                                                                                                |
+|---------|------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0     | 01/05/2024 | Maycol Jhordan Rojas       | <br> - Implementación de Contenido, Student Outcome.<br> - Apertura Capítulo 1: Introducción.<br> - Redacción Segmentos objetivo y Redacción Entrevistas: Diseño de entrevistas y Registro de entrevistas.<br> - Redacción Needfinding:  User Task Matrix<br> - Avance en la redacción de conclusiones.<br> -Redaccion Domain-Driven Software Architecture:  Diagramas de Contexto, Contenedores y Componentes. |
+| 2.0     | 28/04/2024 | Diego Soriano Medrano     |                  |
+| 3.0     | 29/04/2024 | Ernesto David Casaverde   |                                                       |
+| 4.0     | 30/04/2024 | Alexander Alberto Cantoral|                                             |
+| 5.0     | 01/05/2024 | Elverth Jair Vásquez      |                                                |
+
 
 
 # CONTENIDO
@@ -191,6 +199,10 @@ Pecuario Pro
 
 # STUDENT OUTCOME
 
+| Criterio específico                                                                                          | Acciones realizadas                                                               | Conclusiones                                                                   |
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |**1.- Maycol Jhordan Rojas Velasquez:** <br>Tb1: Participación activa en las reuniones de equipo para el desarrollo de la landing page.<br><br>TP: Contribución en la revisión y conclusiones del segundo informe, implementando efectivamente las correcciones necesarias para mejorarlo.|**NO HAY**
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **1.- Maycol Jhordan Rojas Velasquez:** <br>Tb1: Realize investigaciones y análisis de mercado para comprender el contexto de aplicación de las soluciones de software en el sector empresarial, identificando tendencias, necesidades y oportunidades.<br><br>TP: Contribui en la revisión y conclusiones del segundo informe, implementando efectivamente las correcciones necesarias para mejorarlo ene sector empresarial.| **NO HAY**|
 
 
 
