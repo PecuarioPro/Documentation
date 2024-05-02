@@ -35,14 +35,34 @@ Pecuario Pro
 
 ## REGISTRO DE VERSIONES DEL INFORME
 
-| Versión | Fecha      | Autor                      | Descripción de modificación                                                                                                                |
-|---------|------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.0     | 01/05/2024 | Maycol Jhordan Rojas       | <br> - Implementación de Contenido, Student Outcome.<br> - Apertura Capítulo 1: Introducción.<br> - Redacción Segmentos objetivo y Redacción Entrevistas: Diseño de entrevistas y Registro de entrevistas.<br> - Redacción Needfinding:  User Task Matrix<br> - Avance en la redacción de conclusiones.<br> -Redaccion Domain-Driven Software Architecture:  Diagramas de Contexto, Contenedores y Componentes. |
-| 2.0     | 28/04/2024 | Diego Soriano Medrano     |                  |
-| 3.0     | 29/04/2024 | Ernesto David Casaverde   |                                                       |
-| 4.0     | 30/04/2024 | Alexander Alberto Cantoral|                                             |
-| 5.0     | 01/05/2024 | Elverth Jair Vásquez      |                                                |
-
+<table border="1">
+  <tr>
+    <th>Version</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción y Modificación</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>01/05/2024</td>
+    <td>Maycol Jhordan Rojas <br>
+        Diego Soriano Medrano <br>
+        Ernesto David Casaverde  <br>
+        Alexander Alberto Cantoral <br>
+        Elverth Jair Vásquez</td>
+    <td>- Implementación de Contenido, Student Outcome.<br> - Apertura Capítulo 1: Introducción.<br> - Redacción Segmentos objetivo y Redacción Entrevistas: Diseño de entrevistas y Registro de entrevistas.<br> - Redacción Needfinding:  User Task Matrix<br> - Avance en la redacción de conclusiones.<br> -Redaccion Domain-Driven Software Architecture:  Diagramas de Contexto, Contenedores y Componentes <br>/td>
+  </tr>
+  <tr>
+    <td>TP</td>
+    <td>29/04/2024</td>
+    <td>Maycol Jhordan Rojas <br>
+        Diego Soriano Medrano <br>
+        Ernesto David Casaverde  <br>
+        Alexander Alberto Cantoral <br>
+        Elverth Jair Vásquez</td>
+    <td></td>
+  </tr>
+</table>
 
 ## Project Report Collaboration Insights
 
