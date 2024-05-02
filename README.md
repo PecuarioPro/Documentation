@@ -60,7 +60,7 @@ Pecuario Pro
         Ernesto David Casaverde  <br>
         Alexander Alberto Cantoral <br>
         Elverth Jair Vásquez</td>
-    <td></td>
+    <td>- Corrección del contenido observado en la entrega TB1.<br> - Desarrollo del Sprint 2.<br> - Desarrollo de la primera versión de la aplicación web.</td>
   </tr>
 </table>
 
