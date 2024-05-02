@@ -1080,8 +1080,14 @@ BR>
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram
+
+![Context](./assets/DiagramSystemContext.png)
 ### 4.6.2. Software Architecture Container Diagrams.
+
+![Context](./assets/DiagramContainers.png)
 ### 4.6.3. Software Architecture Components Diagrams.
+
+![Context](./assets/DiagramComponents.png)
 
 
 
@@ -1261,60 +1267,13 @@ En esta sección se explicará el proceso del despliegue del proyecto.
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1 
-Los Sprint son segmentos de tiempo claramente definidos en Scrum, en los que un equipo se enfoca en llevar a cabo un conjunto específico de actividades o elementos del proyecto. Su principal objetivo es impulsar un desarrollo eficiente del producto, concentrándose en sus características clave, con la meta de atraer a los usuarios hacia nuestra aplicación
 
 #### 5.2.1.1 Sprint Planning 1
 
-| Sprint # | Sprint 1 |
-|---|---|
-| Sprint Planning Background |
-| Date | 2024-04-01 |
-| Time | 10:00 AM |
-| Location | presencial (UPC-San Miguel) |
-| Prepared By | Rojas Velasquez, Maycol Jhordan|
-| Attendees | Rojas Velasquez, Maycol Jhordan/ Soriano Medrano, Diego/ Casaverde de la Cruz, Ernesto David/Cantoral Sedamano, Alexander Alberto |
-| Sprint 1 - 1 Review Summary | - |
-| Sprint 1 - 1 Retrospective Summary | - |
-| Sprint Goal & User Stories |
-| Sprint 1 Goal | Diseñar y desarrollar la página web de PecuarioPro, enfocándose en la usabilidad y la estética. |
-| Sprint 1 Velocity | 20 Story Points |
-| Sum of Story Points | 15 Story Points |
-<br>
 
-<br>
-
-| Sprint # | Sprint 2 |
-|---|---|
-| Sprint Planning Background |
-| Date | 2024-04-06 |
-| Time | 10:00 AM |
-| Location | Virtual (Zoom Meeting) |
-| Prepared By | Rojas Velasquez, Maycol |
-| Attendees | Rojas Velasquez, Maycol Jhordan/ Soriano Medrano, Diego/ Casaverde de la Cruz, Ernesto David/Cantoral Sedamano, Alexander Alberto |
-| Sprint 2 - 1 Review Summary | Revisión del diseño y funcionalidad de la página web de PecuarioPro. Feedback de los usuarios y product owner. |
-| Sprint 2 - 1 Retrospective Summary | El equipo trabajó bien en conjunto, pero se identificaron oportunidades para mejorar en la comunicación interna y en la gestión del tiempo. Se sugiere establecer horarios de reuniones más claros, asignar roles de liderazgo más definidos y mejorar la gestión del tiempo para evitar retrasos. |
-| Sprint Goal & User Stories |
-| Sprint 2 Goal | Revisar y mejorar la página web de PecuarioPro basado en el feedback recibido. Comenzar el diseño de la aplicación móvil de PecuarioPro. |
-| Sprint 2 Velocity | 25 Story Points |
-| Sum of Story Points | 20 Story Points |
 
 #### 5.2.1.2 Sprint  Backlogs 
 
-| Orden | Código | Título | Descripción | Story Points |
-|-------|--------|--------|-------------|--------------|
-| 1     | HU05   | Gestión de los planes alimenticios | Como usuario de "PecuarioPro", quiero asegurarme de que los planes alimenticios para mis animales se gestionen de manera efectiva, lo que garantizará su salud y rendimiento óptimo en la ganadería. | 8 |
-| 2     | HU06   | Comunicaciones con veterinario | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita comunicarme de manera efectiva con veterinarios, para obtener asesoramiento y atención médica para mis animales cuando sea necesario. | 5 |
-| 3     | HU08   | Redacción de Informes del Estado de los Animales | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita generar informes detallados sobre el estado de salud y el rendimiento de mis animales, para poder realizar un seguimiento efectivo de su bienestar y tomar decisiones informadas en la gestión de mi ganadería. | 13 |
-| 4     | HU09   | Programación de Visitas Veterinarias | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita programar y gestionar visitas veterinarias para mis animales, garantizando así un cuidado veterinario regular y oportuno para mantener su salud. | 3 |
-| 5     | HU10   | Seguimiento de reproducción y cría | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita realizar un seguimiento detallado del proceso de reproducción y cría de mis animales, garantizando así una gestión eficiente y una mejora continua en mi ganadería. | 8 |
-
-<br>
-<br>
-
-![1SP](./assets/1Sprint%20Backlog.jpg)
-![2SP](./assets/2Sprint%20Backlog.jpg)
-<br>
-<br>
 
 
 
