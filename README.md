@@ -265,7 +265,7 @@ How?
  La aplicación se desarrollaría utilizando tecnologías web modernas, como HTML, CSS, JavaScript, frameworks de front-end y back-end, bases de datos y servicios en la nube. Además, se implementarían funcionalidades como registro de datos, generación de informes, visualización de datos en tiempo real, entre otras.
 
 How much? 
- 
+
  El costo del desarrollo de la aplicación dependería de factores como el alcance, las características requeridas, la complejidad, la integración con otros sistemas y la contratación de desarrolladores y personal de soporte técnico
 
 ### 1.2.2 Lean UX Process.
@@ -550,12 +550,17 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 <br>
 <br>
 
-| Empresa Ganadera | **Descripción** |
-|------------------------|-----------------|
-| **Entrevista #6** |
-| **Nombre del entrevistado:** | **Edad**: 21 años |
-| Renzo Silva   | **Ciudad**: Lima |
-| **Link del audio evidenciando la entrevista : [Link de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b657_upc_edu_pe/Ebh5nQG8UIxEkAcwJWUzewYByInE1uMurjyvmi8PWE9VFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PXRW8f)** | **Profesión**: estudiante con mini empresa ganadera   |
+
+
+| **Información del entrevistado** | 
+|----------------------------------|
+| **Timing de entrevista:** ... - ... |
+| **Nombre:** Renzo Silva Morales |
+| **Edad:** 21 años |
+| **Procedencia:** Lima, Lima metropolitana, Puente Piedra |
+|  ![Imagen del entrevistado](/assets/Segmento-Empresa-Ernesto.png) |
+| **Resumen:** Renzo Silva es un pequeño emprendedor ganadero me comento que recien estaba empezando en este rubro apenas cuenta con un simple empredimiento dijo que como es nuevo si le interesaria saber mas de nuestra aplicacion ya que considera que las tecnologias estan para servir las personas y mencion una facilidad de uso ya que no domina bien la tecnologia |
+
 
 ### 2.2.3. Análisis de entrevistas.
 
