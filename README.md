@@ -46,12 +46,29 @@ Pecuario Pro
 
 ## Project Report Collaboration Insights
 
+| URL del Repositorio |
+|----------------------|
+| [Enlace al Repositorio en GitHub](url_del_repositorio) |
+
+| Descripción de Actividades |
+|-----------------------------|
+| Se ha redactado el informe siguiendo un proceso de redacción, revisión y edición. |
+| Se ha utilizado la plataforma GitHub para la colaboración en línea entre los miembros del equipo. |
+| Se han organizado reuniones periódicas para discutir el progreso del informe y asignar tareas. |
+| Se han utilizado herramientas como Google Docs para la colaboración en tiempo real en secciones específicas del informe. |
 
 
+| Capturas de Pantalla |
+|----------------------|
+| ![Captura de Pantalla de Analíticas de Colaboración](ruta_hacia_la_imagen1) |
+| ![Captura de Pantalla de Commits en GitHub](ruta_hacia_la_imagen2) |
 
-### Entregas
-
-
+| Participación de los Miembros del Equipo |
+|------------------------------------------|
+| Todos los miembros del equipo han contribuido en la elaboración del informe. |
+| Se han asignado tareas específicas a cada miembro del equipo para garantizar una distribución equitativa del trabajo. |
+| Se han realizado revisiones cruzadas entre los miembros del equipo para asegurar la calidad del contenido del informe. |
+| Se han proporcionado comentarios y sugerencias para mejorar el contenido y la estructura del informe. |
 
 
 # CONTENIDO
