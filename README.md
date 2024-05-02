@@ -695,10 +695,14 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 
 - Health Monitoring (Monitoreo de salud): Se menciona en el texto en relación con el seguimiento manual de la salud de los animales por parte de los ganaderos independientes.
 - Nutritional Management (Gestión nutricional): Se menciona indirectamente en el texto en relación con las decisiones de negocio sobre la nutrición del ganado que los ganaderos independientes toman de manera empírica.
+- Reproduction Management (Gestión de reproducción): El conjunto de prácticas y procedimientos utilizados para controlar y mejorar la reproducción y la crianza de los animales, incluyendo la selección de reproductores, el control del ciclo reproductivo, la inseminación 
 - Vaccination Reminders (Recordatorios de vacunación): Se menciona en el texto en relación con las funciones deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes.
 - Treatment Tracking (Seguimiento de tratamientos): Se menciona en el texto en relación con el seguimiento manual de tratamientos y vacunas por parte de los ganaderos independientes.
 - Statistical Reports (Informes estadísticos): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes y las empresas ganaderas.
 - Campaign (Campaña): Un período específico de tiempo durante el cual se llevan a cabo actividades específicas en la gestión de ganadería, como la cría, el engorde o la comercialización de animales, con objetivos definidos y metas establecidas.
+- Batch (Lote): Un grupo de animales criados o tratados juntos, generalmente con el mismo origen, características y destino, que se manejan y monitorean como una unidad durante un período específico de tiempo.
+- Fumigation (Fumigación): El proceso de aplicación de productos químicos o biológicos para eliminar o controlar plagas, insectos, parásitos o enfermedades que afectan a los animales o a su entorno, con el fin de proteger su salud y mejorar la calidad del ambiente de crianza.
+
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
