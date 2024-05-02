@@ -663,8 +663,21 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 **Segmento Empresa Ganadera**
 
 ![User persona 2 ](./assets/Brando%20Vásquez .png)
+
+
 ### 2.3.2. User Task Matrix.
-![User Task Matrix](./assets/UsTaskMatrix.png) 
+| Tarea                                       | Ganadero Independiente                       | Empresa Ganadera                          |
+|---------------------------------------------|----------------------------------------------|-------------------------------------------|
+| Registrar nuevos animales                   | Alta (Manualmente con papel y lápiz)        | Alta (Manualmente con registros en cuadernos) |
+| Controlar la alimentación del ganado        | Alta (Registro manual en cuadernos)          | Alta (Registro manual en registros de alimentación) |
+| Programar citas con el veterinario          | Media (Llamadas telefónicas)                | Alta (Agenda manual de citas)             |
+| Gestionar vacunaciones                      | Alta (Registro manual en registros de vacunación) | Alta (Registro manual en cuadernos de vacunación) |
+| Realizar seguimiento del estado de salud    | Alta (Observación manual del ganado)        | Alta (Registro manual de síntomas y signos) |
+| Verificar el pronóstico del tiempo          | Media (Consultando en línea o escuchando el pronóstico) | Alta (Consultando en línea o por radio) |
+| Consultar información sobre razas de ganado| Media (Investigación en línea o en libros)  | Alta (Investigación en línea o en libros) |
+| Mantenimiento de infraestructura y equipos  | Alta (Reparaciones manuales y limpieza)     | Alta (Reparaciones manuales y limpieza)   |
+| Manejo de la reproducción y cría de ganado | Alta (Observación y gestión manual del ciclo reproductivo) | Alta (Observación y gestión manual del ciclo reproductivo) |
+| Registro de movimientos de ganado           | Alta (Registro manual de traslados, compra y venta) | Alta (Registro manual de traslados, compra y venta) |
 
 
 ## 2.3.3. User Journey Mapping.
@@ -693,15 +706,24 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 
 ## 2.4. Ubiquitous Language.
 
-- Health Monitoring (Monitoreo de salud): Se menciona en el texto en relación con el seguimiento manual de la salud de los animales por parte de los ganaderos independientes.
-- Nutritional Management (Gestión nutricional): Se menciona indirectamente en el texto en relación con las decisiones de negocio sobre la nutrición del ganado que los ganaderos independientes toman de manera empírica.
-- Reproduction Management (Gestión de reproducción): El conjunto de prácticas y procedimientos utilizados para controlar y mejorar la reproducción y la crianza de los animales, incluyendo la selección de reproductores, el control del ciclo reproductivo, la inseminación 
-- Vaccination Reminders (Recordatorios de vacunación): Se menciona en el texto en relación con las funciones deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes.
-- Treatment Tracking (Seguimiento de tratamientos): Se menciona en el texto en relación con el seguimiento manual de tratamientos y vacunas por parte de los ganaderos independientes.
-- Statistical Reports (Informes estadísticos): Se menciona en el texto en relación con las funcionalidades deseadas en una aplicación de gestión ganadera por parte de los ganaderos independientes y las empresas ganaderas.
-- Campaign (Campaña): Un período específico de tiempo durante el cual se llevan a cabo actividades específicas en la gestión de ganadería, como la cría, el engorde o la comercialización de animales, con objetivos definidos y metas establecidas.
-- Batch (Lote): Un grupo de animales criados o tratados juntos, generalmente con el mismo origen, características y destino, que se manejan y monitorean como una unidad durante un período específico de tiempo.
-- Fumigation (Fumigación): El proceso de aplicación de productos químicos o biológicos para eliminar o controlar plagas, insectos, parásitos o enfermedades que afectan a los animales o a su entorno, con el fin de proteger su salud y mejorar la calidad del ambiente de crianza.
+
+| Palabra                         | Descripción                                                                                                                                                     |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Animal Health (Salud Animal) | Mantener la salud y prevenir enfermedades en el ganado.                                                                                                       |
+| Balanced Feeding (Alimentación Equilibrada) | Proporcionar una dieta equilibrada que cumpla con los requisitos nutricionales específicos de los animales.                                                    |
+| Artificial Insemination (Inseminación Artificial) | Introducir esperma en el tracto reproductivo de una hembra sin necesidad de apareamiento natural.                                                             |
+| Rectal Palpation (Palpación Rectal) | Examen para evaluar la condición reproductiva de una hembra, especialmente en el ganado vacuno.                                                               |
+| Deworming (Desparasitación) | Administrar medicamentos antiparasitarios para controlar y prevenir la infestación de parásitos internos y externos en el ganado.                              |
+| Branding (Marcado) | Identificación de ganado mediante la aplicación de un sello metálico caliente en la piel del animal.                                                          |
+| Weaning (Destete) | Separación gradual de los terneros de sus madres para cesar la lactancia y promover la independencia alimentaria.                                             |
+| Grazing Rotation (Rotación de Pastoreo) | Mover el ganado entre diferentes áreas de pastoreo para optimizar el uso del suelo y prevenir el sobrepastoreo.                                               |
+| Dystocia (Distocia) | Dificultades durante el parto que pueden requerir intervención veterinaria.                                                                                   |
+| Dusting (Aplicación de Polvos) | Aplicación de insecticidas en polvo o en aerosol sobre el pelaje del ganado para controlar infestaciones de insectos y parásitos externos.                    |
+| Campaign (Campaña) | Período durante el cual se llevan a cabo actividades específicas en la gestión de ganadería, con objetivos definidos y metas establecidas.                   |
+| Batch (Lote) | Grupo de animales criados o tratados juntos, que se manejan y monitorean como una unidad durante un período específico de tiempo.                              |
+| Fumigation (Fumigación) | Aplicación de productos químicos o biológicos para eliminar o controlar plagas, insectos, parásitos o enfermedades en el ganado y su entorno.                |
+
+
 
 
 # Capítulo III: Requirements Specification
@@ -710,24 +732,7 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 ![To-Be Scenario Mapping](./assets/To-Be%20Scenario%20map.jpg)
 
 ## 3.2. User Stories.
-![HU1](./assets/HU1.png)
-![HU2](./assets/HU2.png)
-![HU3](./assets/HU3.png)
-![HU4](./assets/HU4.png)
-![HU5](./assets/HU5.png)
-![HU6](./assets/HU6.png)
-![HU7](./assets/HU7.png)
-![HU8](./assets/HU8.png)
-![HU9](./assets/HU9.png)
-![HU10](./assets/HU10.png)
-![HU11](./assets/HU11.png)
-![HU12](./assets/HU12.png)
-![HU13](./assets/HU13.png)
-<br>
-Link donde se hizo las User Stories : 
-[Canvas](https://www.canva.com/design/DAFnx0PwxDA/SUwwPGid2HJj28K1XF_Mig/edit?utm_content=DAFnx0PwxDA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-<br>
 
 ## 3.3. Impact Mapping.
 
@@ -746,15 +751,6 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 ![Business Goal 3](./assets/impactMapIndependiente.png)
 
 ## 3.4. Product Backlog.
-# Product Backlog
-
-| Orden | Código | Título                                    | Descripción                                                                                                                                                            |
-|-------|--------|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | HU05   | Gestión de los planes alimenticios       | Como usuario de "PecuarioPro", quiero asegurarme de que los planes alimenticios para mis animales se gestionen de manera efectiva, lo que garantizará su salud y rendimiento óptimo en la ganadería. |
-| 2     | HU06   | Comunicaciones con veterinario            | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita comunicarme de manera efectiva con veterinarios, para obtener asesoramiento y atención médica para mis animales cuando sea necesario. |
-| 3     | HU08   | Redacción de Informes del Estado de los Animales | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita generar informes detallados sobre el estado de salud y el rendimiento de mis animales, para poder realizar un seguimiento efectivo de su bienestar y tomar decisiones informadas en la gestión de mi ganadería. |
-| 4     | HU09   | Programación de Visitas Veterinarias     | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita programar y gestionar visitas veterinarias para mis animales, garantizando así un cuidado veterinario regular y oportuno para mantener su salud. |
-| 5     | HU10   | Seguimiento de reproducción y cría       | Como ganadero que utiliza la plataforma PecuarioPro, quiero una funcionalidad que me permita realizar un seguimiento detallado del proceso de reproducción y cría de mis animales, garantizando así una gestión eficiente y una mejora continua en mi ganadería. |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
