@@ -504,7 +504,7 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 | **Nombre:** Godofredo Quispe |
 | **Edad:** 21 años |
 | **Procedencia:** Puno |
-|  ![Ganadero Independiente Godofredo](https://cdn.discordapp.com/attachments/1226580112670064641/1235065307266027622/image.png?ex=663303b3&is=6631b233&hm=d9b95b9b369d8243ee471de29b89646f3238d86fc64e00fc8ca5fca32130a1b5&) |
+|  **mp3 de la entrevista, no accedio a mostrar su rostro**  |
 | **Resumen:** Godofredo, en su entrevista, destaca los desafíos que enfrenta en la gestión de su granja ganadera y propone una solución innovadora: implementar una aplicación móvil. Reconoce la importancia de registrar eventos como alimentación y tratamientos, así como la necesidad de acceder fácilmente a datos sobre la salud y producción animal. Además, subraya la relevancia de una planificación nutricional efectiva y la supervisión individualizada de los animales. En conclusión, Godofredo ofrece valiosas sugerencias para mejorar la gestión ganadera a través de la tecnología móvil. |
 
 
@@ -515,7 +515,7 @@ PecuarioPro se centra en mejorar la eficiencia y la gestión en las empresas gan
 | **Nombre:** Manuel Quispe Rodríguez |
 | **Edad:** 30 años |
 | **Procedencia:** Cuzco, Cuzco |
-| **mp4 el entrevistado, no accedio a mostrar su rostro** |
+| **mp3 de la entrevista, no accedio a mostrar su rostro** |
 | **Resumen:** Manuel Quispe Rodríguez, durante la entrevista, expuso los desafíos y necesidades en la gestión de su granja ganadera, proponiendo la implementación de una aplicación móvil centralizada, como PecuarioPro, para facilitar el acceso y la visualización de datos relevantes. Expresó su interés en que la aplicación permita registrar eventos como alimentación, tratamientos, compras y ventas de animales, así como proporcionar información detallada sobre inventarios, salud y producción de cada animal. Además, destacó la importancia de poder acceder fácilmente a registros de alimentación y consumo de los animales para una mejor planificación nutricional. En resumen, junto con identificar las necesidades, el entrevistado ofreció valiosas sugerencias sobre las funciones y características que le gustaría ver en la aplicación móvil. |
 
 
