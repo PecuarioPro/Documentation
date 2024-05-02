@@ -265,7 +265,7 @@ __6.-Seguridad y privacidad:__ Se asume, que los ganaderos puedan contar con muc
 
 ![Lean UX Canvas](./assets/Lean%20UX%20Canvas.png)
 
-Link del figma [here](https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1 "Lean ux canvas").
+__Link del figma:__ [https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1](https://www.figma.com/file/MjkbNsmp6xjbCwMJWu7eRm/Lean-UX-Canvas?type=whiteboard&node-id=2%3A268&t=IfnuiT4QukKtG1cG-1 "Lean ux canvas").
 
 
 ## 1.3. Segmentos objetivo.
@@ -311,25 +311,54 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
 ## 2.1 Competidores
 ### 2.1.1. Análisis competitivo.
 
-| Competitive Analysis Landscape |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| ¿Por qué llevar a cabo este análisis? |  | Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis. |  |  |  |
-|  |  | Por qué asi ampliamos nuestro conocimiento sobre nuestro negocio |  |  |  |
-| (En la cabecera colocar por cada competidor nombre )
- |  | |PecuarioPro | Control Ganadero | Agroptima | App Ganadera |
-| Perfil | Overview | Somos una empresa emergente en pleno desarrollo contamos con todas las últimas tecnologías, buena eficiencia y compatibilidad con muchos dispositivos | Es una aplicación español, británico y brasileño en el sector de la ganadería. | Agroptima es un sitio web multiplataforma cofundado por la unión europea para los países de España, Francia e Inglaterra | Es una empresa fundada en Colombia que cuenta con una para la gestión de ganado. |
-|  | Ventaja competitiva ¿Qué valor ofrece a los clientes? | Lo último en tecnología mucha productividad y buena gestión | es una app para la gestión de vacas y enfocada para móviles | cuenta con multiplataforma cuenta con algoritmos matemáticos para una mayor gestión del ganado. | Tiene gran variedad de herramientas y gran cantidad de distribuidores |
-| Perfil de Marketing | Mercado objetivo | productores ganaderos independientes y empresas privadas o públicas. | Para ganaderos españoles, brasileños e ingleses. | Para ganaderos españoles, franceses   e ingleses. | Para ganaderos colombianos |
-|  | Estrategias de marketing | Difusión en redes sociales y anuncios pagados | Estrategia de posicionamiento | Estrategia de segmentación | Estrategia
-segmentación |
-| Perfil de Servicio | Servicio | Web app de gestión de ganado.| Web app de gestión de ganado. | Web app de gestión de ganado. | Web app de gestión de ganado. |
-|  | Precio del servicio | suscripción  Bajo costo | suscripción  Bajo costo | suscripción  Bajo costo| Subscripcion Bajo costo |
-|  | Canales de distribución (Web y/o Móvil) | Web y móvil | app | web y móvil | app |
-| Análisis SOT | Realice esto para su empresa emergente y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva. |  |  |  |  |
-|  | Fortalezas | Contamos con lo último en tecnología e implementamos lo nuevo en desarrollo para mejorar la productividad del servicio | Es una app netamente para la gestión de vacas cuenta con buena personalización | Es famoso por ser bueno en gestión ya que usa algoritmos matemáticos para un mejor cálculo del ganado. | Su ecosistema está basado en un país de origen conoce muy bien a sus clientes y se adapta a ellos |
-|  | Debilidades | Está en pleno desarrollo puede ser un éxito o fracaso | Solo es de móvil eso limita que sea multiplataforma | Solo opera en Europa y se basa en reglas ya establecidas por la unión europea | Solo es una app y para la zona de Colombia por lo tanto solo está disponible en su país de origen |
-|  | Oportunidades | Puede hacer productivos a los ganaderos y empresas de este rubro mejorando sus tomas de decisiones y eficiencia | Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. | Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. | Si eres colombiano estarás contento con la app ya que es de uso nacional. |
-|  | Amenazas | Al no tener buenos conocimientos o malas prácticas de desarrollo porque estamos en pleno rubro académico puede limitar su desarrollo. | no cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. | no cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. | Falta de apoyo económico los gobiernos locales de Colombia no ven viable esta innovación puede llegar a su desaparición |
+<table>
+   <tr>
+      <td align="center" colspan="6">Competitive Analysis Landscaspe</td>
+   </tr>
+   <tr>
+      <td colspan="2">¿Porqué llevar a cabo este análisis?</td><td colspan="4">¿Cómo podemos proporcionar un buen servicio entre los restaurantes y los consumidores de manera que la comunicación entre ambos sea efectiva y agradable?</td>
+   </tr>
+   <tr align="center">
+      <td colspan="2"><td>PecuarioPro</td><td>Control Ganadero</td><td>Agroptima</td><td>App Ganadera</td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil</td><td>Overview</td><td> Somos una empresa emergente en pleno desarrollo contamos con todas las últimas tecnologías, buena eficiencia y compatibilidad con muchos dispositivos </td><td> Es una aplicación español, británico y brasileño en el sector de la ganadería. </td><td> Agroptima es un sitio web multiplataforma cofundado por la unión europea para los países de España, Francia e Inglaterra </td><td> Es una empresa fundada en Colombia que cuenta con una para la gestión de ganado. </td>
+   </tr>
+   <tr>
+      <td>Ventaja competitiva. ¿Qué valor ofrece a los clientes?</td><td> Lo último en tecnología mucha productividad y buena gestión </td><td> es una app para la gestión de vacas y enfocada para móviles </td><td> cuenta con multiplataforma cuenta con algoritmos matemáticos para una mayor gestión del ganado. </td><td> Tiene gran variedad de herramientas y gran cantidad de distribuidores </td>
+   </tr>
+   <tr>
+      <td rowspan="2">Perfil de Marketing</td><td>Mercado Objetivo</td><td> Productores ganaderos independientes y empresas privadas o públicas. </td><td> Para ganaderos españoles, brasileños e ingleses. </td><td> Para ganaderos españoles,franceses e ingleses. </td><td> Para ganaderos colombianos </td>
+   </tr>
+   <tr>
+      <td>Estrategias de Marketing</td><td> Difusión en redes sociales y anuncios pagados </td><td> Estrategia de posicionamiento </td><td> Estrategia de segmentación </td><td> Estrategia </td>
+   </tr>
+   <tr>
+      <td rowspan="3">Perfil de Producto</td><td>Productos & Servicios</td><td> Web app de gestión de ganado. </td><td> Web app de gestión de ganado. </td><td> Web app de gestión de ganado. </td><td> Web app de gestión de ganado. </td>
+   </tr>
+   <tr>
+      <td>Precios & Costos</td><td> Subscripcion Bajo costo </td><td> Subscripcion Bajo costo </td><td> Subscripcion Bajo costo </td><td> Subscripcion Bajo costo </td>
+   </tr>
+   <tr>
+      <td>Canales de distribución (Web y/o Móvil)</td><td> Web y móvil </td><td> App </td><td> Web y móvil </td><td> App </td>
+   </tr>
+
+   <tr>
+      <td rowspan="5">Análisis SWOT</td><td>Fortalezas</td><td> Contamos con lo último en tecnología e implementamos lo nuevo en desarrollo para mejorar la productividad del servicio </td><td> Es una app netamente para la gestión de vacas cuenta con buena personalización </td><td> Es famoso por ser bueno en gestión ya que usa algoritmos matemáticos para un mejor cálculo del ganado. </td><td> Su ecosistema está basado en un país de origen conoce muy bien a sus clientes y se adapta a ellos </td>
+   </tr>
+   <tr>
+      <td>Debilidades</td><td> Está en pleno desarrollo puede ser un éxito o fracaso </td><td> Solo es de móvil eso limita que sea multiplataforma </td><td> Solo opera en Europa y se basa en reglas ya establecidas por la unión europea </td><td> Solo es una app y para la zona de Colombia por lo tanto solo está disponible en su país de origen </td>
+   </tr>
+   <tr>
+      <td>Oportunidades</td><td> Puede hacer productivos a los ganaderos y empresas de este rubro mejorando sus tomas de decisiones y eficiencia </td><td> Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. </td><td> Si planeas ir a Europa es buena idea ya que ese es su público objetivo y contará con más servicios. </td><td> Si eres colombiano estarás contento con la app ya que es de uso nacional. </td>
+   </tr>
+   <tr>
+      <td>Amenazas</td><td> Al no tener buenos conocimientos o malas prácticas de desarrollo porque estamos en pleno rubro académico puede limitar su desarrollo. </td><td> No cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. </td><td> No cuenta con muchos clientes la ganadería sigue siendo a la antigua por tanto no hace falta usarla. </td><td> Falta de apoyo económico los gobiernos locales de Colombia no ven viable esta innovación puede llegar a su desaparición </td>
+   </tr>
+
+</table> 
+
+<br/>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
