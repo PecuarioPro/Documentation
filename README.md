@@ -218,48 +218,72 @@ Soy una persona creativa y paciente, tengo conocimiento en el uso de diferentes 
 
 __Mediante la técnica de “5w’s & 2h’s” logramos identificar los antecedentes de nuestra problemática y comprender mejor la misma.__
 
-What/ Qué: Una aplicación web para gestionar eficientemente el inventario de ganado, registrar información relevante (peso, salud, alimentación, etc.), realizar seguimiento de la producción y ventas, y generar informes y análisis.
 
-__When / Cuándo:__ Esta aplicación sería utilizada de manera continua por los encargados de la gestión del ganado, permitiéndoles acceder y actualizar la información en tiempo real.
 
-__Where/ Dónde:__ La aplicación web estaría accesible desde cualquier dispositivo con conexión a Internet, ya sea en la oficina, en el campo o en cualquier lugar donde se requiera acceder a la información.
+What?
 
-__Who / Quién:__ Los usuarios principales serían las personas que trabajan de la granja o rancho, veterinarios, encargados de alimentación y personal involucrado en la gestión del ganado.
+ Una aplicación web para gestionar eficientemente el inventario de ganado, registrar información relevante (peso, salud, alimentación, etc.), realizar seguimiento de la producción y ventas, y generar informes y análisis.
 
-__Why / Por qué:__ La aplicación web facilitaría la gestión eficiente del ganado, mejorando la trazabilidad, optimizando los procesos y permitiendo la toma de decisiones informadas basadas en datos precisos.
+When?
+Esta aplicación sería utilizada de manera continua por los encargados de la gestión del ganado, permitiéndoles acceder y actualizar la información en tiempo real.
 
-__How/ Cómo:__ La aplicación se desarrollaría utilizando tecnologías web modernas, como HTML, CSS, JavaScript, frameworks de front-end y back-end, bases de datos y servicios en la nube. Además, se implementarían funcionalidades como registro de datos, generación de informes, visualización de datos en tiempo real, entre otras.
+Where? 
+La aplicación web estaría accesible desde cualquier dispositivo con conexión a Internet, ya sea en la oficina, en el campo o en cualquier lugar donde se requiera acceder a la información.
 
-__How much / Cuánto:__  El costo del desarrollo de la aplicación dependería de factores como el alcance, las características requeridas, la complejidad, la integración con otros sistemas y la contratación de desarrolladores y personal de soporte técnico.
+Who?
+ Los usuarios principales serían las personas que trabajan de la granja o rancho, veterinarios, encargados de alimentación y personal involucrado en la gestión del ganado.
+
+Why?
+ La aplicación web facilitaría la gestión eficiente del ganado, mejorando la trazabilidad, optimizando los procesos y permitiendo la toma de decisiones informadas basadas en datos precisos.
+
+How?
+ La aplicación se desarrollaría utilizando tecnologías web modernas, como HTML, CSS, JavaScript, frameworks de front-end y back-end, bases de datos y servicios en la nube. Además, se implementarían funcionalidades como registro de datos, generación de informes, visualización de datos en tiempo real, entre otras.
+
+How much?  
+ El costo del desarrollo de la aplicación dependería de factores como el alcance, las características requeridas, la complejidad, la integración con otros sistemas y la contratación de desarrolladores y personal de soporte técnico
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements
 
-__Problem statement 1:__  Como ganadero o productor pecuario necesito una solución para gestionar mis animales de manera eficiente, ya que actualmente dependo de una organización manual no muy eficiente para recopilar y rastrear información importante sobre mis animales, mi negocio y mi trabajo. Esto afectó negativamente el producto y la rentabilidad de mi negocio al dificultarme la toma de decisiones, la mejora de procesos y el cumplimiento de las reglas.
+Cuando lanzamos nuestras soluciones de gestión ganadera en (*PecuarioPro*) para pequeños y medianos productores pecuarios, el mercado estaba dominado por métodos manuales y anticuados para recopilar y rastrear información sobre el ganado. En ese entorno, nuestro sistema digital para gestionar datos y operaciones de animales se destacó y atrajo a ganaderos que buscaban formas más eficientes de administrar sus negocios. Sin embargo, a medida que las granjas y ranchos tradicionales han ido adoptando soluciones tecnológicas similares, nuestro mercado se ha vuelto saturado y altamente competitivo. Esto está provocando un aumento en los costos de adquisición de nuevos clientes ganaderos, un estancamiento en nuestra participación de mercado y un incremento en los costos de soporte y servicio al cliente.
 
-__Problem statement 2:__ Como administrador o encargado de una granja de animales necesito una aplicación web de gestión animal que cumple con los más altos estándares en términos de rendimiento, seguridad y escalabilidad, ya que las soluciones existentes en el mercado carecen de solidez, funciones avanzadas y potencial de crecimiento. Esto limitó mi capacidad para utilizar nuevas tecnologías, garantizar la integridad de los datos y brindar la mejor experiencia de usuario para mi equipo, lo que afectaría el rendimiento, la longevidad y la competitividad de mi negocio.
+Cuando lanzamos nuestra aplicación web de gestión animal para administradores y encargados de granjas(*PecuarioPro*), el mercado ofrecía soluciones que carecían de solidez, funciones avanzadas y potencial de crecimiento. En ese entorno, nuestra aplicación de alta gama se destacó al cumplir con los más altos estándares en términos de rendimiento, seguridad y escalabilidad. Inicialmente, atrajo a clientes que buscaban aprovechar las nuevas tecnologías, garantizar la integridad de los datos y brindar una excelente experiencia de usuario a sus equipos. Sin embargo, a medida que los competidores han comenzado a ofrecer soluciones más robustas, nuestro mercado se ha vuelto saturado y muy competitivo. Esto está provocando un aumento en los costos de adquisición de nuevos clientes, un estancamiento en nuestra participación de mercado y una presión para mantener nuestras tarifas competitivas, afectando nuestra rentabilidad y capacidad para invertir en nuevas características e innovaciones.
 
 #### 1.2.2.2. Lean UX Assumptions
 
-1.- __Ganaderos usan la tecnología:__ se asume que los ganaderos estén dispuestos a hacer uso de la tecnología para mejorar su negocio, y consideran que la administración de la ganadería es una herramienta valiosa para alcanzar este objetivo. 
+- se asume que los ganaderos estén dispuestos a hacer uso de la tecnología para mejorar su negocio, y consideran que la administración de la ganadería es una herramienta valiosa para alcanzar este objetivo. 
 
-__2.- Priorizar la Accesibilidad:__ Se asume que los ganaderos, independientemente de su experiencia tecnológica, valorarán una aplicación fácil de usar, accesible desde diferentes dispositivos, incluidos teléfonos móviles, tabletas y computadoras de escritorio.
+- Se asume que los ganaderos, independientemente de su experiencia tecnológica, valorarán una aplicación fácil de usar, accesible desde diferentes dispositivos, incluidos teléfonos móviles, tabletas y computadoras de escritorio.
 
-__3.-Buena Conectividad:__ Se asume, que los ganaderos puedan contar con una Buena eficiencia en la conectividad ya que su rubro u oficio lo realizan desde zonas con poca conectividad o incluso no llegar a contar con ella. Para ello priorizaremos evitar las dependencias de la conectividad.
+-  Se asume, que los ganaderos puedan contar con una Buena eficiencia en la conectividad ya que su rubro u oficio lo realizan desde zonas con poca conectividad o incluso no llegar a contar con ella. Para ello priorizaremos evitar las dependencias de la conectividad.
 
-__4.-Gestion del Ganado:__ Se asume, que los ganaderos al usar nuestra aplicación web, aumente su productividad y mejor toma de decisiones para una mejor Calidad de los alimentos que provienen de los animales domésticos o incluso gestionar la Calidad de vida en zoológicos de animales silvestres o estado de conservación.
+-  Se asume, que los ganaderos al usar nuestra aplicación web, aumente su productividad y mejor toma de decisiones para una mejor Calidad de los alimentos que provienen de los animales domésticos o incluso gestionar la Calidad de vida en zoológicos de animales silvestres o estado de conservación.
 
-__5.-Personalización:__ Se asume, que el ganadero este cómodo usando una tecnología que se adecue a sus necesidades o acorde a su rango como trabajador o encargado para mejorar el confort y el mayor uso posible de la aplicación web evitando así incomodidad por falta de soporte.
+- Se asume, que el ganadero este cómodo usando una tecnología que se adecue a sus necesidades o acorde a su rango como trabajador o encargado para mejorar el confort y el mayor uso posible de la aplicación web evitando así incomodidad por falta de soporte.
 
-__6.-Seguridad y privacidad:__ Se asume, que los ganaderos puedan contar con mucha confianza al usar nuestra aplicación debemos estar comprometidos con todos los métodos se seguridad y privacidad evitando posibles estafas o publicación de información sensible fuera de la aplicación.
+-  Se asume, que los ganaderos puedan contar con mucha confianza al usar nuestra aplicación debemos estar comprometidos con todos los métodos se seguridad y privacidad evitando posibles estafas o publicación de información sensible fuera de la aplicación.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-1. __Hipótesis del problema:__ Basándonos en nuestras observaciones preliminares y en la investigación de mercado, creemos que los ganaderos están enfrentando desafíos significativos en la gestión eficiente de su ganado debido a la falta de herramientas de seguimiento y gestión adecuadas. Validaremos esta hipótesis realizando entrevistas en profundidad con un número representativo de ganaderos y analizando sus respuestas para identificar patrones y problemas comunes.
-2. __Hipótesis de los usuarios:__ Suponemos que nuestros usuarios son ganaderos que manejan rebaños de varios tamaños y que buscan mejorar la eficiencia de su gestión del ganado. Validaremos esta hipótesis a través de encuestas y entrevistas con posibles usuarios para entender mejor sus necesidades y desafíos.
-3.	__Hipótesis de las características:__ Creemos que al desarrollar una aplicación móvil que permita a los ganaderos rastrear la salud, la alimentación y el rendimiento de su ganado, podremos satisfacer sus necesidades y resolver sus problemas. Validaremos esta hipótesis mediante la creación de prototipos de las características propuestas y la realización de pruebas de usabilidad con nuestros usuarios objetivo.
-4.	__Hipótesis de negocio:__ Suponemos que, al resolver estos problemas para los ganaderos, seremos capaces de monetizar nuestra aplicación a través de suscripciones o compras en la aplicación. Validaremos esta hipótesis a través de pruebas de mercado y análisis de la disposición de los usuarios a pagar por tales servicios.
+ - Creemos que lograremos un aumento del 25% en la productividad de las operaciones ganaderas si los ganaderos alcanzan una gestión más eficiente de tareas y procesos con una función de programación y seguimiento de tareas dentro de la aplicación.
 
+- Creemos que lograremos reducir los costos operativos en un 15% si los encargados de granjas alcanzan un control más preciso de los inventarios y suministros con un módulo de administración de inventario integrado en la aplicación.
+
+- Creemos que lograremos una tasa de retención de clientes del 90% si los pequeños ganaderos alcanzan un mejor cumplimiento de las regulaciones y requisitos sanitarios con características de registro y seguimiento sanitario dentro de la aplicación.
+
+- Creemos que lograremos aumentar las ventas de ganado en un 20% si los productores ganaderos alcanzan una mejor comercialización y promoción de su ganado con un directorio de compradores y herramientas de marketing dentro de la aplicación.
+
+- Creemos que lograremos una calificación de satisfacción del cliente de 4.5/5 estrellas si los ganaderos alcanzan un acceso más conveniente a datos e información clave con un tablero personalizable e informes integrados en la aplicación.
+
+- Creemos que lograremos adquirir 10,000 nuevos usuarios en 6 meses si los trabajadores de granjas alcanzan una forma más fácil de registrar y acceder a datos del ganado con una interfaz móvil simple e intuitiva para ingresar datos.
+
+- Creemos que lograremos un puntaje de recomendación neta de 50+ si los administradores de ranchos alcanzan una mejor colaboración y coordinación de tareas con su equipo con características de asignación de tareas y notificaciones en tiempo real.
+
+-  que lograremos duplicar el tiempo de permanencia de los usuarios en la aplicación si los ganaderos alcanzan un mejor seguimiento del desempeño y crecimiento de su ganado con gráficos de análisis y herramientas de pronóstico integradas.
+
+- Creemos que lograremos un crecimiento anual de ingresos del 30% si los criadores de ganado alcanzan una gestión más efectiva de la cría y reproducción con un módulo de gestión de la reproducción y registros genealógicos.
+
+- Creemos que lograremos un ahorro de costos  en multas regulatorias si las granjas lecheras alcanzan un cumplimiento más estricto de los protocolos de inocuidad alimentaria con una función de auditoría y verificación de cumplimiento dentro de la aplicación.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -388,11 +412,9 @@ Para nuestra web App queremos contar con la última tecnología disponible tales
 -Plataformas de comercio electrónico.
 -Dispositivos móviles y wearables.
 
-5. __Marketing y promoción efectiva:__
+5. __Uso De Material Interactivo:__
 
--Posicionamiento SEO, marketing digital, participación en eventos.
--Colaboración con asociaciones de ganaderos e influencers.
-
+-nuestra aplicacion tendra mucha interactividad con el uso del framework de vue utilizando prime vue como material priorizando la eficiencia de la aplicacion
 
 
 ## 2.2. Entrevistas.
