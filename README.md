@@ -48,7 +48,7 @@ Pecuario Pro
 
 | URL del Repositorio |
 |----------------------|
-| [Enlace al Repositorio en GitHub](url_del_repositorio) |
+| https://github.com/orgs/PecuarioPro/repositories |
 
 | Descripción de Actividades |
 |-----------------------------|
