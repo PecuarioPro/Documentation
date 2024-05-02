@@ -50,7 +50,7 @@ Pecuario Pro
         Ernesto David Casaverde  <br>
         Alexander Alberto Cantoral <br>
         Elverth Jair Vásquez</td>
-    <td>- Implementación de Contenido, Student Outcome.<br> - Apertura Capítulo 1: Introducción.<br> - Redacción Segmentos objetivo y Redacción Entrevistas: Diseño de entrevistas y Registro de entrevistas.<br> - Redacción Needfinding:  User Task Matrix<br> - Avance en la redacción de conclusiones.<br> -Redaccion Domain-Driven Software Architecture:  Diagramas de Contexto, Contenedores y Componentes <br>/td>
+    <td>- Implementación de Contenido, Student Outcome.<br> - Apertura Capítulo 1: Introducción.<br> - Redacción Segmentos objetivo y Redacción Entrevistas: Diseño de entrevistas y Registro de entrevistas.<br> - Redacción Needfinding:  User Task Matrix<br> - Avance en la redacción de conclusiones.<br> -Redaccion Domain-Driven Software Architecture:  Diagramas de Contexto, Contenedores y Componentes <br>
   </tr>
   <tr>
     <td>TP</td>
