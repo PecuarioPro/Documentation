@@ -784,6 +784,8 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 ## 3.2. User Stories.
 
 
+
+
 ## 3.3. Impact Mapping.
 
 A continuación presentaremos 3 Business Goals que consideramos importantes en nuestro proyecto:
