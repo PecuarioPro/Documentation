@@ -804,9 +804,11 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 | Story 013     | Registro de Personal    |**Como** empresario ganadero **quiero** poder registrar a mis empleados **para** organizar mejor mi negocio  |**Scenario 1:**<br>*El empresario ganadero registra su personal*<br>**Given** el empresario registro correcamente los datos de cada uno de sus empelados<br>**And** se recibirá un mensaje de confirmación <br><br>**Scenario 2:**<br>*El empresario ganadero registra de forma incorrecta a su personal<br>**Given** el empresario ignoró que faltan datos esenceciales de uno de sus empleados<br>**Then** se motrará un mensaje de error al momento de intentar hacer el registro| Epic 5 |
 | Story 014     | Búsqueda de Personal    |**Como** empresario ganadero **quiero** poder buscar entre mi personal registrado en al applicación **para** poder eliminar a uno |**Scenario 1:**<br>*El empresario quiere buscar a un empleado regitrarlo para eliminarlo*<br>**Given** el empresario busca al empleado en el menú de búsqueda<br>**And** con un filtro de búsqueda podrá encontrar a dicho empleado de forma más rápida<br>**Then** se motrará a este mismo que busca | Epic 5 |
 | Story 015     | Gestión de Personal     | **Como** empresario ganadero **quiero** poder eliminar y agregar empleados **para poder tener un orden en mi empresa**|**Scenario 1:**<br>*El empresario quiere eliminar y agregar nuevos empleados*<br>**Given** El empresario ingresa al apartado de gestión<br>**And** Podrá hacer los cambios que considere necesarios<br>**Then** se mostrará un mensaje de confirmación de cambios.| Epic 5 |
-| Epic 6        | Informarse sobre el producto |  | **Epic Story** |        |
-| Story 016     | Explorar la LandingPage |**Como** visitante **quiero** obtener información de la aplicación **para** ver si es conviente para lo que busco  |**Scenario 1:** *El usuario quiere buscar información accesible y entendible de la aplicación* **Given** El usuario entro en la LandingPage **And** encontró la sección de | Epic 6 |
-| Story 017     | Descubrir las secciones informativas |  |  | Epic 6|
+| Epic 6 | Informarse sobre el producto | **Como** visitante **quiero** obtener información de la aplicación **para** ver sus funcionalidades para ver que nos ofrece.  |  **EPIC STORY**  |  |
+| Story 016 | Explorar la LandingPage | **Como** visitante **quiero** obtener información de la aplicación **para** ver si es conveniente para lo que busco | El usuario entra en la LandingPage y encuentra la sección de QUIÉNES SOMOS | Epic 6 |
+| Story 017 | Descubrir las secciones informativas | **Como** visitante **quiero** explorar las distintas secciones informativas de la aplicación **para** comprender mejor sus características y funcionalidades | El usuario entra en la LandingPage, encuentra la sección de QUIÉNES SOMOS, ve la sección de PLANES y descubre la sección de FUNCIONES | Epic 6 |
+
+
 
 
 ## 3.3. Impact Mapping.
