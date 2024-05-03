@@ -1534,7 +1534,8 @@ Se encuentra desplegado en Firebase.
 ### 5.2.2. Sprint 2
 En el Sprint 2, nos sumergimos en el desarrollo activo del aplicativo web. Con el diseño de la landing page completado, nos enfocamos en convertir nuestras ideas en realidad mediante código funcional. Este sprint marcó el comienzo de nuestra aventura en la creación de experiencias interactivas y funcionales para nuestros usuarios.
 #### 5.2.2.1.Sprint Planning 2.
-![image](https://hackmd.io/_uploads/SygBxpGGC.png)
+![image](https://hackmd.io/_uploads/HkBf-6MM0.png)
+
 #### 5.2.2.2.Sprint Backlog 2.
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
