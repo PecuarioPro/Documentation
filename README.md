@@ -80,8 +80,8 @@ Pecuario Pro
 
 | Capturas de Pantalla |
 |----------------------|
-| ![Captura de Pantalla de Analíticas de Colaboración](ruta_hacia_la_imagen1) |
-| ![Captura de Pantalla de Commits en GitHub](ruta_hacia_la_imagen2) |
+|![image](https://hackmd.io/_uploads/B1eh72zfA.png)|
+| ![image](https://hackmd.io/_uploads/Sy7Sm2Gf0.png)|
 
 | Participación de los Miembros del Equipo |
 |------------------------------------------|
