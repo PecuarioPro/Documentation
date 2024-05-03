@@ -30,9 +30,6 @@ Pecuario Pro
 <br>
 
 
-
-
-
 ## REGISTRO DE VERSIONES DEL INFORME
 
 <table border="1">
@@ -44,25 +41,66 @@ Pecuario Pro
   </tr>
   <tr>
     <td>1.0</td>
+    <td>01/04/2024</td>
+    <td>Maycol Jhordan Rojas</td>
+    <td>- Implementación de Contenido, Student Outcome.<br> - Apertura Capítulo 1: Introducción.<br> - Redacción Segmentos objetivo y Redacción Entrevistas: Diseño de entrevistas y Registro de entrevistas.<br>
+  </tr>
+<tr>
+  <td>2.0</td>
+  <td>03/04/2024</td>
+  <td>Diego Soriano Medrano</td>
+  <td> - Student Outcome.<br> -User Journey Mapping.<br> - As-is Scenario Mapping.</td>
+</tr>
+<tr>
+  <td>3.0</td>
+  <td>10/04/2024</td>
+  <td>Ernesto David Casaverde</td>
+  <td>- Corrección de errores encontrados en la versión 2.0.<br> - Análisis de las entrevistas.</td>
+</tr>
+<tr>
+    <td>4.0</td>
+    <td>15/04/2024</td>
+    <td>Alexander Alberto Cantoral</td>
+    <td>- As-is Scenario Mapping.<br>- Desarrollo de la primera versión de la aplicación web.<br>- Ubiquitous Language.</td> 
+</tr>
+<tr>
+  <td>5.0</td>
+  <td>18/04/2024</td>
+  <td>Elverth Jair Vásquez</td>
+  <td>-  To-Be Scenario Mapping.<br> - User Stories.<br> - Impact Mapping.<br> - Style Guidelines.<br>- General Style Guidelines.</td>
+</tr>
+<tr>
+    <td>6.0</td>
+    <td>20/04/2024</td>
+    <td>Maycol Jhordan Rojas</td>
+    <td>-  Information Architecture.<br> - Landing Page UI Design.<br> - Landing Page Mock-up.<br>- Web Applications UX/UI Design.<br> - Redacción Needfinding:  User Task Matrix<br> - Avance en la redacción de conclusiones.<br> -Redacción Domain-Driven Software Architecture:  Diagramas de Contexto, Contenedores y Componentes. 
+</tr>
+<tr>
+  <td>7.0</td>
+  <td>26/04/2024</td>
+  <td>Diego Soriano Medrano</td>
+  <td> - Software Object-Oriented Design.<br> -  Database Design.</td>
+</tr>
+<tr>
+  <td>8.0</td>
+  <td>29/04/2024</td>
+  <td>Ernesto David Casaverde</td>
+  <td>- Software Configuration Management.<br></td>
+</tr>
+<tr>
+    <td>09.0</td>
     <td>01/05/2024</td>
-    <td>Maycol Jhordan Rojas <br>
-        Diego Soriano Medrano <br>
-        Ernesto David Casaverde  <br>
-        Alexander Alberto Cantoral <br>
-        Elverth Jair Vásquez</td>
-    <td>- Implementación de Contenido, Student Outcome.<br> - Apertura Capítulo 1: Introducción.<br> - Redacción Segmentos objetivo y Redacción Entrevistas: Diseño de entrevistas y Registro de entrevistas.<br> - Redacción Needfinding:  User Task Matrix<br> - Avance en la redacción de conclusiones.<br> -Redaccion Domain-Driven Software Architecture:  Diagramas de Contexto, Contenedores y Componentes <br>
-  </tr>
-  <tr>
-    <td>TP</td>
-    <td>29/04/2024</td>
-    <td>Maycol Jhordan Rojas <br>
-        Diego Soriano Medrano <br>
-        Ernesto David Casaverde  <br>
-        Alexander Alberto Cantoral <br>
-        Elverth Jair Vásquez</td>
-    <td>- Corrección del contenido observado en la entrega TB1.<br> - Desarrollo del Sprint 2.<br> - Desarrollo de la primera versión de la aplicación web.</td>
-  </tr>
+    <td>Alexander Alberto Cantoral</td>
+    <td>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Development Evidence for Sprint Review</td> 
+</tr>
+<tr>
+  <td>10.0</td>
+  <td>02/05/2024</td>
+  <td>Elverth Jair Vásquez</td>
+  <td>-  Execution Evidence for Sprint Review.<br> - Services Documentation Evidence for Sprint Review.<br> - Impact Mapping.<br> - Team Collaboration Insights during Sprint.</td>
+</tr>
 </table>
+
 
 ## Project Report Collaboration Insights
 
