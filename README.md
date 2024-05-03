@@ -1460,12 +1460,10 @@ En esta sección se explicará el proceso del despliegue del proyecto.
 Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de nuestro producto. Trabajamos arduamente para conceptualizar y dar forma a la primera impresión que tendrán nuestros usuarios. Este sprint fue fundamental para establecer la estética y la estructura inicial de nuestra plataforma, sentando así las bases para futuras iteraciones.
 
 #### 5.2.1.1 Sprint Planning 1
-
+![image](https://hackmd.io/_uploads/r11_x6Mz0.png)
 
 
 #### 5.2.1.2 Sprint  Backlogs 
-
-
 
 
 
