@@ -1132,7 +1132,7 @@ __Desktop Browser:__
 ![principal web esp ](./assets/DBAW_4.PNG)
 <BR>
 
-__Movile Browser:__
+__Mobile Browser:__
 
 ![principal web esp ](./assets/Inicio-de-sesion-y-registro.PNG)
 <BR>
@@ -1211,7 +1211,7 @@ __Desktop Browser:__
 ![principal web esp ](./assets/DBAM_4.PNG)
 <BR>
 
-__Movile Browser:__
+__Mobile Browser:__
 
 <br/>
 
@@ -1243,6 +1243,31 @@ __Movile Browser:__
 
 **User Flow: Inicio de sesión o creación de cuenta:**
 <BR>
+
+__Desktop Browser:__
+
+![principal web esp ](./assets/DBWAUFD_1.PNG)
+<BR>
+
+**User Flow: Pagina principal y desplazamiento entre Campaña y Gestión del ganado:**
+<BR>
+
+![principal web esp ](./assets/DBWAUFD_2.PNG)
+<BR>
+
+**User Flow: Menu de opciones para registro de campaña, contacto, manage y search:**
+<BR>
+
+![principal web esp ](./assets/DBWAUFD_3.PNG)
+<BR>
+
+**User Flow: Registro de bovino y registro alimentario para cada bovino:**
+<BR>
+
+![principal web esp ](./assets/DBWAUFD_4.PNG)
+<BR>
+
+__Mobile Browser:__
 
 ![principal web esp ](./assets/UFD_inicio.PNG)
 <BR>
