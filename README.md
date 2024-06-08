@@ -90,7 +90,7 @@ Pecuario Pro
 <tr>
     <td>09.0</td>
     <td>01/05/2024</td>
-    <td>Alexander Alberto Cantoral</td>
+    <td>Alexander Cantoral Sedamano</td>
     <td>- Source Code Style Guide & Conventions.<br>- Software Deployment Configuration.<br>- Development Evidence for Sprint Review</td> 
 </tr>
 <tr>
@@ -98,6 +98,12 @@ Pecuario Pro
   <td>02/05/2024</td>
   <td>Elverth Jair Vásquez</td>
   <td>-  Execution Evidence for Sprint Review.<br> - Services Documentation Evidence for Sprint Review.<br> - Impact Mapping.<br> - Team Collaboration Insights during Sprint.</td>
+</tr>
+<tr>
+  <td>11.0</td>
+  <td>08/06/2024</td>
+  <td>Alexander Cantoral Sedamano</td>
+  <td>- Sprint 3.<br> -  Validation Interviews. <br> - Video About-the-Product.</td>
 </tr>
 </table>
 
