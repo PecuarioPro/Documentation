@@ -1876,7 +1876,25 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
 
+Tenemos en total 95 commits que son del desarrollo de nuestra web aplication acontinuacion en la tabla les mostramos lo mas importantes 
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+| ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
+| Frontend-pecuariopro | develop | 041cf4041db165d486e66bba7e39c822910e2bb5 | feat:| aggregate delete select in batches | 25/05/2024 |
+| Frontend-pecuariopro | develop | 2047ec93a278da24ce65c49663eef29b397f4b21 | feat:| Aggregate filter design in Campaigns   | 26/06/2024 |
+| Frontend-pecuariopro | develop | de1f3afe905d28d2e1b2da724984e3fc45aab57f | feat:| aggregate buttons in Campaign page and Batch page |   26/06/2024 |
+| Frontend-pecuariopro | develop | 43c9ddd74cc2e2d68d0e40063118830e7de8e65b | add: |stadistic vaccines |  29/05/2024 |
+| Frontend-pecuariopro | develop | cceec07ae513b2d1debccb4755b0a437a58f60c8 | add: |Stadistics bovines and search bovines. |   28/05/2024 |
+| Frontend-pecuariopro | develop | 97b41939d152dc1c1f6933f8722128db5779cfdc | feat: |add inventory component |   2/06/2024 |
+| Frontend-pecuariopro | develop | 34a6bc3a48232e695fc114392faa60bd1844ade8 | feat:| Staff gestion |   22/05/2024 |
+| Frontend-pecuariopro | develop | 8da2959d81391b3e192dbf20121970b4d61e0043 | feat: |Veterinarians |   5/06/2024 |
+| Frontend-pecuariopro | develop | 063324e4f5ddb46132e8f3776c7f308ff06cbaa6 | feat: |home component |   8/06/2024 |
+
+link de los commits:https://github.com/PecuarioPro/Frontend-pecuariopro/commits/master/
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+ 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
@@ -1885,6 +1903,8 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+![Texto alternativo](/assets/)
 
 ## 5.3. Validation Interviews
 
