@@ -1547,11 +1547,9 @@ Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de 
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
 
-![TSE](./assets/evidence_testing.PNG)
+![TSE](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/testing%20image.PNG)
 
-![TSE2](./assets/evidence_testing2.PNG)
-
-[Repositorio del gherkin](https://github.com/PecuarioPro/pecuario-pro-gherkin) 
+[Repositorio](https://github.com/PecuarioPro/grupo04-PrecuarioPro-testing) 
 
 #### 5.2.1.5 Execution Evidence for Sprint Review
 
@@ -1632,6 +1630,10 @@ En el Sprint 2, nos sumergimos en el desarrollo activo del aplicativo web. Con e
 | Frontend-pecuariopro     | main | a224ed1| Merge branch 'master' into develop| 09/06/2024 |
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+![TSE](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/testing%20image.PNG)
+
+[Repositorio](https://github.com/PecuarioPro/grupo04-PrecuarioPro-testing) 
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
