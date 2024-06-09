@@ -1894,7 +1894,16 @@ link de los commits:https://github.com/PecuarioPro/Frontend-pecuariopro/commits/
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
+ En resumen hemos logrado implementar todos las historias de usuario de la landing page al igual que  todo el web application junto con su testing
  
+ Landing page Evidence:
+ ![Texto alternativo](/assets/ladingdeyployyyy.png) 
+
+ web application evidence:
+ ![Texto alternativo](/assets/ladingdeyployyyy.png)
+
+ link del video con explicacion
+
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
