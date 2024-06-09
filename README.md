@@ -1539,11 +1539,11 @@ Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de 
 
 | Repository      | Branch      | Commit ID | Commit Message          | Commited on date |
 |-----------------|-------------|-----------|-------------------------|-------------------|
-| PecuarioPro     | Landing-Page| 93d7c02   | Agregate Landing Page   | 12/04/2024        |
-| PecuarioPro     | Landing-Page| 93d7c02…68cd9f4 | Fix: Changed href       | 12/04/2024        |
-| PecuarioPro     | Landing-Page| 68cd9f4…ddaedfe | fix: Agregate Domain name| 12/04/2024      |
-| PecuarioPro     | Landing-Page| ddaedfe8dafe6b5b03db07b9eaedc7eb5403cfcd | Feature: Agregate Firebase Hosting | 12/04/2024 |
-| PecuarioPro     | Landing-Page| 5bdb4a44eb881dad0703410065b6a464e28e1e9d | Feature: AdditionalFix Firebase | 1270472024 
+| Landing-Page     | main| 93d7c02   | Agregate Landing Page   | 12/04/2024        |
+| Landing-Page     | main| 93d7c02…68cd9f4 | Fix: Changed href       | 12/04/2024        |
+| Landing-Page     | main| 68cd9f4…ddaedfe | fix: Agregate Domain name| 12/04/2024      |
+| Landing-Page     | main| ddaedfe8dafe6b5b03db07b9eaedc7eb5403cfcd | Feature: Agregate Firebase Hosting | 12/04/2024 |
+| Landing-Page     | main | 5bdb4a44eb881dad0703410065b6a464e28e1e9d | Feature: AdditionalFix Firebase | 1270472024 
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
 
@@ -1623,6 +1623,14 @@ En el Sprint 2, nos sumergimos en el desarrollo activo del aplicativo web. Con e
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
+| Repository      | Branch      | Commit ID | Commit Message          | Commited on date |
+|-----------------|-------------|-----------|-------------------------|-------------------|
+| Frontend-pecuariopro    | develop | 4c5dfe9  | feat: routing of campaings details added   | 08/05/2024        |
+| Frontend-pecuariopro     | develop| 26a161c | Fix: Changed href       | 12/04/2024        |
+| Frontend-pecuariopro    | develop| 703b30d | feat: sidebar| 25/05/2024      |
+| Frontend-pecuariopro     | feature| cc34d96 | feat: aggregate filter in campaign 100% | 29/05/2024 |
+| Frontend-pecuariopro     | main | a224ed1| Merge branch 'master' into develop| 09/06/2024 |
+
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
@@ -1633,7 +1641,7 @@ En el Sprint 2, nos sumergimos en el desarrollo activo del aplicativo web. Con e
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
-### 5.2.2. Sprint 3
+### 5.2.3. Sprint 3
 
 Durante el Sprint 3, Para este caso tuvimos que realizar todo de nuevo ya que la version anterior no era la adecuada y no seguimos todas las incaciones previas. Por consiguiente tuvimos que implementar todo en este sprint incluido Landing page, Web Application y Backend siguiendo todas las pautas sugeridas y respetando los sprints y tiempos medidos 
 
