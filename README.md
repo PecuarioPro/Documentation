@@ -1698,11 +1698,22 @@ Acontinuacion  mostraremos la tabla:
    </tr>
    <tr>
        <td>Sprint 3 Velocity</td>
-       <td>[Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.]</td>
+       <td>Story 006: Gestión de Animales (6 Story Points)<br><br>
+Story 009: Gestión de Campañas (6 Story Points)
+<br><br>
+Story 008: Asociar Empleados (3 Story Points)
+<br><br>
+Story 007: Crear Campaña (4 Story Points)
+<br><br>
+Story 015: Explorar la Landing Page (4 Story Points)
+<br><br>
+Story 016: Descubrir las secciones informativas (4 Story Points)
+<br><br>
+</td>
    </tr>
    <tr>
        <td>Sum of Story Points</td>
-       <td>[Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.]</td>
+       <td>Suma de Story Points: 6 + 6 + 3 + 4 + 4 + 4 = 27 Story Points</td>
    </tr>
 </table>
 
@@ -1713,7 +1724,7 @@ Acontinuacion  mostraremos la tabla:
 <table>
   <tr>
     <th>Sprint 3</th>
-    <th colspan="7">Sprint n</th>
+    <th colspan="7">Sprint 3</th>
   </tr>
   <tr>
     <th colspan="2"> User Story</th>
