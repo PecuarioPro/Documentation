@@ -1904,7 +1904,7 @@ link de los commits:https://github.com/PecuarioPro/Frontend-pecuariopro/commits/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-![Texto alternativo](/assets/)
+![Texto alternativo](/assets/evidenve_sprint3.png)
 
 ## 5.3. Validation Interviews
 
