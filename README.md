@@ -1681,7 +1681,160 @@ Acontinuacion  mostraremos la tabla:
 
 #### 5.2.3.2. Sprint Backlog 3.
 
+<table>
+  <tr>
+    <th>Sprint 3</th>
+    <th colspan="7">Sprint n</th>
+  </tr>
+  <tr>
+    <th colspan="2"> User Story</th>
+    <th colspan="7">Work-Item / Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>006</td>
+    <td>Gestión de Animales</td>
+    <td>1</td>
+    <td>Story 006 Gestión de Animales</td>
+    <td>Como usuario, quiero poder gestionar la información de los animales registrados para mantenerla actualizada y precisa.</td>
+    <td>6.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>003</td>
+    <td>Gestión de Registros</td>
+    <td>2</td>
+    <td>Story 003 Gestión de Registros</td>
+    <td>Como ganadero, quiero poder eliminar o editar una vacuna para asegurarse de que se registren correctamente las vacunas administradas a mi bovino.</td>
+    <td>6.00</td>
+    <td>Rojas Velasquez, Maycol Jhordan</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>009</td>
+    <td>Gestión de Campañas</td>
+    <td>3</td>
+    <td>Story 009 Gestión de Campañas</td>
+    <td>Como usuario de la plataforma, quiero poder manejar la campaña que organicé con la aplicación.</td>
+    <td>6.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>004</td>
+    <td> Registrar Animal</td>
+    <td>4</td>
+    <td>Story 004 Registrar Animal</td>
+    <td>Como usuario del sistema, quiero poder registrar un bovino en un lote específico para llevar un control detallado de la crianza y manejo de cada animal.</td>
+    <td>4.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>007</td>
+    <td>Crear Campaña</td>
+    <td>5</td>
+    <td>Story 007 Crear Campaña</td>
+    <td>Como usuario de la plataforma, quiero poder crear una campaña para engordar el ganado que yo desee asignar.</td>
+    <td>4.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>015</td>
+    <td>Explorar la Landing Page</td>
+    <td>6</td>
+    <td>Story 015 Explorar la Landing Page</td>
+    <td>Como visitante quiero obtener información de la aplicación para ver si es conveniente para lo que busco.</td>
+    <td>4.00</td>
+    <td>Casaverde De La Cruz, Ernesto David</td>
+    <td>ToReview</td>
+  </tr>
+  <tr>
+    <td>016</td>
+    <td>Descubrir las secciones informativas</td>
+    <td>7</td>
+    <td>Story 016 Descubrir las secciones informativas</td>
+    <td>Como visitante quiero explorar las distintas secciones informativas de la aplicación para comprender mejor sus características y funcionalidades.</td>
+    <td>4.00</td>
+    <td>Casaverde De La Cruz, Ernesto David</td>
+    <td>ToReview</td>
+  </tr>
+  <tr>
+    <td>010</td>
+    <td>Registro de Veterinarios</td>
+    <td>8</td>
+    <td>Story 010 Registro de Veterinarios</td>
+    <td>Como usuario deseo poder registrarme como veterinario para la aplicación web.</td>
+    <td>4.00</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>011</td>
+    <td>Búsqueda de Veterinarios</td>
+    <td>9</td>
+    <td>Story 011 Búsqueda de Veterinarios</td>
+    <td>Como usuario de la plataforma, quiero un menú de búsqueda de veterinarios para darle asistencia a mis animales cuando lo necesite.</td>
+    <td>4.00</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>ToReview</td>
+  </tr>
+  <tr>
+    <td>012</td>
+    <td>Registro de Personal</td>
+    <td>10</td>
+    <td>Story 012 Registro de Personal</td>
+    <td>Como empresario ganadero quiero poder registrar a mis empleados para organizar mejor mi negocio.</td>
+    <td>4.00</td>
+    <td>Soriano Medrano, Diego</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>012</td>
+    <td>Búsqueda de Personal</td>
+    <td>11</td>
+    <td>Story 013 Búsqueda de Personal</td>
+    <td>Como empresario ganadero quiero poder buscar entre mi personal registrado en la aplicación para poder eliminar a uno.</td>
+    <td>4.00</td>
+    <td>Soriano Medrano, Diego</td>
+    <td>ToReview</td>
+  </tr>
+  <tr>
+    <td>014</td>
+    <td>Gestión de Personal</td>
+    <td>12</td>
+    <td>Story 014 Gestión de Personal</td>
+    <td>Como empresario ganadero quiero poder eliminar y agregar empleados para poder tener un orden en mi empresa.</td>
+    <td>4.00</td>
+    <td>Soriano Medrano, Diego</td>
+    <td>ToReview</td>
+  </tr>
+  <tr>
+    <td>008</td>
+    <td> Asociar Empleados</td>
+    <td>13</td>
+    <td>Story 008 Asociar Empleados</td>
+    <td>Como usuario de una empresa ganadera, quiero poder asignar empleados que trabajarán en la empresa para organizar mejor a su personal para campañas.</td>
+    <td>3.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
 #### 5.2.3.3. Development Evidence for Sprint Review.
+
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
