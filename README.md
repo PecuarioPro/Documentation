@@ -1904,13 +1904,63 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
  ![Texto alternativo](/assets/ladingdeyployyyy.png) 
 
  web application evidence:
- ![Texto alternativo](/assets/ladingdeyployyyy.png)
+ ![Texto alternativo](\assets\webapppdeyyployy.png)
 
  link del video con explicacion
 
+ Backend evidence:
+
+ ![Texto alternativo](/assets/backendevidence.jpg)
+
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+
+
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para poder desplegar hemos realizado lo siguiente:
+
+1. Asegúrar  tener instalado Node.js y npm en la aplicacion.
+
+2. Para la web app PecuariopPro,  haber configurado correctamente el proyecto y haber generado los archivos estáticos para producción utilizando el comando npm run build.
+
+###### Instalación de Firebase CLI:
+
+1. Instalamos  Firebase CLI si aún no lo has hecho utilizando el comando npm install -g firebase-tools.
+
+2. Iniciamos  sesión en la organacion de Firebase utilizando el comando firebase login.
+
+ ###### Inicialización de Firebase:
+
+1. En el directorio raíz del proyecto, ejecuta el comando firebase init para inicializar Firebase en tu proyecto.
+
+2. Selecciona las opciones adecuadas para configurar Firebase Hosting.
+
+###### Despliegue de la Web App :
+
+
+1. Copia los archivos estáticos generados en la carpeta dist de nuestra aplicacion  al directorio de despliegue configurado por Firebase.
+2. Ejecutamos  el comando firebase deploy para desplegar la web app en Firebase Hosting.
+
+![Texto alternativo](/assets/deyployyyywebapp.jpg)
+
+###### link del despliegue: https://pecuariopro-98bb9.web.app/
+
+
+
+Hacemos lo mismo para nuestra landing page 
+
+###### Despliegue de la Landing Page:
+
+1. Para la landing page con HTML, CSS y JavaScript, simplemente copia los archivos estáticos de la landing page al directorio de despliegue configurado por Firebase.
+2. Ejecuta el comando firebase deploy nuevamente para desplegar la landing page en Firebase Hosting.
+
+![Texto alternativo](/assets/deployment_evidence.png)
+
+
+link del despliegue: https://pecuariopro-4978d.web.app/ 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
