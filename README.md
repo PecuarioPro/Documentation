@@ -1614,6 +1614,86 @@ En el Sprint 2, nos sumergimos en el desarrollo activo del aplicativo web. Con e
 
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
+### 5.2.2. Sprint 3
+
+Durante el Sprint 3, Para este caso tuvimos que realizar todo de nuevo ya que la version anterior no era la adecuada y no seguimos todas las incaciones previas. Por consiguiente tuvimos que implementar todo en este sprint incluido Landing page, Web Application y Backend siguiendo todas las pautas sugeridas y respetando los sprints y tiempos medidos 
+
+#### 5.2.3.1. Sprint Planning 3.
+Acontinuacion  mostraremos la tabla:
+
+<table>
+   <tr>
+       <th>Sprint 3</th>
+       <th>Sprint 3</th>
+   </tr>
+   <tr>
+       <td colspan="2">Sprint Planning Background</td>
+       
+   </tr>
+   <tr>
+       <td>Date</td>
+       <td>2024/05/24</td>
+   </tr>
+   <tr>
+       <td>Time</td>
+       <td>9:00 PM</td>
+   </tr>
+   <tr>
+       <td>Location</td>
+       <td>Reunion Por Discord</td>
+   </tr>
+   <tr>
+       <td>Prepared By</td>
+       <td>Rojas Velasquez, Maycol Jhordan </td>
+   </tr>
+   <tr>
+       <td>Attendees (to planning meeting)</td>
+       <td>Casaverde De La Cruz, Ernesto David<br>Rojas Velasquez Maycol Jhordan <br>Cantoral Sedamano, Alexander Alberto <br>Soriano Medrano, Diego
+</td>
+   </tr>
+   <tr>
+       <td>Sprint n – 2 Review Summary</td>
+       <td>Una vez analizado el sprint anterior nos hemos dado cuenta que no era lo esperado y que tuvimos muchas dificultades y el proyecto no fue finalizado</td>
+   </tr>
+   <tr>
+       <td>Sprint n – 1 Retrospective Summary</td>
+       <td>Las opiniones fueron claras falta de comunicacion y poner objetivos claros y decidimos hacer una reflexion y dar nuestra opinion de mejora sobre el proyecto</td>
+   </tr>
+   <tr>
+       <td colspan="2">Sprint Planning Background</td>
+       <td></td>
+   </tr>
+   <tr>
+       <td>Sprint 3 Goal</td>
+       <td>Completar el desarrollo de la landing page, la aplicación web y la mas importante del backend </td>
+   </tr>
+   <tr>
+       <td>Sprint 3 Velocity</td>
+       <td>[Definir el Velocity establecido para el Sprint n, es decir cuántos Story Points puede aceptar el equipo para este Sprint n.]</td>
+   </tr>
+   <tr>
+       <td>Sum of Story Points</td>
+       <td>[Colocar la suma de los Story Points para los User Stories que se están incluyendo en este Sprint n.]</td>
+   </tr>
+</table>
+
+
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
 # Conclusiones
 
 - En resumen, el proyecto PecuarioPro se destaca por su diseño objetivo y su enfoque en mejorar el bienestar animal. Con un compromiso continuo con la actualización tecnológica, la capacitación de los usuarios y la colaboración con expertos, esta aplicación tiene el potencial de hacer una contribución significativa a la industria pecuaria al tiempo que promueve prácticas más éticas y sostenibles. Poniendo en primer lugar la salud de los animales y su buen cuidado como una buena gestion de ellos.
