@@ -105,6 +105,13 @@ Pecuario Pro
   <td>Alexander Cantoral Sedamano</td>
   <td>- Sprint 3.<br> -  Validation Interviews. <br> - Video About-the-Product.</td>
 </tr>
+
+<tr>
+  <td>12.0</td>
+  <td>08/06/2024</td>
+  <td>Ernesto David casaverde</td>
+  <td>- deploy landing page.<br> -Correciones al informe</td>
+</tr>
 </table>
 
 
@@ -116,10 +123,10 @@ Pecuario Pro
 
 | Descripción de Actividades |
 |-----------------------------|
-| Se ha redactado el informe siguiendo un proceso de redacción, revisión y edición. |
+| Se ha realizado el sprint n3 y a cada uno se le asigno las user storys. |
 | Se ha utilizado la plataforma GitHub para la colaboración en línea entre los miembros del equipo. |
 | Se han organizado reuniones periódicas para discutir el progreso del informe y asignar tareas. |
-| Se han utilizado herramientas como Google Docs para la colaboración en tiempo real en secciones específicas del informe. |
+| Se han utilizado herramientas como webstorm para el front end y rider para el backend |
 
 
 | Capturas de Pantalla |
@@ -1923,6 +1930,7 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
  Link del video con explicacion: 
 
  Backend evidence:
+ Link de evidencia de deployment de Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EfDPYwAIdXJJoJmyHWnApcEBLw-ws9QHZVUeyXfjyBZDyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lvUlyi
 
  ![Texto alternativo](/assets/backendevidence.jpg)
 
@@ -1950,13 +1958,13 @@ __Capturas de Documentación__
 A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
 
 Imagen 1
-![Imagen 1: Vista general de la documentación de la API](imagen1.png)
+![Imagen 1: Vista general de la documentación de la API](/assets/vista1backend.jpg)
 
 Imagen 2
-![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](imagen2.png)
+![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](/assets/vista2backend.jpg)
 
 Imagen 3
-![Imagen 3: Detalle de los Endpoints relacionados con Campañas](imagen3.png)
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](/assets/vista3backend.jpg)
 
 ## Repositorio y Commits
 
