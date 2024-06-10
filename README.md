@@ -123,10 +123,10 @@ Pecuario Pro
 
 | Descripción de Actividades |
 |-----------------------------|
-| Se ha redactado el informe siguiendo un proceso de redacción, revisión y edición. |
+| Se ha realizado el sprint n3 y a cada uno se le asigno las user storys. |
 | Se ha utilizado la plataforma GitHub para la colaboración en línea entre los miembros del equipo. |
 | Se han organizado reuniones periódicas para discutir el progreso del informe y asignar tareas. |
-| Se han utilizado herramientas como Google Docs para la colaboración en tiempo real en secciones específicas del informe. |
+| Se han utilizado herramientas como webstorm para el front end y rider para el backend |
 
 
 | Capturas de Pantalla |
