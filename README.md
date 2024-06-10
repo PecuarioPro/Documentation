@@ -1890,11 +1890,15 @@ Tenemos en total 95 commits que son del desarrollo de nuestra web aplication aco
 | Frontend-pecuariopro | develop | 8da2959d81391b3e192dbf20121970b4d61e0043 | feat: |Veterinarians |   5/06/2024 |
 | Frontend-pecuariopro | develop | 063324e4f5ddb46132e8f3776c7f308ff06cbaa6 | feat: |home component |   8/06/2024 |
 
-link de los commits:https://github.com/PecuarioPro/Frontend-pecuariopro/commits/master/
+ Link de los commits:https://github.com/PecuarioPro/Frontend-pecuariopro/commits/master/
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
- 
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
+| ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
+| grupo04-PrecuarioPro-testing | feature/tb2-Alexander-Cantoral | e0371e140f454182f799a4ad90c1d79788ceedf8 | Added | feature's | 09/06/2024 |
+
+ Link del repositorio: 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
@@ -1903,15 +1907,14 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
  Landing page Evidence:
  ![Texto alternativo](/assets/ladingdeyployyyy.png) 
 
- web application evidence:
- ![Texto alternativo](/assets/webapppdeyyployy.png)
+ Web application evidence:
+ ![Texto alternativo](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20web.PNG)
 
- link del video con explicacion
+ Link del video con explicacion: 
 
  Backend evidence:
 
  ![Texto alternativo](/assets/backendevidence.jpg)
-
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -2004,13 +2007,28 @@ link del despliegue: https://pecuariopro-4978d.web.app/
 
 ## 5.3. Validation Interviews
 
-### 5.3.1. Diseño de Entrevistas.
+Esta parte del informe presentará la parte objetiva de las entrevistas de validación junto con el análisis relevante de cada una de ellas.
 
+### 5.3.1. Diseño de Entrevistas.
+## Preguntas principales:
+Preguntas sobre la Landing Page:
+1. ¿Qué impresión general tienes de la Landing page de PecuarioPro?
+2. ¿La información presentada en la Landing page te parece clara y útil? ¿Por qué?
+3. ¿Qué elementos cambiarías o mejorarías en la Landing page para mejorar tu experiencia de usuario?
+Preguntas sobre la Aplicación web:
+4. ¿Cómo describirías tu experiencia navegando por la aplicación web de PecuarioPro?
+5. ¿Cómo calificarías la facilidad de uso de las herramientas de búsqueda en la aplicación web?
+6. ¿Qué funcionalidades adicionales te gustaría ver en la aplicación web de PecuarioPro?
+7. ¿Tuviste algún problema o dificultad al usar la aplicación web? Si es así, por favor detállalo.
+Preguntas sobre el proyecto:
+8. ¿Crees que PecuarioPro cumple con su misión de proporcionar una plataforma completa para el manejo del ganado y establos?
+9. ¿Recomendarías PecuarioPro a otros usuarios que buscan manejar su ganado? ¿Por qué?
 ### 5.3.2.  Registro de Entrevistas
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
 ### 5.4. Video About-the-Product.
+
 
 
 # Conclusiones
