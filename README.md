@@ -1860,7 +1860,7 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
     <td>Como empresario ganadero quiero poder buscar entre mi personal registrado en la aplicación para poder eliminar a uno.</td>
     <td>4.00</td>
     <td>Soriano Medrano, Diego</td>
-    <td>ToReview</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>014</td>
@@ -1870,7 +1870,7 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
     <td>Como empresario ganadero quiero poder eliminar y agregar empleados para poder tener un orden en mi empresa.</td>
     <td>4.00</td>
     <td>Soriano Medrano, Diego</td>
-    <td>ToReview</td>
+    <td>Done</td>
   </tr>
   <tr>
     <td>008</td>
@@ -1925,6 +1925,16 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
     <td>4.00</td>
     <td>Vásquez Villalobos, Elverth Jair</td>
     <td>Done</td>
+  </tr>
+  <tr>
+    <td>012</td>
+    <td>Registro de Personal</td>
+    <td>10</td>
+    <td>Technical Story 012 Registro de Personal</td>
+    <td>Como desarrollador, voy a implementar las funciones para que los usuarios puedan registrar a empleados</td>
+    <td>4.00</td>
+    <td>Soriano Medrano, Diego</td>
+    <td>In-Progcess</td>
   </tr>
 </table>
 
