@@ -1966,7 +1966,7 @@ Tenemos en total 95 commits que son del desarrollo de nuestra web aplication aco
 En resumen hemos logrado implementar todos las historias de usuario de la landing page al igual que  todo el web application junto con su testing
  
  Landing page Evidence:
- ![Texto alternativo](/assets/ladingdeyployyyy.png) 
+ ![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/ladingdeyployyyy.png?token=GHSAT0AAAAAACQXDRA735IXFBZ6H7NUTATGZTGTI2A) 
 
  Web application evidence:
  ![Texto alternativo](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20web.PNG)
@@ -1976,7 +1976,7 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
  Backend evidence:
  Link de evidencia de deployment de Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EfDPYwAIdXJJoJmyHWnApcEBLw-ws9QHZVUeyXfjyBZDyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lvUlyi
 
- ![Texto alternativo](/assets/backendevidence.jpg)
+ ![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/backendevidence.jpg?token=GHSAT0AAAAAACQXDRA6PTIEV5ZIGHT7REMCZTGTHYQ)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -2002,13 +2002,13 @@ __Capturas de Documentación__
 A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
 
 Imagen 1
-![Imagen 1: Vista general de la documentación de la API](/assets/vista1backend.jpg)
+![Imagen 1: Vista general de la documentación de la API](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/vista1backend.jpg?token=GHSAT0AAAAAACQXDRA7LC6APOMT3PV7BUECZTGTHEQ)
 
 Imagen 2
-![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](/assets/vista2backend.jpg)
+![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/vista2backend.jpg?token=GHSAT0AAAAAACQXDRA7DADGIWAKJAKX2HWIZTGTG2Q)
 
 Imagen 3
-![Imagen 3: Detalle de los Endpoints relacionados con Campañas](/assets/vista3backend.jpg)
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/vista3backend.jpg?token=GHSAT0AAAAAACQXDRA6FUVHATTUOKERCI44ZTGTGIQ)
 
 ## Repositorio y Commits
 
@@ -2016,7 +2016,7 @@ El repositorio de Web Services se encuentra en: [URL del repositorio]
 
 Los commits relacionados con la Documentación para este Sprint son:
 
-![Imagen 3: Detalle de los Endpoints relacionados con Campañas](/assets/commitsbackend.png)
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/commitsbackend.png?token=GHSAT0AAAAAACQXDRA7JNGNXKX52OIWY7IUZTGTFVA)
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -2045,7 +2045,7 @@ Para poder desplegar hemos realizado lo siguiente:
 1. Copia los archivos estáticos generados en la carpeta dist de nuestra aplicacion  al directorio de despliegue configurado por Firebase.
 2. Ejecutamos  el comando firebase deploy para desplegar la web app en Firebase Hosting.
 
-![Texto alternativo](/assets/deyployyyywebapp.jpg)
+![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/deyployyyywebapp.jpg?token=GHSAT0AAAAAACQXDRA65Z5FZ55OXY7GLSEUZTGTFDQ)
 
 ###### Link del despliegue: https://pecuariopro-98bb9.web.app/
 
@@ -2058,14 +2058,14 @@ Hicimos lo mismo para nuestra landing page
 1. Para la landing page con HTML, CSS y JavaScript, simplemente copia los archivos estáticos de la landing page al directorio de despliegue configurado por Firebase.
 2. Ejecuta el comando firebase deploy nuevamente para desplegar la landing page en Firebase Hosting.
 
-![Texto alternativo](/assets/deployment_evidence.png)
+![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/deployment_evidence.png?token=GHSAT0AAAAAACQXDRA7IVXW4EWKSU5VSFSKZTGTEWA)
 
 
 Link del despliegue: https://pecuariopro-4978d.web.app/ 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-![Texto alternativo](/assets/evidenve_sprint3.png)
+![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/evidenve_sprint3.png?token=GHSAT0AAAAAACQXDRA7OQ42M5Z5SYOGMMJSZTGTDMA)
 
 ## 5.3. Validation Interviews
 
