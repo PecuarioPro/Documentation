@@ -1923,6 +1923,7 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
  Link del video con explicacion: 
 
  Backend evidence:
+ Link de evidencia de deployment de Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EfDPYwAIdXJJoJmyHWnApcEBLw-ws9QHZVUeyXfjyBZDyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lvUlyi
 
  ![Texto alternativo](/assets/backendevidence.jpg)
 
