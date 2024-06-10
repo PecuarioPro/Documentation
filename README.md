@@ -1543,7 +1543,10 @@ Durante el Sprint 1, nuestro enfoque estuvo en el diseño de la landing page de 
 | Landing-Page     | main| 93d7c02…68cd9f4 | Fix: Changed href       | 12/04/2024        |
 | Landing-Page     | main| 68cd9f4…ddaedfe | fix: Agregate Domain name| 12/04/2024      |
 | Landing-Page     | main| ddaedfe8dafe6b5b03db07b9eaedc7eb5403cfcd | Feature: Agregate Firebase Hosting | 12/04/2024 |
-| Landing-Page     | main | 5bdb4a44eb881dad0703410065b6a464e28e1e9d | Feature: AdditionalFix Firebase | 1270472024 
+| Landing-Page     | main | 5bdb4a44eb881dad0703410065b6a464e28e1e9d | Feature: AdditionalFix Firebase | 12/04/2024 |
+| Landing-Page   | main |a54e97fc4d15e8a7b593bc408d7cbe228a0d89ff|feat: (Add web aplication landing Page)| 06/09/2024|
+
+Link del repositorio: [https://github.com/PecuarioPro/Landing-Page/commits/main/]
 
 #### 5.2.1.4 Testing Suite Evidence for Sprint Review
 
@@ -1628,6 +1631,7 @@ En el Sprint 2, nos sumergimos en el desarrollo activo del aplicativo web. Con e
 | Frontend-pecuariopro    | develop| 703b30d | feat: sidebar| 25/05/2024      |
 | Frontend-pecuariopro     | feature| cc34d96 | feat: aggregate filter in campaign 100% | 29/05/2024 |
 | Frontend-pecuariopro     | main | a224ed1| Merge branch 'master' into develop| 09/06/2024 |
+Link de los commits: [https://github.com/PecuarioPro/Frontend-pecuariopro/commits/master/]
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 
@@ -1890,7 +1894,7 @@ Tenemos en total 95 commits que son del desarrollo de nuestra web aplication aco
 | Frontend-pecuariopro | develop | 8da2959d81391b3e192dbf20121970b4d61e0043 | feat: |Veterinarians |   5/06/2024 |
 | Frontend-pecuariopro | develop | 063324e4f5ddb46132e8f3776c7f308ff06cbaa6 | feat: |home component |   8/06/2024 |
 
- Link de los commits:https://github.com/PecuarioPro/Frontend-pecuariopro/commits/master/
+ Link de los commits: [https://github.com/PecuarioPro/Frontend-pecuariopro/commits/master/]
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -1985,11 +1989,11 @@ Para poder desplegar hemos realizado lo siguiente:
 
 ![Texto alternativo](/assets/deyployyyywebapp.jpg)
 
-###### link del despliegue: https://pecuariopro-98bb9.web.app/
+###### Link del despliegue: https://pecuariopro-98bb9.web.app/
 
 
 
-Hacemos lo mismo para nuestra landing page 
+Hicimos lo mismo para nuestra landing page 
 
 ###### Despliegue de la Landing Page:
 
@@ -1999,7 +2003,7 @@ Hacemos lo mismo para nuestra landing page
 ![Texto alternativo](/assets/deployment_evidence.png)
 
 
-link del despliegue: https://pecuariopro-4978d.web.app/ 
+Link del despliegue: https://pecuariopro-4978d.web.app/ 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
