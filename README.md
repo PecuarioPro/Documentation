@@ -105,6 +105,13 @@ Pecuario Pro
   <td>Alexander Cantoral Sedamano</td>
   <td>- Sprint 3.<br> -  Validation Interviews. <br> - Video About-the-Product.</td>
 </tr>
+
+<tr>
+  <td>12.0</td>
+  <td>08/06/2024</td>
+  <td>Ernesto David casaverde</td>
+  <td>- deploy landing page.<br> -Correciones al informe</td>
+</tr>
 </table>
 
 
