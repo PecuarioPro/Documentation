@@ -1958,13 +1958,13 @@ __Capturas de Documentación__
 A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
 
 Imagen 1
-![Imagen 1: Vista general de la documentación de la API](imagen1.png)
+![Imagen 1: Vista general de la documentación de la API](/assets/vista1backend.jpg)
 
 Imagen 2
-![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](imagen2.png)
+![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](/assets/vista2backend.jpg)
 
 Imagen 3
-![Imagen 3: Detalle de los Endpoints relacionados con Campañas](imagen3.png)
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](/assets/vista3backend.jpg)
 
 ## Repositorio y Commits
 
