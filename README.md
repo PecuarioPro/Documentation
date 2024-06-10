@@ -1915,7 +1915,43 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+# Endpoints Documentados
 
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint.
+
+## Endpoints Documentados
+
+Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Se indica las acciones soportadas incluyendo para cada acción el verbo HTTP (GET, POST, PUT, DELETE, PATCH), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response.
+
+| Endpoint | Acciones Soportadas |
+| --- | --- |
+| `/api/v1/bovines` | **POST**<br>Crea un nuevo bovino<br><br>**GET**<br>Obtiene la lista de bovinos |
+| `/api/v1/bovines/{bovineId}` | **GET**<br>Obtiene los detalles de un bovino por ID<br><br>**PUT**<br>Actualiza los datos de un bovino por ID<br><br>**PUT /add-weight-record**<br>Agrega un nuevo registro de peso para un bovino por ID |
+| `/api/v1/campaigns` | **POST**<br>Crea una nueva campaña<br><br>**GET**<br>Obtiene la lista de campañas |
+| `/api/v1/campaigns/{campaignId}` | **GET**<br>Obtiene los detalles de una campaña por ID<br><br>**PUT /modify-duration**<br>Actualiza la duración de una campaña por ID |
+| `/api/v1/campaigns/add-batch` | **POST**<br>Agrega un lote de bovinos a una campaña |
+| `/api/v1/campaigns/{campaignId}/batches/{batchId}` | **GET**<br>Obtiene los detalles de un lote de una campaña por ID |
+
+## Capturas de Documentación
+
+A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
+
+Imagen 1
+![Imagen 1: Vista general de la documentación de la API](imagen1.png)
+
+Imagen 2
+![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](imagen2.png)
+
+Imagen 3
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](imagen3.png)
+
+## Repositorio y Commits
+
+El repositorio de Web Services se encuentra en: [URL del repositorio]
+
+Los commits relacionados con la Documentación para este Sprint son:
+
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](\assets\commitsbackend.png)
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
