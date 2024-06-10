@@ -1882,6 +1882,50 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
     <td>Vásquez Villalobos, Elverth Jair</td>
     <td>Done</td>
   </tr>
+  </tr>
+  <tr>
+    <td>TS004</td>
+    <td> Registrar Animal</td>
+    <td>14</td>
+    <td>Technical Story 008 Registrar Animales</td>
+    <td>Como desarrollador, quiero crear un registro de bovinos en un lote específico para que se pueda llevar un control detallado de la crianza y manejo de cada animal.</td>
+    <td>3.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td>TS007</td>
+    <td>Crear Campaña</td>
+    <td>15</td>
+    <td>Technical Story 007 Crear Campaña </td>
+    <td>Como desarrollador de la plataforma, quiero poder crear una campaña para engordar el ganado que yo desee asignar.</td>
+    <td>4.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>Done</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>TS009</td>
+    <td>Gestion De Campaña</td>
+    <td>15</td>
+    <td>Technical Story 009 Gestion de Campaña </td>
+    <td>Como desarrollador de la plataforma, quiero desarrollar una herramienta para manejar las campañas que se organicen con la aplicación.</td>
+    <td>4.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>Done</td>
+  </tr>
+   </tr>
+    </tr>
+    <tr>
+    <td>TS006</td>
+    <td>Gestion De animales</td>
+    <td>15</td>
+    <td>Technical Story 006 Gestion de animales </td>
+    <td>Como desarrollador, quiero crear una herramienta de gestionar animales para manejar fácilmente la información que se necesita.</td>
+    <td>4.00</td>
+    <td>Vásquez Villalobos, Elverth Jair</td>
+    <td>Done</td>
+  </tr>
 </table>
 
 
