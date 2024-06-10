@@ -1904,7 +1904,7 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
  ![Texto alternativo](/assets/ladingdeyployyyy.png) 
 
  web application evidence:
- ![Texto alternativo](\assets\webapppdeyyployy.png)
+ ![Texto alternativo](/assets/webapppdeyyployy.png)
 
  link del video con explicacion
 
@@ -1951,7 +1951,7 @@ El repositorio de Web Services se encuentra en: [URL del repositorio]
 
 Los commits relacionados con la Documentación para este Sprint son:
 
-![Imagen 3: Detalle de los Endpoints relacionados con Campañas](\assets\commitsbackend.png)
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](/assets/commitsbackend.png)
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
