@@ -1902,8 +1902,13 @@ Tenemos en total 95 commits que son del desarrollo de nuestra web aplication aco
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on Date |
 | ---------- | ------ | ---------- | --------------- | -------------------- | ----------------- |
 | grupo04-PrecuarioPro-testing | feature/tb2-Alexander-Cantoral | e0371e140f454182f799a4ad90c1d79788ceedf8 | Added | feature's | 09/06/2024 |
+|grupo04-PrecuarioPro-testing|feature/tb2-Diego-Soriano|20368ed7c294ffcddccb77ac6e81eea5cdf8113e| Added | feature's | 02/06/2024
+|grupo04-PrecuarioPro-testing|feature/tb2-Ernesto-Casaverde|e5584573f932ba70cdebffb6390474c147ed2139| Added | feature's | 03/06/2024
+|grupo04-PrecuarioPro-testing|feature/tb2-Elverth-Vazquez|cd4c0121f870a8b07c4c94ed38c4696e56f52d11| Added | feature's | 29/05/2024
 
- Link del repositorio: 
+|grupo04-PrecuarioPro-testing|feature/tb2-Maycol-Rojas|7f3294a65f476c043d4dc044f5462d0787dd1bd6| Added | feature's | 05/06/2024
+
+ Link del repositorio: https://github.com/PecuarioPro/grupo04-PrecuarioPro-testing 
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
