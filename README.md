@@ -1915,11 +1915,11 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-# Endpoints Documentados
+ __Endpoints Documentados__
 
 En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. La sección inicia con una introducción en la que se resume los logros alcanzados en relación con Documentación de Web Services para este Sprint.
 
-## Endpoints Documentados
+__Endpoints Documentados__
 
 Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acciones implementadas, junto con los enlaces correspondientes a la documentación desplegada (o URL local en Sprints previos al despliegue de Web Services). Se indica las acciones soportadas incluyendo para cada acción el verbo HTTP (GET, POST, PUT, DELETE, PATCH), sintaxis de llamada, especificación de posibles parámetros, así como ejemplo y explicación del response.
 
@@ -1932,7 +1932,7 @@ Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acc
 | `/api/v1/campaigns/add-batch` | **POST**<br>Agrega un lote de bovinos a una campaña |
 | `/api/v1/campaigns/{campaignId}/batches/{batchId}` | **GET**<br>Obtiene los detalles de un lote de una campaña por ID |
 
-## Capturas de Documentación
+__Capturas de Documentación__
 
 A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
 
