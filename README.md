@@ -2101,7 +2101,8 @@ Preguntas sobre el proyecto:
 
 ### 5.4. Video About-the-Product.
 
-
+##### Video about the product: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EYG_koU6m7FNiYMgaxuNnKABiz2GVTx91QWa3OlBHPbGww?e=5yxd8A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 
@@ -2109,6 +2110,9 @@ Preguntas sobre el proyecto:
 
 
 - PecuarioPro se presenta como una alternativa tecnologica para aquellas personas y empresas que se encuentran en la industria pecuaria y requieren de mejoras en la gestión de su negocio. Se busca diseñar una plataforma intuitiva, fácil de entender y sobre todo eficiente para nuestros segmentos objetivos. Con el uso del framework Vue y la aplicación de conocimientos sobre ingeniería de software este proyecto busca además explorar nuevas formas de construir una solución de software teniendo un enfoque en las necesidades del cliente.
+
+# Video about the team: 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/ERkKmzLmnTtMn7ozk82xXvMBgE8zbbJXLENQws1wp7O-Qg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YIGc9v
 
 
 
