@@ -1631,6 +1631,7 @@ En el Sprint 2, nos sumergimos en el desarrollo activo del aplicativo web. Con e
 | Frontend-pecuariopro    | develop| 703b30d | feat: sidebar| 25/05/2024      |
 | Frontend-pecuariopro     | feature| cc34d96 | feat: aggregate filter in campaign 100% | 29/05/2024 |
 | Frontend-pecuariopro     | main | a224ed1| Merge branch 'master' into develop| 09/06/2024 |
+
 Link de los commits: [https://github.com/PecuarioPro/Frontend-pecuariopro/commits/master/]
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
