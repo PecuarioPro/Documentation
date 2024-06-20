@@ -1967,7 +1967,6 @@ Tenemos en total 95 commits que son del desarrollo de nuestra web aplication aco
 |grupo04-PrecuarioPro-testing|feature/tb2-Ernesto-Casaverde|e5584573f932ba70cdebffb6390474c147ed2139| Added | feature's | 03/06/2024
 |grupo04-PrecuarioPro-testing|feature/tb2-Elverth-Vazquez|cd4c0121f870a8b07c4c94ed38c4696e56f52d11| Added | feature's | 29/05/2024
 
-|grupo04-PrecuarioPro-testing|feature/tb2-Maycol-Rojas|7f3294a65f476c043d4dc044f5462d0787dd1bd6| Added | feature's | 05/06/2024
 
  Link del repositorio: https://github.com/PecuarioPro/grupo04-PrecuarioPro-testing 
 
@@ -1976,7 +1975,7 @@ Tenemos en total 95 commits que son del desarrollo de nuestra web aplication aco
 En resumen hemos logrado implementar todos las historias de usuario de la landing page al igual que  todo el web application junto con su testing
  
  Landing page Evidence:
- ![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/ladingdeyployyyy.png?token=GHSAT0AAAAAACQXDRA7Y4RDVX2TCNOLEF4IZTQ52MQ) 
+ ![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fladingdeyployyyy.png?alt=media&token=ff724dbd-2c56-475a-ad97-bfb8f6c5c33c) 
 
  Web application evidence:
  ![Texto alternativo](https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/aplicaci%C3%B3n%20web.PNG)
@@ -1986,7 +1985,7 @@ En resumen hemos logrado implementar todos las historias de usuario de la landin
  Backend evidence:
  Link de evidencia de deployment de Backend: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181b152_upc_edu_pe/EfDPYwAIdXJJoJmyHWnApcEBLw-ws9QHZVUeyXfjyBZDyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lvUlyi
 
-![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/backendevidence.png?token=GHSAT0AAAAAACQXDRA7IT4GF4GL2L5SNLVKZTQ6PYQ)
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fbackendevidence.png?alt=media&token=5a7a2fc3-da81-4368-a7ba-cfd6b057c6f7)
 
  
 
@@ -2014,13 +2013,13 @@ __Capturas de Documentación__
 A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
 
 VISTA GENERAL
-![Imagen 1: Vista general de la documentación de la API](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/backendevidence.png?token=GHSAT0AAAAAACQXDRA7OHSWL7ND7R57YBJ2ZTQ6CMQ)
+![Imagen 1: Vista general de la documentación de la API](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fbackendevidence.png?alt=media&token=5a7a2fc3-da81-4368-a7ba-cfd6b057c6f7)
 
 BOVINES
-![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/bovinos.png?token=GHSAT0AAAAAACQXDRA6J3PCISWTZLOE5LSWZTQ6G5A)
+![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fbovinos.png?alt=media&token=9716d71a-6daa-4ea7-ae15-967452c4d73e)
 
 CAMPAIGNS
-![Imagen 3: Detalle de los Endpoints relacionados con Campañas](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/campa%C3%B1a.png?token=GHSAT0AAAAAACQXDRA6GAYVDUVXELF23EGYZTQ6HKA)
+![Imagen 3: Detalle de los Endpoints relacionados con Campañas](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fcampa%C3%B1a.png?alt=media&token=07a3ef77-502e-4f8e-94fd-31bdd42fedc9)
 
 ## Repositorio y Commits
 
@@ -2028,7 +2027,7 @@ El repositorio de Web Services se encuentra en: [URL del repositorio]
 
 Los commits relacionados con la Documentación para este Sprint son:
 
-![Imagen 3: Detalle De commits Backend](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/commitsbackend.png?token=GHSAT0AAAAAACQXDRA6NXRU36HDYCTA7OIEZTQ6KBQ)
+![Imagen 3: Detalle De commits Backend](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fcommitsbackend.png?alt=media&token=08a71dbc-fa28-432c-a78f-c6ef969272ca)
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -2057,7 +2056,7 @@ Para poder desplegar hemos realizado lo siguiente:
 1. Copia los archivos estáticos generados en la carpeta dist de nuestra aplicacion  al directorio de despliegue configurado por Firebase.
 2. Ejecutamos  el comando firebase deploy para desplegar la web app en Firebase Hosting.
 
-![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/deyployyyywebapp.png?token=GHSAT0AAAAAACQXDRA6MUKWMCJ3FJRXDWAWZTQ6MBQ)
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fdeyployyyywebapp.png?alt=media&token=e8742f36-6803-450d-95b8-de49f340e82e)
 
 ###### Link del despliegue: https://pecuariopro-98bb9.web.app/
 
@@ -2070,14 +2069,14 @@ Hicimos lo mismo para nuestra landing page
 1. Para la landing page con HTML, CSS y JavaScript, simplemente copia los archivos estáticos de la landing page al directorio de despliegue configurado por Firebase.
 2. Ejecuta el comando firebase deploy nuevamente para desplegar la landing page en Firebase Hosting.
 
-![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/deployment_evidence.png?token=GHSAT0AAAAAACQXDRA66M52HTRVOYQZNY5AZTQ6NIQ)
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fdeployment_evidence.png?alt=media&token=a53b39d9-7265-481a-8048-4777e90739e7)
 
 
 Link del despliegue: https://pecuariopro-4978d.web.app/ 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-![Texto alternativo](https://raw.githubusercontent.com/ErnestGreenhouse/Imagenes/main/evidenve_sprint3.png?token=GHSAT0AAAAAACQXDRA64FJYKIXLXRFTOLNCZTQ6N5Q)
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fevidenve_sprint3.png?alt=media&token=a2c93453-f8da-408d-bc9b-6464c8a00e33)
 
 ## 5.3. Validation Interviews
 
