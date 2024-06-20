@@ -121,8 +121,7 @@ Pecuario Pro
 |----------------------|
 | https://github.com/orgs/PecuarioPro/repositories |
 
-<span style="color:red;">Este apartado le pertenece a Ernesto HACE.</span>
-
+**Este apartado le pertenece a Ernesto HACE.**
 
 # CONTENIDO
 
@@ -214,7 +213,7 @@ Pecuario Pro
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **1.- Maycol Jhordan Rojas Velasquez:** <br>TB1: Realize investigaciones y análisis de mercado para comprender el contexto de aplicación de las soluciones de software en el sector empresarial, identificando tendencias, necesidades y oportunidades.<br><br>TP: Contribui en la revisión y conclusiones del segundo informe, implementando efectivamente las correcciones necesarias para mejorarlo ene sector empresarial.<br>TB2: Comprendí como poder mejorar la LandingPage para poder conectar de una mejor forma con los futuros usuarios y a su vez lídere por momentos al equipo para finalización de esta entrega. <br><br> **2.- Alexander Alberto Cantoral Sedamano:** <br>TB1: Exploración del sector empresarial al que pertenece la aplicación junto con un estudio de los features de la competencia.<br><br>TP: Apoyo en la revisión y correción de las observaciones hechas al informe presentado en la TB1.<br>TB2: Pude comprender luego de una ardua investigación sobre como hacer de editor de la documentación del proyecto y a su vez pude comprender como dejar todo el contenido del mismo claro para cualquier tipo de lector. <br><br> **3.- Elverth Jair Vasquez Villalobos:** <br>TB1: Explore aún más el sector corporativo de nuestro dominio de negocio, esto se pudo hacer mediante la realización de entrevistas y la búsqueda de información para detallar el problema a solucionar.<br> TP: Contribuí realización un análisis de aspectos críticos en nuestro dominio de negocio .Esto se llevó acabo mediante la elaboración de User Personas que representen a nuestros segmentos objetivos.<br>TB2: Pude tomar las riendas del grupo para poder elaborar unos querys y commands en el backend que tengan sentido con lo que esperamos quiera los usuarios segmentos objetivo. <br><br> **4.- Diego Soriano Medrano:** <br>TB1: Ver la oportunidad de adquirir un profundo conocimiento del sector ganadero y del dominio específico de la ganadería<br><br>TP: Contribuir al desarrollo de un aplicativo funcional y efectivo para la gestión y registro de Empleados y y trabajadores de la empresa, sobre un sector empresarial específico.<br>TB2: Puede realizar una página de bienvenida clara para los usuarios de la aplicación web y realizar mejoras para el lado front de Empleados y la identificación de las partes para el bounded context de Empleados<br> **5.- Ernesto David Casaverde de la Cruz:** <br>TB1: Desarrolle una pequeña investigación del rubro de la aplicación para poder comprender mejor lo que estamos tratando y poder entender las necesidades de los segmentos objetivo.<br><br>TP: Contribuí a la finalización de una LandingPage que conecte con los futuros usuarios y pueda llamar su atención.<br><br>TB2: Realicé una versión inicial de una de las herramienta,que creo yo, ayudará más al usuario en la aplicación web. | <br>TB1<br>Al concluir, destacamos la excelente coordinación lograda en la segmentación empresarial. Nuestro análisis se centró en las necesidades de nuestros usuarios, identificando áreas que requieren mejoras. Esta conclusión refleja nuestro compromiso con la excelencia y la adaptación continua a las demandas del mercado.<br>TP<br> Al finalizar el proyecto esto nos proporciona una base sólida para futuros proyectos en el campo de la ingeniería de software, donde pueda aplicar su experiencia adquirida en el sector ganadero o explorar otros dominios de aplicación de soluciones de software. <br>TB2<br> Al momento de la entrega teníamos comprendido casi al 100% lo que necesita nuestros usuarios y, a su vez, lo que necesitará ser implementado para la versión final de la aplicación.|
 
 
-
+**Este apartado le pertenece a Ernesto HACE. se corrige el student autcome con las acciones de conocimiento de granja para para el segunfo student outcome**
 
 
 # Capítulo I: Introducción
@@ -310,6 +309,8 @@ Cuando lanzamos nuestra aplicación web de gestión animal para administradores 
 
 #### 1.2.2.2. Lean UX Assumptions
 
+**Este apartado le pertenece a Ernesto HACE.** 
+
 - se asume que los ganaderos estén dispuestos a hacer uso de la tecnología para mejorar su negocio, y consideran que la administración de la ganadería es una herramienta valiosa para alcanzar este objetivo. 
 
 - Se asume que los ganaderos, independientemente de su experiencia tecnológica, valorarán una aplicación fácil de usar, accesible desde diferentes dispositivos, incluidos teléfonos móviles, tabletas y computadoras de escritorio.
@@ -389,6 +390,7 @@ En el Perú, el bienestar animal en las empresas ganaderas es a menudo insuficie
  - Perseverante
  - Honestidad
 
+**Este apartado le pertenece a Ernesto HACE. poner estaditicas para que tenga relacion con las user persona**
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1 Competidores
@@ -815,7 +817,7 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 ![To-Be Scenario Mapping](./assets/To-Be%20Scenario%20map.jpg)
 
 ## 3.2. User Stories.
-
+**Este apartado le pertenece a ALEX aqui debes corregir la logica para que tenga relacion con el front**
 
 | Epic/Story ID | Título    | Descripción| Criterios de Aceptación | Relacionado con (Epic ID) |
 |---------------|---|----------|---------|---------------|
@@ -842,6 +844,7 @@ Finalmente, se hizo un análisis y se concluyó con los valores , skills y una f
 | Story 015 | Explorar la LandingPage | **Como** visitante **quiero** obtener información de la aplicación **para** ver si es conveniente para lo que busco | El usuario entra en la LandingPage y encuentra la sección de QUIÉNES SOMOS | Epic 6 |
 | Story 016 | Descubrir las secciones informativas | **Como** visitante **quiero** explorar las distintas secciones informativas de la aplicación **para** comprender mejor sus características y funcionalidades | El usuario entra en la LandingPage, encuentra la sección de QUIÉNES SOMOS, ve la sección de PLANES y descubre la sección de FUNCIONES | Epic 6 |
 
+**Este apartado le pertenece a alex  corregir como la imagen que subio el delagado en el grupo HACE.**
 |Historias técnicas ID|Título | Descripción |Criterios de Aceptación|
 |---------------|----------|---------|---------------|
 |TS001|Crear Formulario| Como desarrollador, quiero que se pueda agregar una vacuna para que se tenga la lista de vacunas administradas para cada bovino.|**Scenario 1:**<br>*Agregar vacuna exitosamente* <br>**Given** el desarrollador completa el formulario de vacunas con información válida<br>**When** hace una solicitud POST a /vacunas<br>**Then** la respuesta es 201 Created y contiene la vacuna agregada<br><br>**Scenario 2:**<br>*Error al agregar vacuna*<br>**Given** Given el desarrollador completa el formulario de vacunas con información inválida<br>**When** When hace una solicitud POST a /vacunas<br>**Then** Then la respuesta es 400 Bad Request y contiene un mensaje de error.|
@@ -877,6 +880,7 @@ A continuación presentaremos 3 Business Goals que consideramos importantes en n
 ![Business Goal 3](./assets/impactMapIndependiente.png)
 
 ## 3.4. Product Backlog.
+
 | Orden | User Story           | Título                                | Descripción                                                                                                                                                                             | Story Points (1 / 2 / 3) |
 |-------|----------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | 1     | Story 001            | Crear Formulario                     | Como ganadero, quiero agregar una vacuna para tener la lista de vacunas administradas a mi bovino.                                                                                    | 2                         |
@@ -2057,12 +2061,14 @@ Hicimos lo mismo para nuestra landing page
 Link del despliegue: https://pecuariopro-4978d.web.app/ 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+**Este apartado le pertenece a Ernesto HACE.**
 
 ![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fevidenve_sprint3.png?alt=media&token=a2c93453-f8da-408d-bc9b-6464c8a00e33)
 
 ## 5.3. Validation Interviews
 
 Esta parte del informe presentará la parte objetiva de las entrevistas de validación junto con el análisis relevante de cada una de ellas.
+**Este apartado le pertenece aALEX HACE.**
 
 ### 5.3.1. Diseño de Entrevistas.
 ## Preguntas principales:
@@ -2081,6 +2087,8 @@ Preguntas sobre el proyecto:
 ### 5.3.2.  Registro de Entrevistas
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+**Este apartado le pertenece ALEX HACE.**
 
 ### 5.4. Video About-the-Product.
 
