@@ -6,7 +6,7 @@
 
 ### APLICACIONES WEB
 
-#### TB1 REPORT
+#### TF REPORT
 
 **Nombre del Startup**
 Pecuario Pro 
@@ -121,27 +121,7 @@ Pecuario Pro
 |----------------------|
 | https://github.com/orgs/PecuarioPro/repositories |
 
-| Descripción de Actividades |
-|-----------------------------|
-| Se ha realizado el sprint n3 y a cada uno se le asigno las user storys. |
-| Se ha utilizado la plataforma GitHub para la colaboración en línea entre los miembros del equipo. |
-| Se han organizado reuniones periódicas para discutir el progreso del informe y asignar tareas. |
-| Se han utilizado herramientas como webstorm para el front end y rider para el backend |
-
-
-| Capturas de Pantalla |
-|----------------------|
-|![image](https://hackmd.io/_uploads/B1eh72zfA.png)|
-| ![image](https://hackmd.io/_uploads/Sy7Sm2Gf0.png)|
-
-| Participación de los Miembros del Equipo |
-|------------------------------------------|
-| Todos los miembros del equipo han contribuido en la elaboración del informe. |
-| Se han asignado tareas específicas a cada miembro del equipo para garantizar una distribución equitativa del trabajo. |
-| Se han realizado revisiones cruzadas entre los miembros del equipo para asegurar la calidad del contenido del informe. |
-| Se han proporcionado comentarios y sugerencias para mejorar el contenido y la estructura del informe. |
-
-
+<span style="color:red;">Este apartado le pertenece a Ernesto HACE.</span>
 # CONTENIDO
 
 # Tabla de Contenidos
