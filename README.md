@@ -2064,7 +2064,7 @@ CAMPAIGNS
 
 El repositorio de Web Services se encuentra en: [URL del repositorio]
 
-Los commits relacionados con la Documentación para este Sprint son:
+Los commits relacionados con la Documentación  para este Sprint son:
 
 ![Imagen 3: Detalle De commits Backend](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fcommitsbackend.png?alt=media&token=08a71dbc-fa28-432c-a78f-c6ef969272ca)
 
