@@ -313,32 +313,32 @@ Cuando lanzamos nuestra aplicación web de gestión animal para administradores 
 
 #Features:
 
-__Registro de Ganado:
+__Registro de Ganado:__
 
 Resultado Empresarial: Mejora en la organización y seguimiento del inventario de ganado.
 Beneficio para el Usuario: Facilidad para registrar y mantener información detallada de cada animal, incluyendo datos de salud, reproducción, y genealogía.
 
-__Gestión de Salud Animal:
+__Gestión de Salud Animal:__
 
 Resultado Empresarial: Reducción de costos por enfermedades y mejor gestión preventiva.
 Beneficio para el Usuario: Recordatorios automáticos de vacunaciones y tratamientos, facilitando el cuidado preventivo y la salud del ganado.
 
-__Planificación de Alimentación:
+__Planificación de Alimentación:__
 
 Resultado Empresarial: Optimización de los recursos alimenticios y reducción de desperdicios.
 Beneficio para el Usuario: Herramientas para calcular y gestionar la dieta y la alimentación del ganado de manera eficiente, asegurando un crecimiento saludable y costos reducidos.
 
-__Seguimiento de Fertilidad y Reproducción:
+__Seguimiento de Fertilidad y Reproducción:__
 
 Resultado Empresarial: Mejora en la eficiencia reproductiva y aumento del rendimiento del ganado.
 Beneficio para el Usuario: Visualización y gestión de datos de reproducción y fertilidad, permitiendo una reproducción más planificada y exitosa.
 
-__Gestión de Eventos y Registros Veterinarios:
+__Gestión de Eventos y Registros Veterinarios:__
 
 Resultado Empresarial: Cumplimiento de normativas y registros precisos.
 Beneficio para el Usuario: Registro fácil y acceso rápido a registros veterinarios, eventos de manejo y otros datos críticos para la gestión diaria del ganado.
 
-__Análisis de Datos y Reportes:
+__Análisis de Datos y Reportes:__
 
 Resultado Empresarial: Toma de decisiones basadas en datos y mejora de la eficiencia operativa.
 Beneficio para el Usuario: Generación de informes personalizables y análisis de datos que ayudan a identificar tendencias y oportunidades de mejora en la gestión del ganado.
@@ -2117,7 +2117,7 @@ Link del despliegue: https://pecuariopro-4978d.web.app/
 
 En esta Seccion mostramos la evidencias de nuestra colabpracion en el proyecto atravez de los commits como muesta de colaboracion en equipo:
 
-__Integrante 1: Rojas Velasquez, Maycol Jhordan
+__Integrante 1: Rojas Velasquez, Maycol Jhordan__
 
 Actividades Realizadas:
 
@@ -2125,14 +2125,14 @@ Actividades Realizadas:
 -Realizo mejoras a nivel de visualizacion para mejorar la experiencia de la aplicacion web
 -Realizo un bounded context del proyecto en el servicio web
 
-__Integrante 2:  Soriano Medrano, Diego
+__Integrante 2:  Soriano Medrano, Diego__
 
 Actividades Realizadas:
 
 -Realizo el componente staff y el Home de la aplicacion  
 -Relizo la base de datos de la aplicacion web 
 
-__Integrante 3: Casaverde de la Cruz, Ernesto David 
+__Integrante 3: Casaverde de la Cruz, Ernesto David__ 
 
 Actividades Realizadas:
 
@@ -2140,7 +2140,7 @@ Actividades Realizadas:
 -Realizo la landing page de la aplicacion web
 -Realizo Correcciones en el Documentacion
 
-__Integrante 4: antoral Sedamano, Alexander Alberto
+__Integrante 4: antoral Sedamano, Alexander Alberto__
 
 Actividades Realizadas:
 
@@ -2148,7 +2148,7 @@ Actividades Realizadas:
 -Realizo correciones en la documentacion
 
 
-__Integrante 5:  Vásquez Villalobos, Elverth Jair
+__Integrante 5:  Vásquez Villalobos, Elverth Jair__
 
 Actividades Realizadas:
 
