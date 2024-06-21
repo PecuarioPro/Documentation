@@ -311,6 +311,59 @@ Cuando lanzamos nuestra aplicación web de gestión animal para administradores 
 
 **Este apartado le pertenece a Ernesto HACE.** 
 
+#Features:
+
+__Registro de Ganado:
+
+Resultado Empresarial: Mejora en la organización y seguimiento del inventario de ganado.
+Beneficio para el Usuario: Facilidad para registrar y mantener información detallada de cada animal, incluyendo datos de salud, reproducción, y genealogía.
+
+__Gestión de Salud Animal:
+
+Resultado Empresarial: Reducción de costos por enfermedades y mejor gestión preventiva.
+Beneficio para el Usuario: Recordatorios automáticos de vacunaciones y tratamientos, facilitando el cuidado preventivo y la salud del ganado.
+
+__Planificación de Alimentación:
+
+Resultado Empresarial: Optimización de los recursos alimenticios y reducción de desperdicios.
+Beneficio para el Usuario: Herramientas para calcular y gestionar la dieta y la alimentación del ganado de manera eficiente, asegurando un crecimiento saludable y costos reducidos.
+
+__Seguimiento de Fertilidad y Reproducción:
+
+Resultado Empresarial: Mejora en la eficiencia reproductiva y aumento del rendimiento del ganado.
+Beneficio para el Usuario: Visualización y gestión de datos de reproducción y fertilidad, permitiendo una reproducción más planificada y exitosa.
+
+__Gestión de Eventos y Registros Veterinarios:
+
+Resultado Empresarial: Cumplimiento de normativas y registros precisos.
+Beneficio para el Usuario: Registro fácil y acceso rápido a registros veterinarios, eventos de manejo y otros datos críticos para la gestión diaria del ganado.
+
+__Análisis de Datos y Reportes:
+
+Resultado Empresarial: Toma de decisiones basadas en datos y mejora de la eficiencia operativa.
+Beneficio para el Usuario: Generación de informes personalizables y análisis de datos que ayudan a identificar tendencias y oportunidades de mejora en la gestión del ganado.
+
+#Business Outcomes
+
+-Eficiencia Operativa Mejorada: Reducción del tiempo dedicado a tareas administrativas, permitiendo a los empleados enfocarse en actividades de alto valor.
+
+-Reducción de Costos: Menor desperdicio de recursos como alimentación y medicamentos debido a una mejor gestión y planificación.
+
+-Cumplimiento Regulatorio: Mantenimiento de registros precisos y cumplimiento de normativas locales e internacionales.
+
+-Mejora en la Productividad: Aumento de la productividad al optimizar los procesos de gestión de ganado y facilitar la toma de decisiones basadas en datos.
+
+#User Benefits
+
+-Facilidad de Uso: Interfaz intuitiva que permite a los usuarios gestionar el ganado de manera eficiente sin necesidad de capacitación extensiva.
+
+-Mayor Control y Seguimiento: Acceso rápido a información detallada sobre cada animal y su historial.
+
+-Mejora en la Salud y Bienestar del Ganado: Mejor gestión de la salud y la nutrición del ganado, lo que resulta en animales más saludables y productivos.
+
+-Optimización del Tiempo: Reducción del tiempo dedicado a la gestión diaria, permitiendo a los usuarios centrarse en otras actividades críticas.
+
+
 - se asume que los ganaderos estén dispuestos a hacer uso de la tecnología para mejorar su negocio, y consideran que la administración de la ganadería es una herramienta valiosa para alcanzar este objetivo. 
 
 - Se asume que los ganaderos, independientemente de su experiencia tecnológica, valorarán una aplicación fácil de usar, accesible desde diferentes dispositivos, incluidos teléfonos móviles, tabletas y computadoras de escritorio.
@@ -2061,7 +2114,49 @@ Hicimos lo mismo para nuestra landing page
 Link del despliegue: https://pecuariopro-4978d.web.app/ 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
-**Este apartado le pertenece a Ernesto HACE.**
+
+En esta Seccion mostramos la evidencias de nuestra colabpracion en el proyecto atravez de los commits como muesta de colaboracion en equipo:
+
+__Integrante 1: Rojas Velasquez, Maycol Jhordan
+
+Actividades Realizadas:
+
+-Realizo el componente de vaccines login y register 
+-Realizo mejoras a nivel de visualizacion para mejorar la experiencia de la aplicacion web
+-Realizo un bounded context del proyecto en el servicio web
+
+__Integrante 2:  Soriano Medrano, Diego
+
+Actividades Realizadas:
+
+-Realizo el componente staff y el Home de la aplicacion  
+-Relizo la base de datos de la aplicacion web 
+
+__Integrante 3: Casaverde de la Cruz, Ernesto David 
+
+Actividades Realizadas:
+
+-Realizo el componente Invetory de la aplicacion web
+-Realizo la landing page de la aplicacion web
+-Realizo Correcciones en el Documentacion
+
+__Integrante 4: antoral Sedamano, Alexander Alberto
+
+Actividades Realizadas:
+
+-Realizo su componente veterinarios 
+-Realizo correciones en la documentacion
+
+
+__Integrante 5:  Vásquez Villalobos, Elverth Jair
+
+Actividades Realizadas:
+
+-Realizo el componente de campaña y el registro de los animales
+-Realizo varios bounded context del proyecto en el servicio web
+-Realizo mejoras significativas a nivel de frontend para un mayor interaccion con el usuario
+
+Esta imagen Representa la Cantidad De Participacion en el proyecto:
 
 ![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fevidenve_sprint3.png?alt=media&token=a2c93453-f8da-408d-bc9b-6464c8a00e33)
 
