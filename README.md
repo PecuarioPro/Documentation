@@ -112,7 +112,33 @@ Pecuario Pro
   <td>Ernesto David casaverde</td>
   <td>- deploy landing page.<br> -Correciones al informe</td>
 </tr>
+
+<tr>
+  <td>12.0</td>
+  <td>28/06/2024</td>
+  <td>Ernesto David casaverde</td>
+  <td>- deploy landing page.<br> -Correciones al informe</td>
+</tr>
+<tr>
+  <td>12.0</td>
+  <td>28/06/2024</td>
+  <td>Elverth Jair Vásquez</td>
+  <td>- Implemento Su backend al frontend.<br> -Mejora Continua al Proyecto</td>
+</tr>
+<tr>
+  <td>12.0</td>
+  <td>28/06/2024</td>
+  <td>Maycol Jhordan Rojas</td>
+  <td>- Implemento Su backend al frontend.<br>-Mejora Continua al Proyecto</td>
+</tr>
+<tr>
+  <td>12.0</td>
+  <td>22/06/2024</td>
+  <td>Diego Soriano Medrano</td>
+  <td>- Hize su Backend.<br> -Mejora Continua al Proyect</td>
+</tr>
 </table>
+
 
 
 ## Project Report Collaboration Insights
@@ -195,14 +221,19 @@ Pecuario Pro
       5.1.4. [Software Deployment Configuration](#software-deployment-configuration)<br>
    5.2. [Landing Page, Services & Applications Implementation](#landing-page-services-applications-implementation)<br>
       5.2.1. [Sprint 1](#sprint-1)<br>
-         5.2.1.1. [Sprint Planning 1](#sprint-planning-1)<br>
-         5.2.1.2. [Sprint Backlog 1](#sprint-backlog-1)<br>
+         5.2.1.1. [Sprint Planning 1 2 3](#sprint-planning-1)<br>
+         5.2.1.2. [Sprint Backlog 1 2 3](#sprint-backlog-1)<br>
          5.2.1.3. [Development Evidence for Sprint Review](#development-evidence-for-sprint-review)<br>
          5.2.1.4. [Testing Suite Evidence for Sprint Review](#testing-suite-evidence-for-sprint-review)<br>
          5.2.1.5. [Execution Evidence for Sprint Review](#execution-evidence-for-sprint-review)<br>
          5.2.1.6. [Services Documentation Evidence for Sprint Review](#services-documentation-evidence-for-sprint-review)<br>
          5.2.1.7. [Software Deployment Evidence for Sprint Review](#software-deployment-evidence-for-sprint-review)<br>
          5.2.1.8. [Team Collaboration Insights during Sprint](#team-collaboration-insights-during-sprint)<br>
+          5.3. [Validation Interviews](#team-collaboration-insights-during-sprint)<br>
+         5.3.1. [Diseño de Entrevistas](#team-collaboration-insights-during-sprint)<br>
+         5.3.2. [Registro de Entrevistas](#team-collaboration-insights-during-sprint)<br>
+         5.3.3. [Evaluaciones según heurísticas](#team-collaboration-insights-during-sprint)<br>
+         5.4. [Video About-the-Product.](#team-collaboration-insights-during-sprint)
 
 
 # STUDENT OUTCOME
@@ -210,7 +241,7 @@ Pecuario Pro
 | Criterio específico                                                                                          | Acciones realizadas                                                               | Conclusiones                                                                   |
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |**1.- Maycol Jhordan Rojas Velasquez:** <br>TB1: Participación activa en las reuniones de equipo para el desarrollo de la landing page.<br><br>TP: Contribución en la revisión y conclusiones del segundo informe, implementando efectivamente las correcciones necesarias para mejorarlo.<br>TB2: Apoyé mayormente en la remodelación de la LP y apoyé en el desarrollo del backend de la aplicación.<br><br>  **2.-Alexander Alberto Cantoral Sedamano:** <br>TB1: Participación integral en el desarrollo del informe y el desarrollo del Landing Page.<br><br> TP: Contribución al desarrollo de la primera versión de la aplicación y secciones respectivas al mismo.<br>TB2: Para esta entrega participé en el avance del frontend mayormente y apoyé con el backend en las reuniones.<br><br> **3.- Elverth Jair Vasquez Villalobos:** <br>TB1: Participé en la elaboración de los requirimientos para nuestro proyecto y en la elaboración del Needfinding.<br><br>TP: Correción de aspectos desarrollados en los user personas, realización del análisis de entrevistas haciendo un ánalisis estadístico de los datos proporcionado por nuestros segmentos entrevistados.<br>TB2: Lideré el avance del Backend por ende, la mayoría de mi aporte a la entrega se centra aquí y también apoyé con el desarrollo del frontend. <br><br> TF:En esta entrega apliqué metodologías ágiles para la elaboración de features en equipo y poder cumplir con los requerimientos del proyecto en su mayoría.Así mismo, participé en las organizaciones por parte del equipo para determinar el desarrollo en conjunto que se pedía para esta entrega final. <br>**4.- Diego Soriano Medrano:** <br>TB1: Tratar de mantener eficaca al coordinar con otros miembros del equipo y cumplir con los plazos establecidos para el desarrollo del aplicativo.<br><br>TP: Al desarrollar el proyecto intente mantener un enfoque objetivo al evaluar diferentes soluciones técnicas.<br>TB2: Verifique el desarrollo del lado backern para el bounded context de Empleados dentro de la aplicación y continue con ciertos aspectos del desarrollo Frontend <br><br> **5.- Ernesto David Casaverde de la Cruz:** <br>TB1: Logré apoyar con el desarrollo inicial de landing page<br>TP: Para esta entrega pude observar y analizar el código de mis compañeros para la realización de mi feat de la siguiente entrega. <br>TB2: Pude apoyar con mi feat en el frontend y con la mejora de la LandingPage.|<br>TB1<br> La entrega actual ha sido un hito notable, caracterizado por una participación sobresaliente por parte de todos los integrantes del equipo. A pesar de enfrentar algunas dificultades y enfrentarse a aspectos del código que no resultaban claros, el grupo demostró un compromiso excepcional al colaborar en la corrección del informe y en el avance de las características del código. Esta experiencia resalta la importancia de la colaboración y el apoyo mutuo en la consecución de nuestros objetivos. La disposición para superar obstáculos y trabajar juntos ha sido fundamental para el éxito de este proyecto, y esperamos seguir construyendo sobre este espíritu de equipo en futuras entregas. <br>TP<br> Todos asumieron un papel fundamental en el equipo, contribuyendo al éxito del proyecto de desarrollo de un aplicativo para la gestión y registro de bovinos mediante su capacidad para trabajar eficaz, eficiente y objetivamente en soluciones de ingeniería de software.<br>TB2<br>Para esta entrega concluimos con una mejora significativa en la presentación LandingPage, Frontend y comenzamos con el desarrollo del Backend.
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **1.- Maycol Jhordan Rojas Velasquez:** <br>TB1: Realize investigaciones y análisis de mercado para comprender el contexto de aplicación de las soluciones de software en el sector empresarial, identificando tendencias, necesidades y oportunidades.<br><br>TP: Contribui en la revisión y conclusiones del segundo informe, implementando efectivamente las correcciones necesarias para mejorarlo ene sector empresarial.<br>TB2: Comprendí como poder mejorar la LandingPage para poder conectar de una mejor forma con los futuros usuarios y a su vez lídere por momentos al equipo para finalización de esta entrega. <br><br> **2.- Alexander Alberto Cantoral Sedamano:** <br>TB1: Exploración del sector empresarial al que pertenece la aplicación junto con un estudio de los features de la competencia.<br><br>TP: Apoyo en la revisión y correción de las observaciones hechas al informe presentado en la TB1.<br>TB2: Pude comprender luego de una ardua investigación sobre como hacer de editor de la documentación del proyecto y a su vez pude comprender como dejar todo el contenido del mismo claro para cualquier tipo de lector. <br><br> **3.- Elverth Jair Vasquez Villalobos:** <br>TB1: Explore aún más el sector corporativo de nuestro dominio de negocio, esto se pudo hacer mediante la realización de entrevistas y la búsqueda de información para detallar el problema a solucionar.<br> TP: Contribuí realización un análisis de aspectos críticos en nuestro dominio de negocio .Esto se llevó acabo mediante la elaboración de User Personas que representen a nuestros segmentos objetivos.<br>TB2: Pude tomar las riendas del grupo para poder elaborar unos querys y commands en el backend que tengan sentido con lo que esperamos quiera los usuarios segmentos objetivo. <br><br> TF:Para esta entrega tuve que realizar consultas a personas de nuestro dominio para poder refinar las funcionalidades de la plataforma y que estas tengan coherencia con lo que el usuario espera de un proyecto como el nuestro. Realicé investigaciones sobre la gestión que realiza el sector empresarial de nuestro dominio para establecer de manera la construcción de funcionalidades para este segmento.<br> **4.- Diego Soriano Medrano:** <br>TB1: Ver la oportunidad de adquirir un profundo conocimiento del sector ganadero y del dominio específico de la ganadería<br><br>TP: Contribuir al desarrollo de un aplicativo funcional y efectivo para la gestión y registro de Empleados y y trabajadores de la empresa, sobre un sector empresarial específico.<br>TB2: Puede realizar una página de bienvenida clara para los usuarios de la aplicación web y realizar mejoras para el lado front de Empleados y la identificación de las partes para el bounded context de Empleados<br> **5.- Ernesto David Casaverde de la Cruz:** <br>TB1: Desarrolle una pequeña investigación del rubro de la aplicación para poder comprender mejor lo que estamos tratando y poder entender las necesidades de los segmentos objetivo.<br><br>TP: Contribuí a la finalización de una LandingPage que conecte con los futuros usuarios y pueda llamar su atención.<br><br>TB2: Realicé una versión inicial de una de las herramienta,que creo yo, ayudará más al usuario en la aplicación web. | <br>TB1<br>Al concluir, destacamos la excelente coordinación lograda en la segmentación empresarial. Nuestro análisis se centró en las necesidades de nuestros usuarios, identificando áreas que requieren mejoras. Esta conclusión refleja nuestro compromiso con la excelencia y la adaptación continua a las demandas del mercado.<br>TP<br> Al finalizar el proyecto esto nos proporciona una base sólida para futuros proyectos en el campo de la ingeniería de software, donde pueda aplicar su experiencia adquirida en el sector ganadero o explorar otros dominios de aplicación de soluciones de software. <br>TB2<br> Al momento de la entrega teníamos comprendido casi al 100% lo que necesita nuestros usuarios y, a su vez, lo que necesitará ser implementado para la versión final de la aplicación.|
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **1.- Maycol Jhordan Rojas Velasquez:** <br>TB1: Realize investigaciones y análisis de mercado para comprender el contexto de aplicación de las soluciones de software en el sector empresarial, identificando tendencias, necesidades y oportunidades.<br><br>TP: Contribui en la revisión y conclusiones del segundo informe, implementando efectivamente las correcciones necesarias para mejorarlo ene sector empresarial.<br>TB2: Comprendí como poder mejorar la LandingPage para poder conectar de una mejor forma con los futuros usuarios y a su vez lídere por momentos al equipo para finalización de esta entrega. <br><br> **2.- Alexander Alberto Cantoral Sedamano:** <br>TB1: Exploración del sector empresarial al que pertenece la aplicación junto con un estudio de los features de la competencia.<br><br>TP: Apoyo en la revisión y correción de las observaciones hechas al informe presentado en la TB1.<br>TB2: Pude comprender luego de una ardua investigación sobre como hacer de editor de la documentación del proyecto y a su vez pude comprender como dejar todo el contenido del mismo claro para cualquier tipo de lector. <br><br> **3.- Elverth Jair Vasquez Villalobos:** <br>TB1: Explore aún más el sector corporativo de nuestro dominio de negocio, esto se pudo hacer mediante la realización de entrevistas y la búsqueda de información para detallar el problema a solucionar.<br> TP: Contribuí realización un análisis de aspectos críticos en nuestro dominio de negocio .Esto se llevó acabo mediante la elaboración de User Personas que representen a nuestros segmentos objetivos.<br>TB2: Pude tomar las riendas del grupo para poder elaborar unos querys y commands en el backend que tengan sentido con lo que esperamos quiera los usuarios segmentos objetivo. <br><br> TF:Para esta entrega tuve que realizar consultas a personas de nuestro dominio para poder refinar las funcionalidades de la plataforma y que estas tengan coherencia con lo que el usuario espera de un proyecto como el nuestro. Realicé investigaciones sobre la gestión que realiza el sector empresarial de nuestro dominio para establecer de manera la construcción de funcionalidades para este segmento.<br> **4.- Diego Soriano Medrano:** <br>TB1: Ver la oportunidad de adquirir un profundo conocimiento del sector ganadero y del dominio específico de la ganadería<br><br>TP: Contribuir al desarrollo de un aplicativo funcional y efectivo para la gestión y registro de Empleados y y trabajadores de la empresa, sobre un sector empresarial específico.<br>TB2: Puede realizar una página de bienvenida clara para los usuarios de la aplicación web y realizar mejoras para el lado front de Empleados y la identificación de las partes para el bounded context de Empleados<br> **5.- Ernesto David Casaverde de la Cruz:** <br>TB1: Desarrolle una pequeña investigación del rubro de la aplicación para poder comprender mejor lo que estamos tratando y poder entender las necesidades de los segmentos objetivo.<br><br>TP: Contribuí a la finalización de una LandingPage que conecte con los futuros usuarios y pueda llamar su atención.<br><br>TB2: Realicé una versión inicial de una de las herramienta,que creo yo, ayudará más al usuario en la aplicación web. | <br>TB1<br>Al concluir, destacamos la excelente coordinación lograda en la segmentación empresarial. Nuestro análisis se centró en las necesidades de nuestros usuarios, identificando áreas que requieren mejoras. Esta conclusión refleja nuestro compromiso con la excelencia y la adaptación continua a las demandas del mercado.<br>TP<br> Al finalizar el proyecto esto nos proporciona una base sólida para futuros proyectos en el campo de la ingeniería de software, donde pueda aplicar su experiencia adquirida en el sector ganadero o explorar otros dominios de aplicación de soluciones de software. <br>TB2<br> Al momento de la entrega teníamos comprendido casi al 100% lo que necesita nuestros usuarios y, a su vez, lo que necesitará ser implementado para la versión final de la aplicación.<br>Tf<br> Logre terminar mi backend pero a momento de  conectar con mi front no lo logre pero tambien ayude con la redaccion del doc y la mejorar continua al landing y  mi front |
 
 
 **Este apartado le pertenece a Ernesto HACE. se corrige el student autcome con las acciones de conocimiento de granja para para el segunfo student outcome**
@@ -311,7 +342,7 @@ Cuando lanzamos nuestra aplicación web de gestión animal para administradores 
 
 **Este apartado le pertenece a Ernesto HACE.** 
 
-#Features:
+##### Features:
 
 __Registro de Ganado:__
 
@@ -343,7 +374,7 @@ __Análisis de Datos y Reportes:__
 Resultado Empresarial: Toma de decisiones basadas en datos y mejora de la eficiencia operativa.
 Beneficio para el Usuario: Generación de informes personalizables y análisis de datos que ayudan a identificar tendencias y oportunidades de mejora en la gestión del ganado.
 
-#Business Outcomes
+##### Business Outcomes
 
 -Eficiencia Operativa Mejorada: Reducción del tiempo dedicado a tareas administrativas, permitiendo a los empleados enfocarse en actividades de alto valor.
 
@@ -353,7 +384,7 @@ Beneficio para el Usuario: Generación de informes personalizables y análisis d
 
 -Mejora en la Productividad: Aumento de la productividad al optimizar los procesos de gestión de ganado y facilitar la toma de decisiones basadas en datos.
 
-#User Benefits
+##### User Benefits
 
 -Facilidad de Uso: Interfaz intuitiva que permite a los usuarios gestionar el ganado de manera eficiente sin necesidad de capacitación extensiva.
 
@@ -2040,25 +2071,55 @@ Se ha elaborado una tabla que incluye, para cada Endpoint, la indicación de acc
 
 | Endpoint | Acciones Soportadas |
 | --- | --- |
+| `/api/v1/authentication/sign-up` | **POST**<br>Registro de un nuevo usuario |
+| `/api/v1/authentication/sign-in` | **POST**<br>Inicio de sesión de un usuario |
 | `/api/v1/bovines` | **POST**<br>Crea un nuevo bovino<br><br>**GET**<br>Obtiene la lista de bovinos |
-| `/api/v1/bovines/{bovineId}` | **GET**<br>Obtiene los detalles de un bovino por ID<br><br>**PUT**<br>Actualiza los datos de un bovino por ID<br><br>**PUT /add-weight-record**<br>Agrega un nuevo registro de peso para un bovino por ID |
+| `/api/v1/bovines/batches/{batchId}/bovines` | **GET**<br>Obtiene la lista de bovinos por lote |
+| `/api/v1/bovines/{bovineId}` | **GET**<br>Obtiene los detalles de un bovino por ID<br><br>**PUT**<br>Actualiza los datos de un bovino por ID<br><br>**DELETE**<br>Elimina un bovino por ID |
+| `/api/v1/bovines/{bovineId}/modify-weight-bovine` | **PUT**<br>Modifica el peso de un bovino por ID |
+| `/api/v1/bovines/{bovineId}/add-weight-record` | **POST**<br>Agrega un nuevo registro de peso para un bovino por ID |
+| `/api/v1/bovines/{bovineId}/add-images` | **POST**<br>Agrega imágenes para un bovino por ID |
+| `/api/v1/bovines/{bovineId}/weight-records` | **GET**<br>Obtiene los registros de peso de un bovino por ID |
+| `/api/v1/breeds` | **GET**<br>Obtiene la lista de razas |
+| `/api/v1/breeds/{breedId}` | **GET**<br>Obtiene los detalles de una raza por ID |
+| `/api/v1/breeds/name/{breedName}` | **GET**<br>Obtiene los detalles de una raza por nombre |
 | `/api/v1/campaigns` | **POST**<br>Crea una nueva campaña<br><br>**GET**<br>Obtiene la lista de campañas |
-| `/api/v1/campaigns/{campaignId}` | **GET**<br>Obtiene los detalles de una campaña por ID<br><br>**PUT /modify-duration**<br>Actualiza la duración de una campaña por ID |
+| `/api/v1/campaigns/{campaignId}/batches` | **GET**<br>Obtiene la lista de lotes de una campaña por ID |
+| `/api/v1/campaigns/{campaignId}` | **GET**<br>Obtiene los detalles de una campaña por ID<br><br>**PUT**<br>Actualiza los datos de una campaña por ID<br><br>**DELETE**<br>Elimina una campaña por ID |
+| `/api/v1/campaigns/{campaignId}/modify-duration` | **PUT**<br>Modifica la duración de una campaña por ID |
 | `/api/v1/campaigns/add-batch` | **POST**<br>Agrega un lote de bovinos a una campaña |
-| `/api/v1/campaigns/{campaignId}/batches/{batchId}` | **GET**<br>Obtiene los detalles de un lote de una campaña por ID |
+| `/api/v1/campaigns/{campaignId}/batches/{batchId}` | **GET**<br>Obtiene los detalles de un lote de una campaña por ID<br><br>**DELETE**<br>Elimina un lote de una campaña por ID |
+| `/api/v1/cities` | **POST**<br>Crea una nueva ciudad<br><br>**GET**<br>Obtiene la lista de ciudades |
+| `/api/v1/cities/{cityId}` | **GET**<br>Obtiene los detalles de una ciudad por ID |
+| `/api/v1/cities/name/{cityName}` | **GET**<br>Obtiene los detalles de una ciudad por nombre |
+| `/api/v1/departments` | **POST**<br>Crea un nuevo departamento<br><br>**GET**<br>Obtiene la lista de departamentos |
+| `/api/v1/departments/{departmentId}` | **GET**<br>Obtiene los detalles de un departamento por ID |
+| `/api/v1/departments/name/{departmentName}` | **GET**<br>Obtiene los detalles de un departamento por nombre |
+| `/api/v1/districts` | **POST**<br>Crea un nuevo distrito<br><br>**GET**<br>Obtiene la lista de distritos |
+| `/api/v1/districts/{districtId}` | **GET**<br>Obtiene los detalles de un distrito por ID |
+| `/api/v1/districts/name/{districtName}` | **GET**<br>Obtiene los detalles de un distrito por nombre |
+| `/api/v1/inventory` | **POST**<br>Crea un nuevo inventario<br><br>**GET**<br>Obtiene la lista de inventarios |
+| `/api/v1/inventory/{inventoryId}` | **GET**<br>Obtiene los detalles de un inventario por ID<br><br>**DELETE**<br>Elimina un inventario por ID |
+| `/api/v1/staffs` | **POST**<br>Crea un nuevo personal<br><br>**GET**<br>Obtiene la lista de personal |
+| `/api/v1/staffs/{staffId}` | **GET**<br>Obtiene los detalles de un personal por ID |
+| `/api/v1/users` | **GET**<br>Obtiene la lista de usuarios |
+| `/api/v1/users/{id}` | **GET**<br>Obtiene los detalles de un usuario por ID |
+| `/api/v1/vaccines` | **POST**<br>Crea una nueva vacuna<br><br>**GET**<br>Obtiene la lista de vacunas |
+| `/api/v1/vaccines/{id}` | **GET**<br>Obtiene los detalles de una vacuna por ID<br><br>**PUT**<br>Actualiza los datos de una vacuna por ID<br><br>**DELETE**<br>Elimina una vacuna por ID |
+| `/api/v1/veterinarian` | **POST**<br>Crea un nuevo veterinario<br><br>**GET**<br>Obtiene la lista de veterinarios |
+| `/api/v1/veterinarian/{veterinarianId}` | **GET**<br>Obtiene los detalles de un veterinario por ID<br><br>**DELETE**<br>Elimina un veterinario por ID |
+
+
 
 __Capturas de Documentación__
 
 A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
 
-VISTA GENERAL
-![Imagen 1: Vista general de la documentación de la API](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fbackendevidence.png?alt=media&token=5a7a2fc3-da81-4368-a7ba-cfd6b057c6f7)
+VISTA GENERAL:
+![Imagen 1: Vista general de la documentación de la API](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FGAMPI34.png?alt=media&token=7cc92330-c4a7-41c7-9b9c-1dcd5bcbcf35)
 
-BOVINES
-![Imagen 2: Detalle de los Endpoints relacionados con Bovinos](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fbovinos.png?alt=media&token=9716d71a-6daa-4ea7-ae15-967452c4d73e)
+![Imagen 1: Vista general de la documentación de la API](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FGAMPI3.png?alt=media&token=98bb4eb4-6ead-4a90-9a64-cf94fa33ddba)
 
-CAMPAIGNS
-![Imagen 3: Detalle de los Endpoints relacionados con Campañas](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fcampa%C3%B1a.png?alt=media&token=07a3ef77-502e-4f8e-94fd-31bdd42fedc9)
 
 ## Repositorio y Commits
 
@@ -2115,50 +2176,126 @@ Link del despliegue: https://pecuariopro-4978d.web.app/
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
-En esta Seccion mostramos la evidencias de nuestra colabpracion en el proyecto atravez de los commits como muesta de colaboracion en equipo:
+Al finalizar el Curso Hacemos un Analisis de lo aportado por el grupo al finalizar el cursos a travez de las actividades asignadas  al proyecto como envidencia tenemos los commits de cada uno:
 
-__Integrante 1: Rojas Velasquez, Maycol Jhordan__
+##### Front End
 
-Actividades Realizadas:
+Rojas Velasquez, Maycol Jhordan:
 
--Realizo el componente de vaccines login y register 
--Realizo mejoras a nivel de visualizacion para mejorar la experiencia de la aplicacion web
--Realizo un bounded context del proyecto en el servicio web
+Tareas Realizadas
 
-__Integrante 2:  Soriano Medrano, Diego__
-
-Actividades Realizadas:
-
--Realizo el componente staff y el Home de la aplicacion  
--Relizo la base de datos de la aplicacion web 
-
-__Integrante 3: Casaverde de la Cruz, Ernesto David__ 
-
-Actividades Realizadas:
-
--Realizo el componente Invetory de la aplicacion web
--Realizo la landing page de la aplicacion web
--Realizo Correcciones en el Documentacion
-
-__Integrante 4: antoral Sedamano, Alexander Alberto__
-
-Actividades Realizadas:
-
--Realizo su componente veterinarios 
--Realizo correciones en la documentacion
+-Cumplio con su componentes en vue. Aporto mejoras continuas a nivel resposive e interactividad con el usuario ✔️
 
 
-__Integrante 5:  Vásquez Villalobos, Elverth Jair__
+-Cumplio Con Conectar su componentes frontend con el web services o Backend ✔️
 
-Actividades Realizadas:
+commits:
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Ffmyk.png?alt=media&token=6f0f9a34-714e-44c2-9d9c-33d8b48a55a3)
 
--Realizo el componente de campaña y el registro de los animales
--Realizo varios bounded context del proyecto en el servicio web
--Realizo mejoras significativas a nivel de frontend para un mayor interaccion con el usuario
 
-Esta imagen Representa la Cantidad De Participacion en el proyecto:
+##### Back End
+
+Rojas Velasquez, Maycol Jhordan:
+
+-Cumplio sus endpoints en el backend aplicando todo lo nesesario como get, put, delete y update ✔️
+
+-Cumplio con todos todos los requirientos cumplidos para conectarlo al frontend ✔️
+
+
+commits:
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FBmk.png?alt=media&token=e53ba66d-f9ff-44d2-9c0d-b293e31ffdbf)
+
+
+
+##### Front End
+
+Soriano Medrano, Diego :
+
+Tareas Realizadas
+
+-Cumplio con su componentes en vue. Aporto mejoras continuas a nivel resposive e interactividad con el usuario ✔️
+
+
+-Parcialment logro Con Conectar su componentes frontend con el web services o Backend 🟰
+
+commits:
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Ffdgo.png?alt=media&token=777c2733-7550-4377-b2a1-20c0488a6ff1)
+
+##### Back End
+
+Soriano Medrano, Diego :
+
+-Cumplio sus endpoints en el backend aplicando todo lo nesesario como get, put, delete y update ✔️
+
+-cumplio con todos todos los requirientos cumplidos para conectarlo al frontend ✔️
+
+commits:
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FBdieg.png?alt=media&token=02a52c78-69c1-48d8-8b22-829b00af2398)
+
+##### Front End
+
+Vásquez Villalobos, Elverth Jair :
+
+Tareas Realizadas
+
+-Cumplio con su componentes en vue. Aporto mejoras continuas a nivel resposive e interactividad con el usuario ✔️
+
+
+-Cumolio logro Con Conectar su componentes frontend con el web services o Backend ✔️
+
+Commits
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FFeve.png?alt=media&token=c26cf7ab-361b-4f49-9c13-a1df1fe15f56)
+
+
+##### Back End
+
+Vásquez Villalobos, Elverth Jair :
+
+-Cumplio sus endpoints en el backend aplicando todo lo nesesario como get, put, delete y update ✔️
+
+-Cumplio con todos todos los requirientos cumplidos para conectarlo al frontend ✔️
+
+commits:
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FBeve.png?alt=media&token=2541271e-f3ff-494a-9a55-b9513fd49c78)
+
+##### Front End
+
+Casaverde De La Cruz, Ernesto David :
+
+Tareas Realizadas
+
+-Cumplio con su componentes en vue. Aporto mejoras continuas a nivel resposive e interactividad con el usuario ✔️
+
+
+-NO cumplio  logro Con Conectar su componentes frontend con el web services o Backend ❌
+
+Commits:
+
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FFernes.png?alt=media&token=1859de8e-c525-49d7-b3c4-e3a96e595626)
+
+##### Back End
+
+Casaverde De La Cruz, Ernesto David :
+
+-Cumplio sus endpoints en el backend aplicando todo lo nesesario como get, put, delete y update ✔️
+
+-Cumplio con todos todos los requirientos cumplidos para conectarlo al frontend ✔️
+
+commits:
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FBernes.png?alt=media&token=0bac1b6f-bc93-495f-80c0-57b308d38096)
+
+
+Con todo lo Aportado en el proyecto hacemos el analisi grupal y obtenemos el siguiente grafico para afirmar que todos contribuimos:
 
 ![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fevidenve_sprint3.png?alt=media&token=a2c93453-f8da-408d-bc9b-6464c8a00e33)
+
 
 ## 5.3. Validation Interviews
 
