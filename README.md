@@ -2113,7 +2113,7 @@ __Capturas de Documentación__
 
 A continuación, se incluyen capturas de pantalla de la interacción con la documentación elaborada, utilizando datos de muestra:
 
-VISTA GENERAL:
+
 ![Imagen 1: Vista general de la documentación de la API](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FGAMPI34.png?alt=media&token=7cc92330-c4a7-41c7-9b9c-1dcd5bcbcf35)
 
 ![Imagen 1: Vista general de la documentación de la API](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FGAMPI3.png?alt=media&token=98bb4eb4-6ead-4a90-9a64-cf94fa33ddba)
