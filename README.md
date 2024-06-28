@@ -117,7 +117,7 @@ Pecuario Pro
   <td>12.0</td>
   <td>28/06/2024</td>
   <td>Ernesto David casaverde</td>
-  <td>- deploy landing page.<br> -Correciones al informe</td>
+  <td>- backend.<br> -Correciones al informe</td>
 </tr>
 <tr>
   <td>12.0</td>
@@ -147,7 +147,10 @@ Pecuario Pro
 |----------------------|
 | https://github.com/orgs/PecuarioPro/repositories |
 
-**Este apartado le pertenece a Ernesto HACE.**
+Con todo lo Aportado en el proyecto hacemos el analisi grupal y obtenemos el siguiente grafico para afirmar que todos contribuimos:
+
+![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fevidenve_sprint3.png?alt=media&token=a2c93453-f8da-408d-bc9b-6464c8a00e33)
+
 
 # CONTENIDO
 
@@ -2287,15 +2290,11 @@ commits:
 ![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2FBernes.png?alt=media&token=0bac1b6f-bc93-495f-80c0-57b308d38096)
 
 
-Con todo lo Aportado en el proyecto hacemos el analisi grupal y obtenemos el siguiente grafico para afirmar que todos contribuimos:
-
-![Texto alternativo](https://firebasestorage.googleapis.com/v0/b/pecuariopro.appspot.com/o/repopecuaariopro%2Fevidenve_sprint3.png?alt=media&token=a2c93453-f8da-408d-bc9b-6464c8a00e33)
-
 
 ## 5.3. Validation Interviews
 
 Esta parte del informe presentará la parte objetiva de las entrevistas de validación junto con el análisis relevante de cada una de ellas.
-**Este apartado le pertenece aALEX HACE.**
+
 
 ### 5.3.1. Diseño de Entrevistas.
 ## Preguntas principales:
