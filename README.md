@@ -1802,7 +1802,6 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
 
 
 #### 5.2.3.2. Sprint Backlog 3.
-
 <table>
   <tr>
     <th>Sprint 3</th>
@@ -1854,7 +1853,7 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
   </tr>
   <tr>
     <td>004</td>
-    <td> Registrar Animal</td>
+    <td>Registrar Animal</td>
     <td>4</td>
     <td>Story 004 Registrar Animal</td>
     <td>Como usuario del sistema, quiero poder registrar un bovino en un lote específico para llevar un control detallado de la crianza y manejo de cada animal.</td>
@@ -1923,7 +1922,7 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
     <td>Done</td>
   </tr>
   <tr>
-    <td>012</td>
+    <td>013</td>
     <td>Búsqueda de Personal</td>
     <td>11</td>
     <td>Story 013 Búsqueda de Personal</td>
@@ -1944,7 +1943,7 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
   </tr>
   <tr>
     <td>008</td>
-    <td> Asociar Empleados</td>
+    <td>Asociar Empleados</td>
     <td>13</td>
     <td>Story 008 Asociar Empleados</td>
     <td>Como usuario de una empresa ganadera, quiero poder asignar empleados que trabajarán en la empresa para organizar mejor a su personal para campañas.</td>
@@ -1952,10 +1951,9 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
     <td>Vásquez Villalobos, Elverth Jair</td>
     <td>Done</td>
   </tr>
-  </tr>
   <tr>
     <td>TS004</td>
-    <td> Registrar Animal</td>
+    <td>Registrar Animal</td>
     <td>14</td>
     <td>Technical Story 008 Registrar Animales</td>
     <td>Como desarrollador, quiero crear un registro de bovinos en un lote específico para que se pueda llevar un control detallado de la crianza y manejo de cada animal.</td>
@@ -1963,48 +1961,45 @@ Story 016: Descubrir las secciones informativas (4 Story Points)
     <td>Vásquez Villalobos, Elverth Jair</td>
     <td>Done</td>
   </tr>
-    <tr>
+  <tr>
     <td>TS007</td>
     <td>Crear Campaña</td>
     <td>15</td>
-    <td>Technical Story 007 Crear Campaña </td>
+    <td>Technical Story 007 Crear Campaña</td>
     <td>Como desarrollador de la plataforma, quiero poder crear una campaña para engordar el ganado que yo desee asignar.</td>
     <td>4.00</td>
     <td>Vásquez Villalobos, Elverth Jair</td>
     <td>Done</td>
   </tr>
-    </tr>
-    <tr>
+  <tr>
     <td>TS009</td>
-    <td>Gestion De Campaña</td>
-    <td>15</td>
-    <td>Technical Story 009 Gestion de Campaña </td>
+    <td>Gestión De Campaña</td>
+    <td>16</td>
+    <td>Technical Story 009 Gestión de Campaña</td>
     <td>Como desarrollador de la plataforma, quiero desarrollar una herramienta para manejar las campañas que se organicen con la aplicación.</td>
     <td>4.00</td>
     <td>Vásquez Villalobos, Elverth Jair</td>
     <td>Done</td>
   </tr>
-   </tr>
-    </tr>
-    <tr>
+  <tr>
     <td>TS006</td>
-    <td>Gestion De animales</td>
-    <td>15</td>
-    <td>Technical Story 006 Gestion de animales </td>
+    <td>Gestión De Animales</td>
+    <td>17</td>
+    <td>Technical Story 006 Gestión de Animales</td>
     <td>Como desarrollador, quiero crear una herramienta de gestionar animales para manejar fácilmente la información que se necesita.</td>
     <td>4.00</td>
     <td>Vásquez Villalobos, Elverth Jair</td>
     <td>Done</td>
   </tr>
   <tr>
-    <td>012</td>
+    <td>TS012</td>
     <td>Registro de Personal</td>
-    <td>10</td>
+    <td>18</td>
     <td>Technical Story 012 Registro de Personal</td>
-    <td>Como desarrollador, voy a implementar las funciones para que los usuarios puedan registrar a empleados</td>
+    <td>Como desarrollador, voy a implementar las funciones para que los usuarios puedan registrar a empleados.</td>
     <td>4.00</td>
     <td>Soriano Medrano, Diego</td>
-    <td>In-Progcess</td>
+    <td>In-Process</td>
   </tr>
 </table>
 
