@@ -2314,7 +2314,6 @@ Preguntas sobre el proyecto:
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-**Este apartado le pertenece ALEX HACE.**
 
 ### 5.4. Video About-the-Product.
 
